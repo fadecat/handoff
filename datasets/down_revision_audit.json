@@ -1,0 +1,76 @@
+[
+ {
+  "bond_id": "118072",
+  "bond_nm": "鼎通转债",
+  "stock_id": "688668",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于本次股东会召开日前二十个交易日公司股票交易均价和前一交易日均价。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价计算。",
+  "anchor_count": 4,
+  "block_count": 4,
+  "rev_blocks": 1,
+  "union_windows": 1,
+  "avg_20_basis": null,
+  "avg_1_basis": null,
+  "uses_higher": false,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [],
+  "ratio_candidates": [],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "208.845",
+   "convert_price": "245.700"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "123211",
+  "bond_nm": "阳谷转债",
+  "stock_id": "300121",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于该次股东大会召开日前二十个交易日公司股票交易均价和前一交易日均价之间的较高者。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价格计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价格计算。",
+  "anchor_count": 4,
+  "block_count": 4,
+  "rev_blocks": 2,
+  "union_windows": 2,
+  "avg_20_basis": null,
+  "avg_1_basis": null,
+  "uses_higher": false,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [],
+  "ratio_candidates": [],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "7.820",
+   "convert_price": "9.200"
+  },
+  "llm_local_agree_net_asset": true
+ }
+]

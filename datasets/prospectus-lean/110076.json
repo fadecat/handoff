@@ -1,0 +1,491 @@
+{
+ "bond_id": "110076",
+ "bond_nm": "华海转债",
+ "stock_id": "600521",
+ "stock_nm": "华海药业",
+ "source": {
+  "site": "CNINFO",
+  "discovered_from": "jisilu",
+  "title": "浙江华海药业股份有限公司公开发行可转换公司债券募集说明书",
+  "official_pdf_url": "https://static.cninfo.com.cn/finalpage/2020-10-29/1208639643.PDF",
+  "artifact_id": "sha256:18411cea03bc451d992ff7e50c8ce787e75c70bd541fa3e463e39659fefb746e:6652462",
+  "sha256": "18411cea03bc451d992ff7e50c8ce787e75c70bd541fa3e463e39659fefb746e",
+  "content_length": 6652462,
+  "archive_path": "C:\\Users\\hc\\Desktop\\web\\.workbuddy\\datasets\\prospectus-lean\\archive\\110076.pdf",
+  "selected_pages": [
+   1,
+   15,
+   16,
+   17,
+   18,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   43,
+   44,
+   45,
+   46,
+   58,
+   59,
+   60
+  ]
+ },
+ "status": "SUCCESS",
+ "extraction_profile": "STABLE_CONTRACT_FIELDS_V1",
+ "model": "deepseek-chat",
+ "terms": {
+  "down_revision": {
+   "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+   "bondholder_abstention_required": null,
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "PRESENT",
+   "observation_window": 30,
+   "par_value_floor_clause": "PRESENT",
+   "required_days": 15,
+   "shareholder_vote_approval_denominator": null,
+   "shareholder_vote_approval_numerator": null,
+   "trigger_ratio": "0.8"
+  },
+  "put": {
+   "accrued_interest_rule": "按面值加上当期应计利息的价格",
+   "annual_exercise_limit": "在每年回售条件首次满足后可按上述约定条件行使回售权一次",
+   "eligible_period_last_n": 2,
+   "eligible_period_rule": "LAST_N_COUPON_YEARS",
+   "observation_window": null,
+   "proceeds_use_change_put_clause": "PRESENT",
+   "put_price_rule": "按面值加上当期应计利息的价格",
+   "required_days": null,
+   "trigger_ratio": "0.7"
+  }
+ },
+ "data_gaps": [
+  {
+   "field_path": "down_revision.bondholder_abstention_required",
+   "reason": "The supplied pages state that shareholders holding the convertible bonds must abstain from voting at the shareholders' meeting, but do not state whether bondholders must abstain in a bondholders' meeting."
+  },
+  {
+   "field_path": "down_revision.shareholder_vote_approval_denominator",
+   "reason": "The supplied pages state approval by more than two-thirds of voting rights held by attending shareholders, but do not specify the denominator as a numeric count."
+  },
+  {
+   "field_path": "down_revision.shareholder_vote_approval_numerator",
+   "reason": "The supplied pages state approval by more than two-thirds of voting rights held by attending shareholders, but do not specify the numerator as a numeric count."
+  },
+  {
+   "field_path": "put.observation_window",
+   "reason": "The supplied pages state the put trigger uses any continuous 30 trading days, but do not separately state an observation window for the put clause."
+  },
+  {
+   "field_path": "put.required_days",
+   "reason": "The supplied pages state the put trigger uses any continuous 30 trading days, but do not separately state a required number of days for the put clause."
+  }
+ ],
+ "not_extracted_count": 22,
+ "raw": {
+  "bond_code": "110076",
+  "data_gaps": [
+   {
+    "field_path": "down_revision.adjustment_day_treatment",
+    "reason": "The supplied pages describe the downward revision trigger and approval requirements but do not state how trading days are treated when a conversion price adjustment occurs within the observation window."
+   },
+   {
+    "field_path": "down_revision.bondholder_abstention_required",
+    "reason": "The supplied pages state that shareholders holding the convertible bonds must abstain from voting at the shareholders' meeting, but do not state whether bondholders must abstain in a bondholders' meeting."
+   },
+   {
+    "field_path": "down_revision.shareholder_vote_approval_denominator",
+    "reason": "The supplied pages state approval by more than two-thirds of voting rights held by attending shareholders, but do not specify the denominator as a numeric count."
+   },
+   {
+    "field_path": "down_revision.shareholder_vote_approval_numerator",
+    "reason": "The supplied pages state approval by more than two-thirds of voting rights held by attending shareholders, but do not specify the numerator as a numeric count."
+   },
+   {
+    "field_path": "put.observation_window",
+    "reason": "The supplied pages state the put trigger uses any continuous 30 trading days, but do not separately state an observation window for the put clause."
+   },
+   {
+    "field_path": "put.required_days",
+    "reason": "The supplied pages state the put trigger uses any continuous 30 trading days, but do not separately state a required number of days for the put clause."
+   },
+   {
+    "field_path": "redemption.observation_window",
+    "reason": "The supplied pages state the conditional redemption trigger uses any continuous 30 trading days, but do not separately state an observation window for the redemption clause."
+   },
+   {
+    "field_path": "redemption.required_days",
+    "reason": "The supplied pages state the conditional redemption trigger uses any continuous 30 trading days, but do not separately state a required number of days for the redemption clause."
+   }
+  ],
+  "evidence": [
+   {
+    "field_path": "conversion.contractual_period_start",
+    "page_number": 28,
+    "excerpt": "本次发行可转债转股期自发行结束之日 2020 年 11 月 6 日起满六个月后的第一个交易日（2021 年 5 月 6 日）起至可转债到期日（2026 年 11 月 1 日）止。",
+    "value_surface": "2021 年 5 月 6 日"
+   },
+   {
+    "field_path": "conversion.initial_conversion_price",
+    "page_number": 28,
+    "excerpt": "本次发行的可转换公司债券的初始转股价格为 34.66 元/股，不低于募集说明书公告日前二十个交易日公司股票交易均价",
+    "value_surface": "34.66"
+   },
+   {
+    "field_path": "conversion.initial_price_bases[0]",
+    "page_number": 28,
+    "excerpt": "本次发行的可转换公司债券的初始转股价格为 34.66 元/股，不低于募集说明书公告日前二十个交易日公司股票交易均价",
+    "value_surface": "募集说明书公告日前二十个交易日公司股票交易均价"
+   },
+   {
+    "field_path": "conversion.initial_price_bases[1]",
+    "page_number": 28,
+    "excerpt": "本次发行的可转换公司债券的初始转股价格为 34.66 元/股，不低于募集说明书公告日前二十个交易日公司股票交易均价（若在该二十个交易日内发生过因除权、除息引起股价调整的情形，则对调整前交易日的收盘价按经过相应除权、除息调整后的价格计算）和前一个交易日公司股票交易均价。",
+    "value_surface": "前一个交易日公司股票交易均价"
+   },
+   {
+    "field_path": "conversion.period_end",
+    "page_number": 28,
+    "excerpt": "本次发行可转债转股期自发行结束之日 2020 年 11 月 6 日起满六个月后的第一个交易日（2021 年 5 月 6 日）起至可转债到期日（2026 年 11 月 1 日）止。",
+    "value_surface": "2026 年 11 月 1 日"
+   },
+   {
+    "field_path": "down_revision.below_net_asset_contract_position",
+    "page_number": 30,
+    "excerpt": "最近一期经审计的每股净资产值和股票面值。",
+    "value_surface": "最近一期经审计的每股净资产值和股票面值"
+   },
+   {
+    "field_path": "down_revision.meeting_price_bases[0]",
+    "page_number": 29,
+    "excerpt": "修正后的转股价格应不低于该次股东大会召开日前二十个交易日公司股票交易均价和前一个交易日公司股票交易均价，同时，修正后的转股价格不得低于",
+    "value_surface": "该次股东大会召开日前二十个交易日公司股票交易均价"
+   },
+   {
+    "field_path": "down_revision.meeting_price_bases[1]",
+    "page_number": 29,
+    "excerpt": "修正后的转股价格应不低于该次股东大会召开日前二十个交易日公司股票交易均价和前一个交易日公司股票交易均价，同时，修正后的转股价格不得低于",
+    "value_surface": "前一个交易日公司股票交易均价"
+   },
+   {
+    "field_path": "down_revision.net_asset_floor_clause",
+    "page_number": 30,
+    "excerpt": "最近一期经审计的每股净资产值和股票面值。",
+    "value_surface": "最近一期经审计的每股净资产值"
+   },
+   {
+    "field_path": "down_revision.observation_window",
+    "page_number": 29,
+    "excerpt": "在可转债存续期间，当公司股票在任意三十个连续交易日中至少十五个交易日收盘价格低于当期转股价格的 80%时，董事会有权提出转股价格向下修正方案",
+    "value_surface": "三十个连续交易日"
+   },
+   {
+    "field_path": "down_revision.par_value_floor_clause",
+    "page_number": 30,
+    "excerpt": "最近一期经审计的每股净资产值和股票面值。",
+    "value_surface": "股票面值"
+   },
+   {
+    "field_path": "down_revision.required_days",
+    "page_number": 29,
+    "excerpt": "在可转债存续期间，当公司股票在任意三十个连续交易日中至少十五个交易日收盘价格低于当期转股价格的 80%时，董事会有权提出转股价格向下修正方案",
+    "value_surface": "十五个交易日"
+   },
+   {
+    "field_path": "down_revision.trigger_ratio",
+    "page_number": 29,
+    "excerpt": "在可转债存续期间，当公司股票在任意三十个连续交易日中至少十五个交易日收盘价格低于当期转股价格的 80%时，董事会有权提出转股价格向下修正方案",
+    "value_surface": "80%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[0].coupon_year",
+    "page_number": 27,
+    "excerpt": "本次发行的可转债票面利率设定为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第一年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[0].rate_percent",
+    "page_number": 27,
+    "excerpt": "本次发行的可转债票面利率设定为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "0.30%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[1].coupon_year",
+    "page_number": 27,
+    "excerpt": "本次发行的可转债票面利率设定为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第二年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[1].rate_percent",
+    "page_number": 27,
+    "excerpt": "本次发行的可转债票面利率设定为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "0.50%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[2].coupon_year",
+    "page_number": 27,
+    "excerpt": "本次发行的可转债票面利率设定为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第三年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[2].rate_percent",
+    "page_number": 27,
+    "excerpt": "本次发行的可转债票面利率设定为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "1.00%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[3].coupon_year",
+    "page_number": 27,
+    "excerpt": "本次发行的可转债票面利率设定为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第四年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[3].rate_percent",
+    "page_number": 27,
+    "excerpt": "本次发行的可转债票面利率设定为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "1.50%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[4].coupon_year",
+    "page_number": 27,
+    "excerpt": "本次发行的可转债票面利率设定为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第五年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[4].rate_percent",
+    "page_number": 27,
+    "excerpt": "本次发行的可转债票面利率设定为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "1.80%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[5].coupon_year",
+    "page_number": 27,
+    "excerpt": "本次发行的可转债票面利率设定为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第六年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[5].rate_percent",
+    "page_number": 27,
+    "excerpt": "本次发行的可转债票面利率设定为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "2.00%"
+   },
+   {
+    "field_path": "payment.denomination",
+    "page_number": 27,
+    "excerpt": "本次发行可转债每张面值 100 元人民币，按面值发行。",
+    "value_surface": "100 元"
+   },
+   {
+    "field_path": "payment.holiday_deferral_rule",
+    "page_number": 27,
+    "excerpt": "如该日为法定节假日或休息日，则顺延至下一个工作日，顺延期间不另付息。",
+    "value_surface": "如该日为法定节假日或休息日，则顺延至下一个工作日，顺延期间不另付息。"
+   },
+   {
+    "field_path": "payment.issue_date",
+    "page_number": 27,
+    "excerpt": "本次发行可转债的存续期限为自发行之日起 6 年，即自 2020 年 11 月 2 日至 2026 年 11 月 1 日。",
+    "value_surface": "2020 年 11 月 2 日"
+   },
+   {
+    "field_path": "payment.issue_principal",
+    "page_number": 27,
+    "excerpt": "本次拟发行的可转换公司债券总额为人民币 184,260 万元，发行数量为 1,842.60 万张。",
+    "value_surface": "184,260 万元"
+   },
+   {
+    "field_path": "payment.maturity_date",
+    "page_number": 27,
+    "excerpt": "本次发行可转债的存续期限为自发行之日起 6 年，即自 2020 年 11 月 2 日至 2026 年 11 月 1 日。",
+    "value_surface": "2026 年 11 月 1 日"
+   },
+   {
+    "field_path": "payment.maturity_price_includes_final_interest",
+    "page_number": 30,
+    "excerpt": "本次发行可转债到期后五个交易日内，公司将按照债券面值的 110%（含最后一期利息）的价格赎回未转股的可转债。",
+    "value_surface": "含最后一期利息"
+   },
+   {
+    "field_path": "payment.maturity_redemption_price",
+    "page_number": 30,
+    "excerpt": "本次发行可转债到期后五个交易日内，公司将按照债券面值的 110%（含最后一期利息）的价格赎回未转股的可转债。",
+    "value_surface": "110%"
+   },
+   {
+    "field_path": "payment.payment_frequency_per_year",
+    "page_number": 27,
+    "excerpt": "本次发行可转债每年付息一次，到期归还所有未转股的可转债本金和最后一年利息。",
+    "value_surface": "每年付息一次"
+   },
+   {
+    "field_path": "payment.term_years",
+    "page_number": 27,
+    "excerpt": "本次发行可转债的存续期限为自发行之日起 6 年，即自 2020 年 11 月 2 日至 2026 年 11 月 1 日。",
+    "value_surface": "6 年"
+   },
+   {
+    "field_path": "put.accrued_interest_rule",
+    "page_number": 31,
+    "excerpt": "可转债持有人有权将其持有的全部或部分可转债按面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "按面值加上当期应计利息的价格"
+   },
+   {
+    "field_path": "put.annual_exercise_limit",
+    "page_number": 31,
+    "excerpt": "在可转债最后两个计息年度内，可转债持有人在每年回售条件首次满足后可按上述约定条件行使回售权一次；若首次满足回售条件而可转债持有人未在公司届时公告的回售申报期内申报并实施的，该计息年度不应再行使回售权，可转债持有人不能多次行使部分回售权。",
+    "value_surface": "在每年回售条件首次满足后可按上述约定条件行使回售权一次"
+   },
+   {
+    "field_path": "put.eligible_period_last_n",
+    "page_number": 31,
+    "excerpt": "在本次发行的可转债最后两个计息年度内，如果公司股票任意连续三十个交易日收盘价格低于当期转股价格的 70%，可转债持有人有权将其持有的全部或部分可转债按面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "最后两个计息年度"
+   },
+   {
+    "field_path": "put.eligible_period_rule",
+    "page_number": 31,
+    "excerpt": "在本次发行的可转债最后两个计息年度内，如果公司股票任意连续三十个交易日收盘价格低于当期转股价格的 70%，可转债持有人有权将其持有的全部或部分可转债按面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "最后两个计息年度"
+   },
+   {
+    "field_path": "put.proceeds_use_change_put_clause",
+    "page_number": 31,
+    "excerpt": "若公司本次发行可转债募集资金投资项目实施情况与公司在募集说明书中的承诺情况相比出现重大变化，且该变化被中国证监会认定为改变募集资金用途的，可转债持有人享有一次回售权利。",
+    "value_surface": "可转债持有人享有一次回售权利"
+   },
+   {
+    "field_path": "put.put_price_rule",
+    "page_number": 31,
+    "excerpt": "可转债持有人有权将其持有的全部或部分可转债按面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "按面值加上当期应计利息的价格"
+   },
+   {
+    "field_path": "put.trigger_ratio",
+    "page_number": 31,
+    "excerpt": "在本次发行的可转债最后两个计息年度内，如果公司股票任意连续三十个交易日收盘价格低于当期转股价格的 70%，可转债持有人有权将其持有的全部或部分可转债按面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "70%"
+   },
+   {
+    "field_path": "redemption.accrued_interest_redemption_rule",
+    "page_number": 30,
+    "excerpt": "在本次发行的可转债转股期内，当下述任意一种情形出现时，公司有权决定按照以债券面值加当期应计利息的价格赎回全部或部分未转股的可转债：",
+    "value_surface": "按照以债券面值加当期应计利息的价格赎回"
+   },
+   {
+    "field_path": "redemption.maturity_redemption_price_rule",
+    "page_number": 30,
+    "excerpt": "本次发行可转债到期后五个交易日内，公司将按照债券面值的 110%（含最后一期利息）的价格赎回未转股的可转债。",
+    "value_surface": "按照债券面值的 110%（含最后一期利息）的价格赎回未转股的可转债"
+   },
+   {
+    "field_path": "redemption.maturity_redemption_window_days",
+    "page_number": 30,
+    "excerpt": "本次发行可转债到期后五个交易日内，公司将按照债券面值的 110%（含最后一期利息）的价格赎回未转股的可转债。",
+    "value_surface": "五个交易日"
+   },
+   {
+    "field_path": "redemption.outstanding_principal_threshold",
+    "page_number": 30,
+    "excerpt": "②当本次发行可转债未转股余额不足 3,000 万元时。",
+    "value_surface": "3,000 万元"
+   },
+   {
+    "field_path": "redemption.trigger_ratio",
+    "page_number": 30,
+    "excerpt": "①公司股票在任何连续三十个交易日中至少十五个交易日收盘价格不低于当期转股价格的 130%（含 130%）；",
+    "value_surface": "130%"
+   }
+  ],
+  "schema_version": "contract-terms-proposal:pdf-v1",
+  "terms": {
+   "conversion": {
+    "contractual_period_start": "2021-05-06",
+    "initial_conversion_price": "34.66",
+    "initial_price_bases": [
+     "preceding_20_trading_days_average",
+     "preceding_one_trading_day_average"
+    ],
+    "period_end": "2026-11-01"
+   },
+   "down_revision": {
+    "adjustment_day_treatment": null,
+    "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+    "bondholder_abstention_required": null,
+    "meeting_price_bases": [
+     "preceding_20_trading_days_average",
+     "preceding_one_trading_day_average"
+    ],
+    "net_asset_floor_clause": "PRESENT",
+    "observation_window": 30,
+    "par_value_floor_clause": "PRESENT",
+    "required_days": 15,
+    "shareholder_vote_approval_denominator": null,
+    "shareholder_vote_approval_numerator": null,
+    "trigger_ratio": "0.8"
+   },
+   "payment": {
+    "coupon_schedule": [
+     {
+      "coupon_year": 1,
+      "rate_percent": "0.3"
+     },
+     {
+      "coupon_year": 2,
+      "rate_percent": "0.5"
+     },
+     {
+      "coupon_year": 3,
+      "rate_percent": "1"
+     },
+     {
+      "coupon_year": 4,
+      "rate_percent": "1.5"
+     },
+     {
+      "coupon_year": 5,
+      "rate_percent": "1.8"
+     },
+     {
+      "coupon_year": 6,
+      "rate_percent": "2"
+     }
+    ],
+    "denomination": "100",
+    "holiday_deferral_rule": "如该日为法定节假日或休息日，则顺延至下一个工作日，顺延期间不另付息。",
+    "issue_date": "2020-11-02",
+    "issue_principal": "1842600000",
+    "maturity_date": "2026-11-01",
+    "maturity_price_includes_final_interest": true,
+    "maturity_redemption_price": "110",
+    "payment_frequency_per_year": 1,
+    "term_years": 6
+   },
+   "put": {
+    "accrued_interest_rule": "按面值加上当期应计利息的价格",
+    "annual_exercise_limit": "在每年回售条件首次满足后可按上述约定条件行使回售权一次",
+    "eligible_period_last_n": 2,
+    "eligible_period_rule": "LAST_N_COUPON_YEARS",
+    "observation_window": null,
+    "proceeds_use_change_put_clause": "PRESENT",
+    "put_price_rule": "按面值加上当期应计利息的价格",
+    "required_days": null,
+    "trigger_ratio": "0.7"
+   },
+   "redemption": {
+    "accrued_interest_redemption_rule": "按照以债券面值加当期应计利息的价格赎回",
+    "maturity_redemption_price_rule": "按照债券面值的 110%（含最后一期利息）的价格赎回未转股的可转债",
+    "maturity_redemption_window_days": 5,
+    "observation_window": null,
+    "outstanding_principal_threshold": "30000000",
+    "required_days": null,
+    "trigger_ratio": "1.3"
+   }
+  }
+ }
+}

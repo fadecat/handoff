@@ -1,0 +1,486 @@
+{
+ "bond_id": "113655",
+ "bond_nm": "欧22转债",
+ "stock_id": "603833",
+ "stock_nm": "欧派家居",
+ "source": {
+  "site": "CNINFO",
+  "discovered_from": "jisilu",
+  "title": "欧派家居公开发行可转换公司债券募集说明书",
+  "official_pdf_url": "https://static.cninfo.com.cn/finalpage/2022-08-03/1214203101.PDF",
+  "artifact_id": "sha256:9e72fe2ca09cfd4da016c894ee99c74e18ea298987ff96c1ae0103adefee08d8:3041623",
+  "sha256": "9e72fe2ca09cfd4da016c894ee99c74e18ea298987ff96c1ae0103adefee08d8",
+  "content_length": 3041623,
+  "archive_path": "C:\\Users\\hc\\Desktop\\web\\.workbuddy\\datasets\\prospectus-lean\\archive\\113655.pdf",
+  "selected_pages": [
+   1,
+   11,
+   12,
+   13,
+   14,
+   15,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   50,
+   51,
+   52,
+   53,
+   208,
+   209,
+   210
+  ]
+ },
+ "status": "SUCCESS",
+ "extraction_profile": "STABLE_CONTRACT_FIELDS_V1",
+ "model": "deepseek-chat",
+ "terms": {
+  "down_revision": {
+   "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+   "bondholder_abstention_required": null,
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "PRESENT",
+   "observation_window": 30,
+   "par_value_floor_clause": "PRESENT",
+   "required_days": 15,
+   "shareholder_vote_approval_denominator": null,
+   "shareholder_vote_approval_numerator": null,
+   "trigger_ratio": "0.8"
+  },
+  "put": {
+   "accrued_interest_rule": "按面值加上当期应计利息的价格",
+   "annual_exercise_limit": null,
+   "eligible_period_last_n": 1,
+   "eligible_period_rule": "LAST_N_COUPON_YEARS",
+   "observation_window": null,
+   "proceeds_use_change_put_clause": "PRESENT",
+   "put_price_rule": "按面值加上当期应计利息的价格",
+   "required_days": null,
+   "trigger_ratio": "0.7"
+  }
+ },
+ "data_gaps": [
+  {
+   "field_path": "down_revision.bondholder_abstention_required",
+   "reason": "The pages state that shareholders holding the convertible bonds shall abstain, but do not explicitly state whether bondholder abstention is required as a separate boolean term."
+  },
+  {
+   "field_path": "down_revision.shareholder_vote_approval_denominator",
+   "reason": "The pages state approval by more than two-thirds of voting rights held by attending shareholders, but do not provide a numeric denominator."
+  },
+  {
+   "field_path": "down_revision.shareholder_vote_approval_numerator",
+   "reason": "The pages state approval by more than two-thirds of voting rights held by attending shareholders, but do not provide a numeric numerator."
+  },
+  {
+   "field_path": "put.annual_exercise_limit",
+   "reason": "The pages state one exercise per final interest year and one additional put right for proceeds-use change, but do not provide a single annual_exercise_limit value."
+  },
+  {
+   "field_path": "put.observation_window",
+   "reason": "The conditional put clause uses a continuous 30 trading day window, but the schema field is unresolved because the supplied pages do not separately label it as put.observation_window."
+  },
+  {
+   "field_path": "put.required_days",
+   "reason": "The conditional put clause uses a continuous 30 trading day window, but the supplied pages do not separately state a required_days count for the put trigger."
+  }
+ ],
+ "not_extracted_count": 22,
+ "raw": {
+  "bond_code": "113655",
+  "data_gaps": [
+   {
+    "field_path": "down_revision.adjustment_day_treatment",
+    "reason": "The supplied pages describe the adjustment-day calculation for the downward revision trigger, but do not provide a discrete adjustment_day_treatment value beyond the narrative clause."
+   },
+   {
+    "field_path": "down_revision.bondholder_abstention_required",
+    "reason": "The pages state that shareholders holding the convertible bonds shall abstain, but do not explicitly state whether bondholder abstention is required as a separate boolean term."
+   },
+   {
+    "field_path": "down_revision.shareholder_vote_approval_denominator",
+    "reason": "The pages state approval by more than two-thirds of voting rights held by attending shareholders, but do not provide a numeric denominator."
+   },
+   {
+    "field_path": "down_revision.shareholder_vote_approval_numerator",
+    "reason": "The pages state approval by more than two-thirds of voting rights held by attending shareholders, but do not provide a numeric numerator."
+   },
+   {
+    "field_path": "put.annual_exercise_limit",
+    "reason": "The pages state one exercise per final interest year and one additional put right for proceeds-use change, but do not provide a single annual_exercise_limit value."
+   },
+   {
+    "field_path": "put.observation_window",
+    "reason": "The conditional put clause uses a continuous 30 trading day window, but the schema field is unresolved because the supplied pages do not separately label it as put.observation_window."
+   },
+   {
+    "field_path": "put.required_days",
+    "reason": "The conditional put clause uses a continuous 30 trading day window, but the supplied pages do not separately state a required_days count for the put trigger."
+   },
+   {
+    "field_path": "redemption.accrued_interest_redemption_rule",
+    "reason": "The pages provide the accrued interest formula for redemption, but do not provide a discrete accrued_interest_redemption_rule value."
+   },
+   {
+    "field_path": "redemption.maturity_redemption_window_days",
+    "reason": "The pages state redemption within five trading days after maturity, but do not provide a numeric maturity_redemption_window_days value."
+   },
+   {
+    "field_path": "redemption.observation_window",
+    "reason": "The conditional redemption clause uses a continuous 30 trading day window, but the supplied pages do not separately label it as redemption.observation_window."
+   },
+   {
+    "field_path": "redemption.required_days",
+    "reason": "The conditional redemption clause uses at least 15 trading days, but the supplied pages do not separately state a required_days count for redemption."
+   },
+   {
+    "field_path": "payment.holiday_deferral_rule",
+    "reason": "The pages describe payment-date deferral for holidays or rest days, but do not provide a discrete holiday_deferral_rule value."
+   },
+   {
+    "field_path": "payment.maturity_price_includes_final_interest",
+    "reason": "The pages state the maturity redemption price includes the final annual interest, but the schema field is unresolved because the supplied pages do not separately label it as maturity_price_includes_final_interest."
+   }
+  ],
+  "evidence": [
+   {
+    "field_path": "conversion.contractual_period_start",
+    "page_number": 26,
+    "excerpt": "本次发行的可转债转股期自本次可转债发行结束之日（2022 年 8 月 11 日，T+4 日）起满 6 个月后的第一个交易日起至可转债到期日（2028 年 8 月 4 日）止，即 2023 年 2 月 13 日至 2028 年 8 月 4 日。",
+    "value_surface": "2023 年 2 月 13 日"
+   },
+   {
+    "field_path": "conversion.initial_conversion_price",
+    "page_number": 26,
+    "excerpt": "本次发行的可转换公司债券的初始转股价格为 125.46 元/股，不低于募集说明书公告日前二十个交易日公司股票交易均价",
+    "value_surface": "125.46"
+   },
+   {
+    "field_path": "conversion.initial_price_bases[0]",
+    "page_number": 26,
+    "excerpt": "本次发行的可转换公司债券的初始转股价格为 125.46 元/股，不低于募集说明书公告日前二十个交易日公司股票交易均价",
+    "value_surface": "前二十个交易日公司股票交易均价"
+   },
+   {
+    "field_path": "conversion.initial_price_bases[1]",
+    "page_number": 26,
+    "excerpt": "本次发行的可转换公司债券的初始转股价格为 125.46 元/股，不低于募集说明书公告日前二十个交易日公司股票交易均价（若在该二十个交易日内发生过因除权、除息引起股价调整的情形，则对调整前交易日的交易均价按经过相应除权、除息调整后的价格计算）和前一个交易日公司股票交易均价。",
+    "value_surface": "前一个交易日公司股票交易均价"
+   },
+   {
+    "field_path": "conversion.period_end",
+    "page_number": 26,
+    "excerpt": "本次发行的可转债转股期自本次可转债发行结束之日（2022 年 8 月 11 日，T+4 日）起满 6 个月后的第一个交易日起至可转债到期日（2028 年 8 月 4 日）止，即 2023 年 2 月 13 日至 2028 年 8 月 4 日。",
+    "value_surface": "2028 年 8 月 4 日"
+   },
+   {
+    "field_path": "down_revision.below_net_asset_contract_position",
+    "page_number": 27,
+    "excerpt": "修正后的转股价格应不低于本次股东大会召开日前二十个交易日公司股票交易均价和前一交易日均价之间的较高者，且同时不得低于最近一期经审计的每股净资产以及股票面值。",
+    "value_surface": "不得低于最近一期经审计的每股净资产"
+   },
+   {
+    "field_path": "down_revision.meeting_price_bases[0]",
+    "page_number": 27,
+    "excerpt": "修正后的转股价格应不低于本次股东大会召开日前二十个交易日公司股票交易均价和前一交易日均价之间的较高者，且同时不得低于最近一期经审计的每股净资产以及股票面值。",
+    "value_surface": "前二十个交易日公司股票交易均价"
+   },
+   {
+    "field_path": "down_revision.meeting_price_bases[1]",
+    "page_number": 27,
+    "excerpt": "修正后的转股价格应不低于本次股东大会召开日前二十个交易日公司股票交易均价和前一交易日均价之间的较高者，且同时不得低于最近一期经审计的每股净资产以及股票面值。",
+    "value_surface": "前一交易日均价"
+   },
+   {
+    "field_path": "down_revision.net_asset_floor_clause",
+    "page_number": 27,
+    "excerpt": "修正后的转股价格应不低于本次股东大会召开日前二十个交易日公司股票交易均价和前一交易日均价之间的较高者，且同时不得低于最近一期经审计的每股净资产以及股票面值。",
+    "value_surface": "不得低于最近一期经审计的每股净资产"
+   },
+   {
+    "field_path": "down_revision.observation_window",
+    "page_number": 27,
+    "excerpt": "在本次发行的可转换公司债券存续期间，当公司股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的 80%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会表决。",
+    "value_surface": "三十个交易日"
+   },
+   {
+    "field_path": "down_revision.par_value_floor_clause",
+    "page_number": 27,
+    "excerpt": "修正后的转股价格应不低于本次股东大会召开日前二十个交易日公司股票交易均价和前一交易日均价之间的较高者，且同时不得低于最近一期经审计的每股净资产以及股票面值。",
+    "value_surface": "股票面值"
+   },
+   {
+    "field_path": "down_revision.required_days",
+    "page_number": 27,
+    "excerpt": "在本次发行的可转换公司债券存续期间，当公司股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的 80%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会表决。",
+    "value_surface": "十五个交易日"
+   },
+   {
+    "field_path": "down_revision.trigger_ratio",
+    "page_number": 27,
+    "excerpt": "在本次发行的可转换公司债券存续期间，当公司股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的 80%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会表决。",
+    "value_surface": "80%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[0].coupon_year",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券票面利率为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第一年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[0].rate_percent",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券票面利率为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "0.30%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[1].coupon_year",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券票面利率为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第二年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[1].rate_percent",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券票面利率为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "0.50%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[2].coupon_year",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券票面利率为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第三年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[2].rate_percent",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券票面利率为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "1.00%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[3].coupon_year",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券票面利率为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第四年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[3].rate_percent",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券票面利率为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "1.50%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[4].coupon_year",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券票面利率为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第五年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[4].rate_percent",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券票面利率为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "1.80%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[5].coupon_year",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券票面利率为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第六年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[5].rate_percent",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券票面利率为：第一年 0.30%、第二年 0.50%、第三年 1.00%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "2.00%"
+   },
+   {
+    "field_path": "payment.denomination",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券按面值发行，每张面值为人民币 100 元。",
+    "value_surface": "100 元"
+   },
+   {
+    "field_path": "payment.issue_date",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券的期限为自发行之日起六年，即自 2022 年 8 月 5 日（T 日）至 2028 年 8 月 4 日。",
+    "value_surface": "2022 年 8 月 5 日"
+   },
+   {
+    "field_path": "payment.issue_principal",
+    "page_number": 24,
+    "excerpt": "本次发行可转换公司债券募集资金总额不超过人民币 20.00 亿元（含 20.00 亿元），发行数量 20,000,000 张。",
+    "value_surface": "20.00 亿元"
+   },
+   {
+    "field_path": "payment.maturity_date",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券的期限为自发行之日起六年，即自 2022 年 8 月 5 日（T 日）至 2028 年 8 月 4 日。",
+    "value_surface": "2028 年 8 月 4 日"
+   },
+   {
+    "field_path": "payment.maturity_redemption_price",
+    "page_number": 28,
+    "excerpt": "在本次发行的可转换公司债券期满后五个交易日内，公司将以本次可转债的票面面值的 112%（含最后一期年度利息）赎回全部未转股的可转换公司债券。",
+    "value_surface": "112%"
+   },
+   {
+    "field_path": "payment.payment_frequency_per_year",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券采用每年付息一次的付息方式，计息起始日为可转换公司债券发行首日（2022 年 8 月 5 日，T 日）。",
+    "value_surface": "每年付息一次"
+   },
+   {
+    "field_path": "payment.term_years",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券的期限为自发行之日起六年，即自 2022 年 8 月 5 日（T 日）至 2028 年 8 月 4 日。",
+    "value_surface": "六年"
+   },
+   {
+    "field_path": "put.accrued_interest_rule",
+    "page_number": 29,
+    "excerpt": "在本次发行的可转换公司债券最后一个计息年度，如果公司股票在任何连续三十个交易日的收盘价格低于当期转股价格的 70%时，可转换公司债券持有人有权将其持有的可转换公司债券全部或部分按面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "按面值加上当期应计利息的价格"
+   },
+   {
+    "field_path": "put.eligible_period_last_n",
+    "page_number": 29,
+    "excerpt": "在本次发行的可转换公司债券最后一个计息年度，如果公司股票在任何连续三十个交易日的收盘价格低于当期转股价格的 70%时，可转换公司债券持有人有权将其持有的可转换公司债券全部或部分按面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "最后一个计息年度"
+   },
+   {
+    "field_path": "put.eligible_period_rule",
+    "page_number": 29,
+    "excerpt": "在本次发行的可转换公司债券最后一个计息年度，如果公司股票在任何连续三十个交易日的收盘价格低于当期转股价格的 70%时，可转换公司债券持有人有权将其持有的可转换公司债券全部或部分按面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "最后一个计息年度"
+   },
+   {
+    "field_path": "put.proceeds_use_change_put_clause",
+    "page_number": 30,
+    "excerpt": "若本次发行的可转换公司债券募集资金投资项目的实施情况与公司在募集说明书中的承诺情况相比出现重大变化，且该变化被中国证监会认定为改变募集资金用途的，可转换公司债券持有人享有一次回售的权利。",
+    "value_surface": "可转换公司债券持有人享有一次回售的权利"
+   },
+   {
+    "field_path": "put.put_price_rule",
+    "page_number": 29,
+    "excerpt": "在本次发行的可转换公司债券最后一个计息年度，如果公司股票在任何连续三十个交易日的收盘价格低于当期转股价格的 70%时，可转换公司债券持有人有权将其持有的可转换公司债券全部或部分按面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "按面值加上当期应计利息的价格"
+   },
+   {
+    "field_path": "put.trigger_ratio",
+    "page_number": 29,
+    "excerpt": "在本次发行的可转换公司债券最后一个计息年度，如果公司股票在任何连续三十个交易日的收盘价格低于当期转股价格的 70%时，可转换公司债券持有人有权将其持有的可转换公司债券全部或部分按面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "70%"
+   },
+   {
+    "field_path": "redemption.maturity_redemption_price_rule",
+    "page_number": 28,
+    "excerpt": "在本次发行的可转换公司债券期满后五个交易日内，公司将以本次可转债的票面面值的 112%（含最后一期年度利息）赎回全部未转股的可转换公司债券。",
+    "value_surface": "票面面值的 112%（含最后一期年度利息）"
+   },
+   {
+    "field_path": "redemption.outstanding_principal_threshold",
+    "page_number": 29,
+    "excerpt": "当本次发行的可转换公司债券未转股余额不足 3,000 万元时。",
+    "value_surface": "3,000 万元"
+   },
+   {
+    "field_path": "redemption.trigger_ratio",
+    "page_number": 29,
+    "excerpt": "在转股期内，如果公司股票在任何连续三十个交易日中至少十五个交易日的收盘价格不低于当期转股价格的 130%（含 130%）；",
+    "value_surface": "130%"
+   }
+  ],
+  "schema_version": "contract-terms-proposal:pdf-v1",
+  "terms": {
+   "conversion": {
+    "contractual_period_start": "2023-02-13",
+    "initial_conversion_price": "125.46",
+    "initial_price_bases": [
+     "preceding_20_trading_days_average",
+     "preceding_one_trading_day_average"
+    ],
+    "period_end": "2028-08-04"
+   },
+   "down_revision": {
+    "adjustment_day_treatment": null,
+    "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+    "bondholder_abstention_required": null,
+    "meeting_price_bases": [
+     "preceding_20_trading_days_average",
+     "preceding_one_trading_day_average"
+    ],
+    "net_asset_floor_clause": "PRESENT",
+    "observation_window": 30,
+    "par_value_floor_clause": "PRESENT",
+    "required_days": 15,
+    "shareholder_vote_approval_denominator": null,
+    "shareholder_vote_approval_numerator": null,
+    "trigger_ratio": "0.8"
+   },
+   "payment": {
+    "coupon_schedule": [
+     {
+      "coupon_year": 1,
+      "rate_percent": "0.3"
+     },
+     {
+      "coupon_year": 2,
+      "rate_percent": "0.5"
+     },
+     {
+      "coupon_year": 3,
+      "rate_percent": "1"
+     },
+     {
+      "coupon_year": 4,
+      "rate_percent": "1.5"
+     },
+     {
+      "coupon_year": 5,
+      "rate_percent": "1.8"
+     },
+     {
+      "coupon_year": 6,
+      "rate_percent": "2"
+     }
+    ],
+    "denomination": "100",
+    "holiday_deferral_rule": null,
+    "issue_date": "2022-08-05",
+    "issue_principal": "2000000000",
+    "maturity_date": "2028-08-04",
+    "maturity_price_includes_final_interest": null,
+    "maturity_redemption_price": "112",
+    "payment_frequency_per_year": 1,
+    "term_years": 6
+   },
+   "put": {
+    "accrued_interest_rule": "按面值加上当期应计利息的价格",
+    "annual_exercise_limit": null,
+    "eligible_period_last_n": 1,
+    "eligible_period_rule": "LAST_N_COUPON_YEARS",
+    "observation_window": null,
+    "proceeds_use_change_put_clause": "PRESENT",
+    "put_price_rule": "按面值加上当期应计利息的价格",
+    "required_days": null,
+    "trigger_ratio": "0.7"
+   },
+   "redemption": {
+    "accrued_interest_redemption_rule": null,
+    "maturity_redemption_price_rule": "票面面值的 112%（含最后一期年度利息）",
+    "maturity_redemption_window_days": null,
+    "observation_window": null,
+    "outstanding_principal_threshold": "30000000",
+    "required_days": null,
+    "trigger_ratio": "1.3"
+   }
+  }
+ }
+}

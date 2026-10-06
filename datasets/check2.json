@@ -1,0 +1,88 @@
+[
+ {
+  "bond_id": "113681",
+  "bond_nm": "镇洋转债",
+  "stock_id": "603213",
+  "clause_found": true,
+  "snippet": "e.com.cn）或中国证监会指定的其他上市公司信息披露媒体上刊登董事会决议公告，并于公告中载明转股价格调整日、调整办法及暂停转股时期（如需）。当转股价格调整日为本次发行的可转债持有人转股申请日或之后，转换股份登记日之前，则该持有人的转股申请按公司调整后的转股价格执行。当公司可能发生股份回购、合并、分立或任何其他情形使公司股份类别、数量和/或股东权益发生变化从而可能影响本次发行的可转债持有人的债权利益或转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转债持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据届时国家有关法律法规及证券监管部门的相关规定制订。（八）转股价格向下修正条款1、修正权限与修正幅度在本次发行的可转债存续期间，当公司股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会审议表决。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有本次发行的可转债的股东应当回避。修正后的转股价格应不低于前述的股东大会召开",
+  "anchor_count": 4,
+  "clause_score": 6,
+  "union_windows": 4,
+  "avg_20_basis": "均价",
+  "avg_1_basis": null,
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "通过方可实施。股东大会进行表决时，持有本次发行的可转债的股东应当回避。修正后的转股价格应不低于前述的股东大会召开日前二十个交易日公司股票交易均价和前一交易日公司股票交易均价。同时，修正后的转股价格不得低于最近一期经审计的每股1-1-28浙江镇洋发展股份有限公司向不特定对象发行可转换公司债券募集说明书净资产值和股票面值。若在前述三十个交易日",
+  "window_candidates": [
+   30,
+   15,
+   20,
+   30
+  ],
+  "ratio_candidates": [
+   "85"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "PRESENT",
+   "par_value_floor_clause": "PRESENT",
+   "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "9.307",
+   "convert_price": "10.950"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "118073",
+  "bond_nm": "赛斯转债",
+  "stock_id": "688480",
+  "clause_found": true,
+  "snippet": "向不特定对象发行可转换公司债券募集说明书当公司可能发生股份回购、合并、分立或任何其他情形使公司股份类别、数量和/或股东权益发生变化从而可能影响本次发行的可转换公司债券持有人的债权利益或转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转换公司债券持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据届时国家有关法律法规、证券监管部门和上海证券交易所的相关规定来制定。7、转股价格向下修正条款（1）修正权限与修正幅度在本次发行的可转换公司债券存续期间，当公司A股股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东会表决，若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价计算。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东会进行表决时，持有本次可转换公司债券的股东应当回避。修正后的转股价格应不低于该次股东会召开日前二十个交易日公司A股",
+  "anchor_count": 4,
+  "clause_score": 4,
+  "union_windows": 2,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": false,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   30,
+   15,
+   30,
+   20
+  ],
+  "ratio_candidates": [
+   "85"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "PRESENT",
+   "par_value_floor_clause": "PRESENT",
+   "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "73.865",
+   "convert_price": "86.900"
+  },
+  "llm_local_agree_net_asset": false
+ }
+]

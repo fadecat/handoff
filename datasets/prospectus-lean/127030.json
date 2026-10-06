@@ -1,0 +1,490 @@
+{
+ "bond_id": "127030",
+ "bond_nm": "盛虹转债",
+ "stock_id": "000301",
+ "stock_nm": "东方盛虹",
+ "source": {
+  "site": "CNINFO",
+  "discovered_from": "jisilu",
+  "title": "公开发行A股可转换公司债券募集说明书",
+  "official_pdf_url": "https://static.cninfo.com.cn/finalpage/2021-03-18/1209402648.PDF",
+  "artifact_id": "sha256:174a53eae920e4b41089a8a0211e8fcb55acbafba368cdebdc534a5a4e2e39e1:12850477",
+  "sha256": "174a53eae920e4b41089a8a0211e8fcb55acbafba368cdebdc534a5a4e2e39e1",
+  "content_length": 12850477,
+  "archive_path": "C:\\Users\\hc\\Desktop\\web\\.workbuddy\\datasets\\prospectus-lean\\archive\\127030.pdf",
+  "selected_pages": [
+   1,
+   4,
+   5,
+   6,
+   11,
+   12,
+   13,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   43,
+   44,
+   45
+  ]
+ },
+ "status": "SUCCESS",
+ "extraction_profile": "STABLE_CONTRACT_FIELDS_V1",
+ "model": "deepseek-chat",
+ "terms": {
+  "down_revision": {
+   "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+   "bondholder_abstention_required": true,
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "PRESENT",
+   "observation_window": 30,
+   "par_value_floor_clause": "PRESENT",
+   "required_days": 15,
+   "shareholder_vote_approval_denominator": 3,
+   "shareholder_vote_approval_numerator": 2,
+   "trigger_ratio": "0.8"
+  },
+  "put": {
+   "accrued_interest_rule": "按债券面值加上当期应计利息的价格回售给公司",
+   "annual_exercise_limit": "每年回售条件首次满足后可按上述约定条件行使回售权一次",
+   "eligible_period_last_n": 2,
+   "eligible_period_rule": "LAST_N_COUPON_YEARS",
+   "observation_window": 30,
+   "proceeds_use_change_put_clause": "PRESENT",
+   "put_price_rule": "按债券面值加上当期应计利息的价格回售给公司",
+   "required_days": null,
+   "trigger_ratio": "0.7"
+  }
+ },
+ "data_gaps": [
+  {
+   "field_path": "put.required_days",
+   "reason": "回售条款仅规定连续30个交易日的收盘价低于当期转股价的70%，未另行规定满足条件的交易日天数。"
+  }
+ ],
+ "not_extracted_count": 22,
+ "raw": {
+  "bond_code": "127030",
+  "schema_version": "contract-terms-proposal:pdf-v1",
+  "terms": {
+   "conversion": {
+    "contractual_period_start": "2021-09-27",
+    "initial_conversion_price": "14.2",
+    "initial_price_bases": [
+     "preceding_20_trading_days_average",
+     "preceding_one_trading_day_average"
+    ],
+    "period_end": "2027-03-21"
+   },
+   "down_revision": {
+    "adjustment_day_treatment": "若在前述30个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价计算。",
+    "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+    "bondholder_abstention_required": true,
+    "meeting_price_bases": [
+     "preceding_20_trading_days_average",
+     "preceding_one_trading_day_average"
+    ],
+    "net_asset_floor_clause": "PRESENT",
+    "observation_window": 30,
+    "par_value_floor_clause": "PRESENT",
+    "required_days": 15,
+    "shareholder_vote_approval_denominator": 3,
+    "shareholder_vote_approval_numerator": 2,
+    "trigger_ratio": "0.8"
+   },
+   "payment": {
+    "coupon_schedule": [
+     {
+      "coupon_year": 1,
+      "rate_percent": "0.2"
+     },
+     {
+      "coupon_year": 2,
+      "rate_percent": "0.4"
+     },
+     {
+      "coupon_year": 3,
+      "rate_percent": "0.6"
+     },
+     {
+      "coupon_year": 4,
+      "rate_percent": "1.5"
+     },
+     {
+      "coupon_year": 5,
+      "rate_percent": "1.8"
+     },
+     {
+      "coupon_year": 6,
+      "rate_percent": "2"
+     }
+    ],
+    "denomination": "100",
+    "holiday_deferral_rule": "如该日为法定节假日或休息日，则顺延至下一个工作日，顺延期间不另付息。",
+    "issue_date": "2021-03-22",
+    "issue_principal": "5000000000",
+    "maturity_date": "2027-03-21",
+    "maturity_price_includes_final_interest": true,
+    "maturity_redemption_price": "108",
+    "payment_frequency_per_year": 1,
+    "term_years": 6
+   },
+   "put": {
+    "accrued_interest_rule": "按债券面值加上当期应计利息的价格回售给公司",
+    "annual_exercise_limit": "每年回售条件首次满足后可按上述约定条件行使回售权一次",
+    "eligible_period_last_n": 2,
+    "eligible_period_rule": "LAST_N_COUPON_YEARS",
+    "observation_window": 30,
+    "proceeds_use_change_put_clause": "PRESENT",
+    "put_price_rule": "按债券面值加上当期应计利息的价格回售给公司",
+    "required_days": null,
+    "trigger_ratio": "0.7"
+   },
+   "redemption": {
+    "accrued_interest_redemption_rule": "按照债券面值加当期应计利息的价格赎回全部或部分未转股的可转换公司债券",
+    "maturity_redemption_price_rule": "按债券面值的108%（含最后一期利息）的价格赎回全部未转股的可转换公司债券",
+    "maturity_redemption_window_days": 5,
+    "observation_window": 30,
+    "outstanding_principal_threshold": "30000000",
+    "required_days": 15,
+    "trigger_ratio": "1.3"
+   }
+  },
+  "evidence": [
+   {
+    "field_path": "conversion.contractual_period_start",
+    "page_number": 26,
+    "excerpt": "本次发行的可转债转股期自可转债发行结束之日（2021 年 3 月 26 日）满六个月后的第一个交易日（2021 年 9 月 27 日）起至可转债到期日（2027 年 3 月 21 日）止。",
+    "value_surface": "2021 年 9 月 27 日"
+   },
+   {
+    "field_path": "conversion.period_end",
+    "page_number": 26,
+    "excerpt": "本次发行的可转债转股期自可转债发行结束之日（2021 年 3 月 26 日）满六个月后的第一个交易日（2021 年 9 月 27 日）起至可转债到期日（2027 年 3 月 21 日）止。",
+    "value_surface": "2027 年 3 月 21 日"
+   },
+   {
+    "field_path": "conversion.initial_conversion_price",
+    "page_number": 26,
+    "excerpt": "本次发行的可转换公司债券的初始转股价格为 14.20 元/股，不低于募集说明书公告日前 20 个交易日公司 A 股股票交易均价",
+    "value_surface": "14.20"
+   },
+   {
+    "field_path": "conversion.initial_price_bases[0]",
+    "page_number": 26,
+    "excerpt": "本次发行的可转换公司债券的初始转股价格为 14.20 元/股，不低于募集说明书公告日前 20 个交易日公司 A 股股票交易均价",
+    "value_surface": "前 20 个交易日公司 A 股股票交易均价"
+   },
+   {
+    "field_path": "conversion.initial_price_bases[1]",
+    "page_number": 26,
+    "excerpt": "本次发行的可转换公司债券的初始转股价格为 14.20 元/股，不低于募集说明书公告日前 20 个交易日公司 A 股股票交易均价（若在该 20 个交易日内发生过因除权、除息引起股价调整的情形，则对调整前交易日的交易价按经过相应除权、除息调整后的价格计算）和前 1 个交易日公司股票交易均价。",
+    "value_surface": "前 1 个交易日公司股票交易均价"
+   },
+   {
+    "field_path": "down_revision.observation_window",
+    "page_number": 30,
+    "excerpt": "在本次发行的可转换公司债券存续期间，当公司股票在任意 30 个连续交易日中至少 15 个交易日的收盘价格低于当期转股价格的 80%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会表决。",
+    "value_surface": "30"
+   },
+   {
+    "field_path": "down_revision.required_days",
+    "page_number": 30,
+    "excerpt": "在本次发行的可转换公司债券存续期间，当公司股票在任意 30 个连续交易日中至少 15 个交易日的收盘价格低于当期转股价格的 80%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会表决。",
+    "value_surface": "15"
+   },
+   {
+    "field_path": "down_revision.trigger_ratio",
+    "page_number": 30,
+    "excerpt": "在本次发行的可转换公司债券存续期间，当公司股票在任意 30 个连续交易日中至少 15 个交易日的收盘价格低于当期转股价格的 80%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会表决。",
+    "value_surface": "80%"
+   },
+   {
+    "field_path": "down_revision.shareholder_vote_approval_numerator",
+    "page_number": 30,
+    "excerpt": "上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。",
+    "value_surface": "二"
+   },
+   {
+    "field_path": "down_revision.shareholder_vote_approval_denominator",
+    "page_number": 30,
+    "excerpt": "上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。",
+    "value_surface": "三"
+   },
+   {
+    "field_path": "down_revision.bondholder_abstention_required",
+    "page_number": 30,
+    "excerpt": "股东大会进行表决时，持有本次发行的可转换公司债券的股东应当回避。",
+    "value_surface": "应当回避"
+   },
+   {
+    "field_path": "down_revision.meeting_price_bases[0]",
+    "page_number": 30,
+    "excerpt": "修正后的转股价格应不低于前述的股东大会召开日前二十个交易日公司 A 股股票交易均价和前一个交易日公司 A 股股票交易均价之间的较高者。",
+    "value_surface": "前二十个交易日公司 A 股股票交易均价"
+   },
+   {
+    "field_path": "down_revision.meeting_price_bases[1]",
+    "page_number": 30,
+    "excerpt": "修正后的转股价格应不低于前述的股东大会召开日前二十个交易日公司 A 股股票交易均价和前一个交易日公司 A 股股票交易均价之间的较高者。",
+    "value_surface": "前一个交易日公司 A 股股票交易均价"
+   },
+   {
+    "field_path": "down_revision.adjustment_day_treatment",
+    "page_number": 30,
+    "excerpt": "若在前述 30 个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价计算。",
+    "value_surface": "在转股价格调整日前的交易日按调整前的转股价格和收盘价计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价计算"
+   },
+   {
+    "field_path": "down_revision.net_asset_floor_clause",
+    "page_number": 30,
+    "excerpt": "同时，修正后的转股价格不得低于最近一期经审计的每股净资产值和股票面值。",
+    "value_surface": "不得低于最近一期经审计的每股净资产值"
+   },
+   {
+    "field_path": "down_revision.par_value_floor_clause",
+    "page_number": 30,
+    "excerpt": "同时，修正后的转股价格不得低于最近一期经审计的每股净资产值和股票面值。",
+    "value_surface": "股票面值"
+   },
+   {
+    "field_path": "down_revision.below_net_asset_contract_position",
+    "page_number": 30,
+    "excerpt": "同时，修正后的转股价格不得低于最近一期经审计的每股净资产值和股票面值。",
+    "value_surface": "不得低于最近一期经审计的每股净资产值"
+   },
+   {
+    "field_path": "payment.issue_principal",
+    "page_number": 25,
+    "excerpt": "本次拟发行 A 股可转债总额为人民币 500,000 万元，发行数量为 5,000 万张。",
+    "value_surface": "500,000 万元"
+   },
+   {
+    "field_path": "payment.denomination",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券每张面值为人民币 100 元，按面值发行。",
+    "value_surface": "100 元"
+   },
+   {
+    "field_path": "payment.issue_date",
+    "page_number": 25,
+    "excerpt": "本次发行的可转债期限为发行之日起六年，即自 2021 年 3 月 22 日至 2027 年 3 月 21 日（如该日为法定节假日或休息日，则顺延至下一个交易日）。",
+    "value_surface": "2021 年 3 月 22 日"
+   },
+   {
+    "field_path": "payment.maturity_date",
+    "page_number": 25,
+    "excerpt": "本次发行的可转债期限为发行之日起六年，即自 2021 年 3 月 22 日至 2027 年 3 月 21 日（如该日为法定节假日或休息日，则顺延至下一个交易日）。",
+    "value_surface": "2027 年 3 月 21 日"
+   },
+   {
+    "field_path": "payment.term_years",
+    "page_number": 25,
+    "excerpt": "本次发行的可转债期限为发行之日起六年，即自 2021 年 3 月 22 日至 2027 年 3 月 21 日（如该日为法定节假日或休息日，则顺延至下一个交易日）。",
+    "value_surface": "六年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[0].coupon_year",
+    "page_number": 25,
+    "excerpt": "第一年 0.20%、第二年 0.40%、第三年 0.60%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第一年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[0].rate_percent",
+    "page_number": 25,
+    "excerpt": "第一年 0.20%、第二年 0.40%、第三年 0.60%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "0.20%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[1].coupon_year",
+    "page_number": 25,
+    "excerpt": "第一年 0.20%、第二年 0.40%、第三年 0.60%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第二年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[1].rate_percent",
+    "page_number": 25,
+    "excerpt": "第一年 0.20%、第二年 0.40%、第三年 0.60%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "0.40%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[2].coupon_year",
+    "page_number": 25,
+    "excerpt": "第一年 0.20%、第二年 0.40%、第三年 0.60%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第三年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[2].rate_percent",
+    "page_number": 25,
+    "excerpt": "第一年 0.20%、第二年 0.40%、第三年 0.60%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "0.60%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[3].coupon_year",
+    "page_number": 25,
+    "excerpt": "第一年 0.20%、第二年 0.40%、第三年 0.60%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第四年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[3].rate_percent",
+    "page_number": 25,
+    "excerpt": "第一年 0.20%、第二年 0.40%、第三年 0.60%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "1.50%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[4].coupon_year",
+    "page_number": 25,
+    "excerpt": "第一年 0.20%、第二年 0.40%、第三年 0.60%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第五年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[4].rate_percent",
+    "page_number": 25,
+    "excerpt": "第一年 0.20%、第二年 0.40%、第三年 0.60%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "1.80%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[5].coupon_year",
+    "page_number": 25,
+    "excerpt": "第一年 0.20%、第二年 0.40%、第三年 0.60%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "第六年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[5].rate_percent",
+    "page_number": 25,
+    "excerpt": "第一年 0.20%、第二年 0.40%、第三年 0.60%、第四年 1.50%、第五年 1.80%、第六年 2.00%。",
+    "value_surface": "2.00%"
+   },
+   {
+    "field_path": "payment.payment_frequency_per_year",
+    "page_number": 25,
+    "excerpt": "本次发行的可转换公司债券采用每年付息一次的付息方式，到期归还本金和最后一年利息。",
+    "value_surface": "每年付息一次"
+   },
+   {
+    "field_path": "payment.holiday_deferral_rule",
+    "page_number": 26,
+    "excerpt": "如该日为法定节假日或休息日，则顺延至下一个工作日，顺延期间不另付息。",
+    "value_surface": "顺延至下一个工作日，顺延期间不另付息"
+   },
+   {
+    "field_path": "payment.maturity_redemption_price",
+    "page_number": 25,
+    "excerpt": "到期赎回价为 108 元（含最后一期利息）。",
+    "value_surface": "108 元"
+   },
+   {
+    "field_path": "payment.maturity_price_includes_final_interest",
+    "page_number": 25,
+    "excerpt": "到期赎回价为 108 元（含最后一期利息）。",
+    "value_surface": "含最后一期利息"
+   },
+   {
+    "field_path": "redemption.maturity_redemption_window_days",
+    "page_number": 30,
+    "excerpt": "本次发行的可转换公司债券期满后五个交易日内，公司将按债券面值的 108%（含最后一期利息）的价格赎回全部未转股的可转换公司债券。",
+    "value_surface": "五个交易日"
+   },
+   {
+    "field_path": "redemption.maturity_redemption_price_rule",
+    "page_number": 30,
+    "excerpt": "本次发行的可转换公司债券期满后五个交易日内，公司将按债券面值的 108%（含最后一期利息）的价格赎回全部未转股的可转换公司债券。",
+    "value_surface": "按债券面值的 108%（含最后一期利息）的价格赎回全部未转股的可转换公司债券"
+   },
+   {
+    "field_path": "redemption.observation_window",
+    "page_number": 31,
+    "excerpt": "在本次发行的可转换公司债券转股期内，如果公司股票连续 30 个交易日中至少有 15 个交易日的收盘价格不低于当期转股价格的 130%（含 130%）。",
+    "value_surface": "30"
+   },
+   {
+    "field_path": "redemption.required_days",
+    "page_number": 31,
+    "excerpt": "在本次发行的可转换公司债券转股期内，如果公司股票连续 30 个交易日中至少有 15 个交易日的收盘价格不低于当期转股价格的 130%（含 130%）。",
+    "value_surface": "15"
+   },
+   {
+    "field_path": "redemption.trigger_ratio",
+    "page_number": 31,
+    "excerpt": "在本次发行的可转换公司债券转股期内，如果公司股票连续 30 个交易日中至少有 15 个交易日的收盘价格不低于当期转股价格的 130%（含 130%）。",
+    "value_surface": "130%"
+   },
+   {
+    "field_path": "redemption.outstanding_principal_threshold",
+    "page_number": 31,
+    "excerpt": "当本次发行的可转换公司债券未转股余额不足人民币 3,000 万元。",
+    "value_surface": "3,000 万元"
+   },
+   {
+    "field_path": "redemption.accrued_interest_redemption_rule",
+    "page_number": 30,
+    "excerpt": "公司董事会有权决定按照债券面值加当期应计利息的价格赎回全部或部分未转股的可转换公司债券：",
+    "value_surface": "按照债券面值加当期应计利息的价格赎回全部或部分未转股的可转换公司债券"
+   },
+   {
+    "field_path": "put.eligible_period_rule",
+    "page_number": 31,
+    "excerpt": "本次发行的可转换公司债券的最后两个计息年度，如果公司 A 股股票在任何连续 30 个交易日的收盘价低于当期转股价的 70%时，可转换公司债券持有人有权将其持有的可转换公司债券全部或部分按债券面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "最后两个计息年度"
+   },
+   {
+    "field_path": "put.eligible_period_last_n",
+    "page_number": 31,
+    "excerpt": "本次发行的可转换公司债券的最后两个计息年度，如果公司 A 股股票在任何连续 30 个交易日的收盘价低于当期转股价的 70%时，可转换公司债券持有人有权将其持有的可转换公司债券全部或部分按债券面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "两个"
+   },
+   {
+    "field_path": "put.observation_window",
+    "page_number": 31,
+    "excerpt": "本次发行的可转换公司债券的最后两个计息年度，如果公司 A 股股票在任何连续 30 个交易日的收盘价低于当期转股价的 70%时，可转换公司债券持有人有权将其持有的可转换公司债券全部或部分按债券面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "30"
+   },
+   {
+    "field_path": "put.trigger_ratio",
+    "page_number": 31,
+    "excerpt": "本次发行的可转换公司债券的最后两个计息年度，如果公司 A 股股票在任何连续 30 个交易日的收盘价低于当期转股价的 70%时，可转换公司债券持有人有权将其持有的可转换公司债券全部或部分按债券面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "70%"
+   },
+   {
+    "field_path": "put.put_price_rule",
+    "page_number": 31,
+    "excerpt": "本次发行的可转换公司债券的最后两个计息年度，如果公司 A 股股票在任何连续 30 个交易日的收盘价低于当期转股价的 70%时，可转换公司债券持有人有权将其持有的可转换公司债券全部或部分按债券面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "按债券面值加上当期应计利息的价格回售给公司"
+   },
+   {
+    "field_path": "put.accrued_interest_rule",
+    "page_number": 31,
+    "excerpt": "本次发行的可转换公司债券的最后两个计息年度，如果公司 A 股股票在任何连续 30 个交易日的收盘价低于当期转股价的 70%时，可转换公司债券持有人有权将其持有的可转换公司债券全部或部分按债券面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "按债券面值加上当期应计利息的价格回售给公司"
+   },
+   {
+    "field_path": "put.annual_exercise_limit",
+    "page_number": 31,
+    "excerpt": "本次发行的可转换公司债券的最后两个计息年度，可转换公司债券持有人在每年回售条件首次满足后可按上述约定条件行使回售权一次，若在首次满足回售",
+    "value_surface": "每年回售条件首次满足后可按上述约定条件行使回售权一次"
+   },
+   {
+    "field_path": "put.proceeds_use_change_put_clause",
+    "page_number": 32,
+    "excerpt": "若公司本次发行的可转换公司债券募集资金投资项目的实施情况与公司在募集说明书中的承诺情况相比出现重大变化，且该变化根据中国证监会的相关规定被视作改变募集资金用途或被中国证监会认定为改变募集资金用途的，可转换公司债券持有人享有一次回售的权利。",
+    "value_surface": "可转换公司债券持有人享有一次回售的权利"
+   }
+  ],
+  "data_gaps": [
+   {
+    "field_path": "put.required_days",
+    "reason": "回售条款仅规定连续30个交易日的收盘价低于当期转股价的70%，未另行规定满足条件的交易日天数。"
+   }
+  ]
+ }
+}

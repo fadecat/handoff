@@ -1,0 +1,9245 @@
+[
+ {
+  "bond_id": "123223",
+  "bond_nm": "九典转02",
+  "candidates": [
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-09-13",
+    "id": "1217835212",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书的提示性公告",
+    "date": "2023-09-13",
+    "id": "1217835211",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-09-13",
+    "id": "1217835210",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123222",
+  "bond_nm": "博俊转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券之募集说明书摘要",
+    "date": "2023-09-06",
+    "id": "1217785130",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券之募集说明书",
+    "date": "2023-09-06",
+    "id": "1217785125",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-09-06",
+    "id": "1217785121",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券之募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123220",
+  "bond_nm": "易瑞转债",
+  "candidates": [
+   {
+    "title": "深圳市易瑞生物技术股份有限公司创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-08-16",
+    "id": "1217544361",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-08-16",
+    "id": "1217544357",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "深圳市易瑞生物技术股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-08-16",
+    "id": "1217544355",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "深圳市易瑞生物技术股份有限公司创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123224",
+  "bond_nm": "宇邦转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-09-15",
+    "id": "1217859811",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-09-15",
+    "id": "1217859810",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-09-15",
+    "id": "1217859805",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "关于向不特定对象发行可转换公司债券募集说明书等申请文件更新财务数据的提示性公告",
+    "date": "2023-09-04",
+    "id": "1217775716",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书（注册稿）",
+    "date": "2023-09-04",
+    "id": "1217775712",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书",
+   "向不特定对象发行可转换公司债券募集说明书（注册稿）"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123225",
+  "bond_nm": "翔丰转债",
+  "candidates": [
+   {
+    "title": "深圳市翔丰华科技股份有限公司创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-09-28",
+    "id": "1217971379",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "深圳市翔丰华科技股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-09-28",
+    "id": "1217971372",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "深圳市翔丰华科技股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-09-28",
+    "id": "1217971368",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "深圳市翔丰华科技股份有限公司创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123237",
+  "bond_nm": "佳禾转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2024-01-02",
+    "id": "1218771187",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-01-02",
+    "id": "1218771185",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-01-02",
+    "id": "1218771180",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123235",
+  "bond_nm": "亿田转债",
+  "candidates": [
+   {
+    "title": "浙江亿田智能厨电股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-12-19",
+    "id": "1218656694",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "浙江亿田智能厨电股份有限公司向不特定对象发行可转债公司债券募集说明书摘要",
+    "date": "2023-12-19",
+    "id": "1218656678",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "浙江亿田智能厨电股份有限公司向不特定对象发行可转债公司债券募集说明书",
+    "date": "2023-12-19",
+    "id": "1218656677",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江亿田智能厨电股份有限公司向不特定对象发行可转债公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123229",
+  "bond_nm": "艾录转债",
+  "candidates": [
+   {
+    "title": "上海艾录包装股份有限公司创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-10-19",
+    "id": "1218078073",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "上海艾录包装股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-10-19",
+    "id": "1218078071",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "上海艾录包装股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-10-19",
+    "id": "1218078067",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "上海艾录包装股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123216",
+  "bond_nm": "科顺转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-08-02",
+    "id": "1217445060",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-08-02",
+    "id": "1217445053",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-08-02",
+    "id": "1217445051",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123215",
+  "bond_nm": "铭利转债",
+  "candidates": [
+   {
+    "title": "深圳市铭利达精密技术股份有限公司创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-08-01",
+    "id": "1217433179",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "深圳市铭利达精密技术股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-08-01",
+    "id": "1217433178",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "深圳市铭利达精密技术股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-08-01",
+    "id": "1217433170",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "深圳市铭利达精密技术股份有限公司创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123199",
+  "bond_nm": "山河转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券并在创业板上市募集说明书募集说明书摘要",
+    "date": "2023-06-08",
+    "id": "1217013429",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券并在创业板上市募集说明书募集说明书",
+    "date": "2023-06-08",
+    "id": "1217013426",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-06-08",
+    "id": "1217013420",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券并在创业板上市募集说明书募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123196",
+  "bond_nm": "正元转02",
+  "candidates": [
+   {
+    "title": "浙江正元智慧科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-04-14",
+    "id": "1216405653",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "浙江正元智慧科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-04-14",
+    "id": "1216405646",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "浙江正元智慧科技股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-04-14",
+    "id": "1216405644",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江正元智慧科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123195",
+  "bond_nm": "蓝晓转02",
+  "candidates": [
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-04-12",
+    "id": "1216392105",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-04-12",
+    "id": "1216392100",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-04-12",
+    "id": "1216392099",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123207",
+  "bond_nm": "冠中转债",
+  "candidates": [
+   {
+    "title": "青岛冠中生态股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-07-19",
+    "id": "1217323755",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "青岛冠中生态股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-07-19",
+    "id": "1217323749",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "青岛冠中生态股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-07-19",
+    "id": "1217323743",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "青岛冠中生态股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123209",
+  "bond_nm": "聚隆转债",
+  "candidates": [
+   {
+    "title": "南京聚隆科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-07-24",
+    "id": "1217361915",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "南京聚隆科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-07-24",
+    "id": "1217361908",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-07-24",
+    "id": "1217361906",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "南京聚隆科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123214",
+  "bond_nm": "东宝转债",
+  "candidates": [
+   {
+    "title": "包头东宝生物技术股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-07-27",
+    "id": "1217395320",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "包头东宝生物技术股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-07-27",
+    "id": "1217395316",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "包头东宝生物技术股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-07-27",
+    "id": "1217395315",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "包头东宝生物技术股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123213",
+  "bond_nm": "天源转债",
+  "candidates": [
+   {
+    "title": "武汉天源环保股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-07-26",
+    "id": "1217386209",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "武汉天源环保股份有限公司创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-07-26",
+    "id": "1217386208",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "武汉天源环保股份有限公司创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-07-26",
+    "id": "1217386201",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "武汉天源环保股份有限公司创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123211",
+  "bond_nm": "阳谷转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-07-25",
+    "id": "1217375853",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-07-25",
+    "id": "1217375852",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-07-25",
+    "id": "1217375847",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123241",
+  "bond_nm": "欧通转债",
+  "candidates": [
+   {
+    "title": "深圳欧陆通电子股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-07-03",
+    "id": "1220520227",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2024-07-03",
+    "id": "1220520224",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 0,
+  "body_titles": [],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123243",
+  "bond_nm": "严牌转债",
+  "candidates": [
+   {
+    "title": "浙江严牌过滤技术股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2024-07-08",
+    "id": "1220541584",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "浙江严牌过滤技术股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-07-08",
+    "id": "1220541581",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "浙江严牌过滤技术股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-07-08",
+    "id": "1220541580",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江严牌过滤技术股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123264",
+  "bond_nm": "双乐转债",
+  "candidates": [
+   {
+    "title": "双乐颜料股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-12-24",
+    "id": "1224894953",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "双乐颜料股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-12-24",
+    "id": "1224894952",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2025-12-24",
+    "id": "1224894951",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "双乐颜料股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123263",
+  "bond_nm": "鼎捷转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-12-11",
+    "id": "1224867610",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-12-11",
+    "id": "1224867609",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2025-12-11",
+    "id": "1224867608",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123262",
+  "bond_nm": "神宇转债",
+  "candidates": [
+   {
+    "title": "神宇通信科技股份公司向不特定对象发行可转换公司债券并在创业板上市募集说明书（摘要）",
+    "date": "2025-12-09",
+    "id": "1224859933",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "神宇通信科技股份公司向不特定对象发行可转换公司债券并在创业板上市募集说明书",
+    "date": "2025-12-09",
+    "id": "1224859932",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "神宇通信科技股份公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2025-12-09",
+    "id": "1224859931",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "神宇通信科技股份公司向不特定对象发行可转换公司债券并在创业板上市募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123265",
+  "bond_nm": "耐普转02",
+  "candidates": [
+   {
+    "title": "江西耐普矿机股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-01-14",
+    "id": "1224932511",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "江西耐普矿机股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-01-14",
+    "id": "1224932510",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-01-14",
+    "id": "1224932509",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "江西耐普矿机股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123266",
+  "bond_nm": "博士转债",
+  "candidates": [
+   {
+    "title": "博士眼镜连锁股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-03-16",
+    "id": "1225009256",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "博士眼镜连锁股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-03-16",
+    "id": "1225009255",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "博士眼镜连锁股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-03-16",
+    "id": "1225009254",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "博士眼镜连锁股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123269",
+  "bond_nm": "金杨转债",
+  "candidates": [
+   {
+    "title": "无锡金杨精密制造股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-04-16",
+    "id": "1225107992",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "无锡金杨精密制造股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-04-16",
+    "id": "1225107991",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "无锡金杨精密制造股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-04-16",
+    "id": "1225107990",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "无锡金杨精密制造股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123268",
+  "bond_nm": "本川转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-04-15",
+    "id": "1225102004",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-04-15",
+    "id": "1225102003",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-04-15",
+    "id": "1225102002",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123267",
+  "bond_nm": "珂玛转债",
+  "candidates": [
+   {
+    "title": "苏州珂玛材料科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-04-14",
+    "id": "1225100074",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "苏州珂玛材料科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-04-14",
+    "id": "1225100073",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-04-14",
+    "id": "1225100072",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "关于向不特定对象发行可转换公司债券提交募集说明书（注册稿）等申请文件的提示性公告",
+    "date": "2026-04-09",
+    "id": "1225086889",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "苏州珂玛材料科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123261",
+  "bond_nm": "普联转债",
+  "candidates": [
+   {
+    "title": "普联软件股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-12-03",
+    "id": "1224845753",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "普联软件股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-12-03",
+    "id": "1224845752",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2025-12-03",
+    "id": "1224845751",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "普联软件股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123260",
+  "bond_nm": "卓镁转债",
+  "candidates": [
+   {
+    "title": "宁波星源卓镁技术股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-11-05",
+    "id": "1224787275",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "宁波星源卓镁技术股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-11-05",
+    "id": "1224787274",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2025-11-05",
+    "id": "1224787273",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "宁波星源卓镁技术股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123250",
+  "bond_nm": "嘉益转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2024-11-05",
+    "id": "1221627215",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "浙江嘉益保温科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-11-05",
+    "id": "1221627210",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "浙江嘉益保温科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-11-05",
+    "id": "1221627209",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江嘉益保温科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123247",
+  "bond_nm": "万凯转债",
+  "candidates": [
+   {
+    "title": "2024-069 万凯新材料股份有限公司创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2024-08-14",
+    "id": "1220862370",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "万凯新材料股份有限公司向不特定对象发行可转换公司债券募集说明书（摘要）",
+    "date": "2024-08-14",
+    "id": "1220862367",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "万凯新材料股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-08-14",
+    "id": "1220862362",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "万凯新材料股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123245",
+  "bond_nm": "集智转债",
+  "candidates": [
+   {
+    "title": "杭州集智机电股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2024-08-12",
+    "id": "1220835168",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 0,
+  "body_titles": [],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123252",
+  "bond_nm": "银邦转债",
+  "candidates": [
+   {
+    "title": "银邦股份向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2025-01-03",
+    "id": "1222207785",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 0,
+  "body_titles": [],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123253",
+  "bond_nm": "永贵转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2025-03-11",
+    "id": "1222760203",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "浙江永贵电器股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-03-11",
+    "id": "1222760200",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "浙江永贵电器股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-03-11",
+    "id": "1222760198",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江永贵电器股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123259",
+  "bond_nm": "锦浪转02",
+  "candidates": [
+   {
+    "title": "锦浪科技股份有限公司2025年度向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-10-15",
+    "id": "1224712023",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "锦浪科技股份有限公司2025年度向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-10-15",
+    "id": "1224712022",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2025-10-15",
+    "id": "1224712021",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "锦浪科技股份有限公司2025年度向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123257",
+  "bond_nm": "安克转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书（摘要）",
+    "date": "2025-06-12",
+    "id": "1223848751",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2025-06-12",
+    "id": "1223848746",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-06-12",
+    "id": "1223848744",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123255",
+  "bond_nm": "鼎龙转债",
+  "candidates": [
+   {
+    "title": "湖北鼎龙控股股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-03-31",
+    "id": "1222947995",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "湖北鼎龙控股股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-03-31",
+    "id": "1222947981",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "湖北鼎龙控股股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2025-03-31",
+    "id": "1222947977",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "湖北鼎龙控股股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123194",
+  "bond_nm": "百洋转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-04-12",
+    "id": "1216380809",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "青岛百洋医药股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-04-12",
+    "id": "1216380804",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "青岛百洋医药股份有限公司创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-04-12",
+    "id": "1216380802",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "青岛百洋医药股份有限公司创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123193",
+  "bond_nm": "海能转债",
+  "candidates": [
+   {
+    "title": "公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-04-11",
+    "id": "1216371122",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-04-11",
+    "id": "1216371118",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-04-11",
+    "id": "1216371114",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123133",
+  "bond_nm": "佩蒂转债",
+  "candidates": [
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2021-12-20",
+    "id": "1211947280",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2021-12-20",
+    "id": "1211947277",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2021-12-20",
+    "id": "1211947276",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123131",
+  "bond_nm": "奥飞转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2021-12-01",
+    "id": "1211746310",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "2021年度向不特定对象发行可转换公司债券并在创业板上市募集说明书摘要",
+    "date": "2021-12-01",
+    "id": "1211746305",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "2021年度向不特定对象发行可转换公司债券并在创业板上市募集说明书",
+    "date": "2021-12-01",
+    "id": "1211746304",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "2021年度向不特定对象发行可转换公司债券并在创业板上市募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123124",
+  "bond_nm": "晶瑞转2",
+  "candidates": [
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书及募集说明书摘要更正公告",
+    "date": "2021-08-13",
+    "id": "1210735058",
+    "is_summary": true,
+    "is_notice": true
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2021-08-12",
+    "id": "1210726587",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2021-08-12",
+    "id": "1210726586",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2021-08-12",
+    "id": "1210726584",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123138",
+  "bond_nm": "丝路转债",
+  "candidates": [
+   {
+    "title": "丝路视觉科技股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2022-02-28",
+    "id": "1212458902",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "丝路视觉科技股份有限公司向不特定对象发行可转换公司债券证券募集说明书摘要",
+    "date": "2022-02-28",
+    "id": "1212458901",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "丝路视觉科技股份有限公司向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2022-02-28",
+    "id": "1212458900",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "丝路视觉科技股份有限公司向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123142",
+  "bond_nm": "申昊转债",
+  "candidates": [
+   {
+    "title": "杭州申昊科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-03-16",
+    "id": "1212582051",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "杭州申昊科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-03-16",
+    "id": "1212582050",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "杭州申昊科技股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2022-03-16",
+    "id": "1212582044",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "杭州申昊科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123150",
+  "bond_nm": "九强转债",
+  "candidates": [
+   {
+    "title": "北京九强生物技术股份有限公司创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-06-28",
+    "id": "1213836325",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "北京九强生物技术股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-06-28",
+    "id": "1213836324",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "北京九强生物技术股份有限公司创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2022-06-28",
+    "id": "1213836322",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "北京九强生物技术股份有限公司创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123149",
+  "bond_nm": "通裕转债",
+  "candidates": [
+   {
+    "title": "通裕重工股份有限公司创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2022-06-16",
+    "id": "1213722023",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "通裕重工股份有限公司创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-06-16",
+    "id": "1213722014",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "通裕重工股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-06-16",
+    "id": "1213722013",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "通裕重工股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-06-02",
+    "id": "1213590182",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "通裕重工股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+   "通裕重工股份有限公司创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123144",
+  "bond_nm": "裕兴转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-04-07",
+    "id": "1212827991",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-04-07",
+    "id": "1212827990",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2022-04-07",
+    "id": "1212827989",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123122",
+  "bond_nm": "富瀚转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2021-08-04",
+    "id": "1210652119",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2021-08-04",
+    "id": "1210652118",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2021-08-04",
+    "id": "1210652117",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123119",
+  "bond_nm": "康泰转2",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2021-07-13",
+    "id": "1210468292",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2021-07-13",
+    "id": "1210468290",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2021-07-13",
+    "id": "1210468283",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123107",
+  "bond_nm": "温氏转债",
+  "candidates": [
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2021-03-25",
+    "id": "1209445603",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书（摘要）",
+    "date": "2021-03-25",
+    "id": "1209445602",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2021-03-25",
+    "id": "1209445601",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123104",
+  "bond_nm": "卫宁转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2021-03-12",
+    "id": "1209371730",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2021-03-12",
+    "id": "1209371729",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2021-03-12",
+    "id": "1209371728",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123092",
+  "bond_nm": "天壕转债",
+  "candidates": [
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2020-12-22",
+    "id": "1208955554",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2020-12-22",
+    "id": "1208955545",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2020-12-22",
+    "id": "1208955543",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123109",
+  "bond_nm": "昌红转债",
+  "candidates": [
+   {
+    "title": "深圳市昌红科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2021-03-30",
+    "id": "1209476765",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "深圳市昌红科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2021-03-30",
+    "id": "1209476764",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "深圳市昌红科技股份有限公司向不特定对象发行可转换公司债券募集说明书的提示性公告",
+    "date": "2021-03-30",
+    "id": "1209474639",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "深圳市昌红科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123113",
+  "bond_nm": "仙乐转债",
+  "candidates": [
+   {
+    "title": "仙乐健康向不特定对象发行可转换公司债券募集说明书",
+    "date": "2021-04-15",
+    "id": "1209692710",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "仙乐健康向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2021-04-15",
+    "id": "1209692709",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "仙乐健康向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2021-04-15",
+    "id": "1209692708",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "仙乐健康向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123118",
+  "bond_nm": "惠城转债",
+  "candidates": [
+   {
+    "title": "3 2020-062 青岛惠城环保科技股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2021-07-05",
+    "id": "1210399172",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2021-07-05",
+    "id": "1210399171",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2021-07-05",
+    "id": "1210399170",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "青岛惠城环保科技股份有限公司向不特定对象发行可转换公司债券募集说明书（2020年年报补充稿）",
+    "date": "2021-06-21",
+    "id": "1210302028",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书",
+   "青岛惠城环保科技股份有限公司向不特定对象发行可转换公司债券募集说明书（2020年年报补充稿）"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123117",
+  "bond_nm": "健帆转债",
+  "candidates": [
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2021-06-21",
+    "id": "1210293370",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2021-06-21",
+    "id": "1210293369",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2021-06-21",
+    "id": "1210293363",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123114",
+  "bond_nm": "三角转债",
+  "candidates": [
+   {
+    "title": "西安三角防务股份有限公司创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2021-05-21",
+    "id": "1210027981",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "1-2 西安三角防务股份有限公司创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2021-05-21",
+    "id": "1210027975",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "1-1西安三角防务股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2021-05-21",
+    "id": "1210027974",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "1-1西安三角防务股份有限公司创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123151",
+  "bond_nm": "康医转债",
+  "candidates": [
+   {
+    "title": "康泰医学系统（秦皇岛）股份有限公司创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-06-29",
+    "id": "1213855018",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "康泰医学系统（秦皇岛）股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-06-29",
+    "id": "1213855017",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "康泰医学向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2022-06-29",
+    "id": "1213855013",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "康泰医学系统（秦皇岛）股份有限公司创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123154",
+  "bond_nm": "火星转债",
+  "candidates": [
+   {
+    "title": "火星人厨具股份有限公司创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-08-03",
+    "id": "1214203315",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "火星人厨具股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-08-03",
+    "id": "1214203314",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "火星人厨具股份有限公司创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2022-08-03",
+    "id": "1214203313",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "火星人厨具股份有限公司创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123179",
+  "bond_nm": "立高转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-03-03",
+    "id": "1216042129",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-03-03",
+    "id": "1216042125",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "立高食品向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-03-03",
+    "id": "1216042120",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123178",
+  "bond_nm": "花园转债",
+  "candidates": [
+   {
+    "title": "关于向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-03-02",
+    "id": "1216024799",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "浙江花园生物高科股份有限公司创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-03-02",
+    "id": "1216024793",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "浙江花园生物高科股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-03-02",
+    "id": "1216024789",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江花园生物高科股份有限公司创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123176",
+  "bond_nm": "精测转2",
+  "candidates": [
+   {
+    "title": "武汉精测电子集团股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-02-28",
+    "id": "1215990361",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "武汉精测电子集团股份有限公司创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-02-28",
+    "id": "1215990360",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "武汉精测电子集团股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-02-28",
+    "id": "1215990356",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "武汉精测电子集团股份有限公司创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123180",
+  "bond_nm": "浙矿转债",
+  "candidates": [
+   {
+    "title": "浙矿重工股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-03-07",
+    "id": "1216055689",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "浙矿重工股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-03-07",
+    "id": "1216055687",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "浙矿重工股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-03-07",
+    "id": "1216055685",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙矿重工股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123183",
+  "bond_nm": "海顺转债",
+  "candidates": [
+   {
+    "title": "上海海顺新型药用包装材料股份有限公司创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-03-21",
+    "id": "1216169467",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "上海海顺新型药用包装材料股份有限公司创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-03-21",
+    "id": "1216169466",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "上海海顺新型药用包装材料股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-03-21",
+    "id": "1216169459",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "上海海顺新型药用包装材料股份有限公司创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123192",
+  "bond_nm": "科思转债",
+  "candidates": [
+   {
+    "title": "南京科思化学股份有限公司创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-04-11",
+    "id": "1216371022",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "南京科思化学股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-04-11",
+    "id": "1216371017",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "南京科思化学股份有限公司创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-04-11",
+    "id": "1216371011",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "南京科思化学股份有限公司创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123189",
+  "bond_nm": "晓鸣转债",
+  "candidates": [
+   {
+    "title": "宁夏晓鸣农牧股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-04-03",
+    "id": "1216298010",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "宁夏晓鸣农牧股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-04-03",
+    "id": "1216298008",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "宁夏晓鸣农牧股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-04-03",
+    "id": "1216298002",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "宁夏晓鸣农牧股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123187",
+  "bond_nm": "超达转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-03-31",
+    "id": "1216273920",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-03-31",
+    "id": "1216273919",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-03-31",
+    "id": "1216273915",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123175",
+  "bond_nm": "百畅转债",
+  "candidates": [
+   {
+    "title": "河南百川畅银环保能源股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-02-20",
+    "id": "1215889224",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "河南百川畅银环保能源股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-02-20",
+    "id": "1215889218",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "河南百川畅银环保能源股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-02-20",
+    "id": "1215889217",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "河南百川畅银环保能源股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123173",
+  "bond_nm": "恒锋转债",
+  "candidates": [
+   {
+    "title": "恒锋信息科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-12-28",
+    "id": "1215464517",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "恒锋信息科技股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2022-12-28",
+    "id": "1215464513",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "恒锋信息科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-12-28",
+    "id": "1215464512",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "恒锋信息科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123158",
+  "bond_nm": "宙邦转债",
+  "candidates": [
+   {
+    "title": "深圳新宙邦科技股份有限公司创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2022-09-22",
+    "id": "1214641676",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "深圳新宙邦科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-09-22",
+    "id": "1214641674",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "深圳新宙邦科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-09-22",
+    "id": "1214641673",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "深圳新宙邦科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123157",
+  "bond_nm": "科蓝转债",
+  "candidates": [
+   {
+    "title": "北京科蓝软件系统股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-08-26",
+    "id": "1214408049",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "北京科蓝软件系统股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-08-26",
+    "id": "1214408048",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "北京科蓝软件系统股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2022-08-26",
+    "id": "1214408046",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "北京科蓝软件系统股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123155",
+  "bond_nm": "中陆转债",
+  "candidates": [],
+  "body_count": 0,
+  "body_titles": [],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123160",
+  "bond_nm": "泰福转债",
+  "candidates": [
+   {
+    "title": "浙江泰福泵业股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2022-09-26",
+    "id": "1214665326",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "浙江泰福泵业股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-09-26",
+    "id": "1214665325",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "浙江泰福泵业股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-09-26",
+    "id": "1214665324",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江泰福泵业股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123165",
+  "bond_nm": "回天转债",
+  "candidates": [
+   {
+    "title": "回天新材向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-10-25",
+    "id": "1214882510",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "回天新材向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-10-25",
+    "id": "1214882498",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "回天新材创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2022-10-25",
+    "id": "1214882488",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "回天新材向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123172",
+  "bond_nm": "漱玉转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-12-13",
+    "id": "1215332639",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-12-13",
+    "id": "1215332618",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "漱玉平民大药房连锁股份有限公司向不特定对象发行可转换公司债券募集说明书提示公告",
+    "date": "2022-12-13",
+    "id": "1215332616",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123171",
+  "bond_nm": "共同转债",
+  "candidates": [
+   {
+    "title": "湖北共同药业股份有限公司创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2022-11-24",
+    "id": "1215187397",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "湖北共同药业股份有限公司创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-11-24",
+    "id": "1215187389",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "湖北共同药业股份有限公司创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-11-24",
+    "id": "1215187388",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "湖北共同药业股份有限公司创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123168",
+  "bond_nm": "惠云转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2022-11-21",
+    "id": "1215151631",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-11-21",
+    "id": "1215151625",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-11-21",
+    "id": "1215151624",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123270",
+  "bond_nm": "盛德转债",
+  "candidates": [
+   {
+    "title": "盛德鑫泰新材料股份有限公司关于向不特定对象发行可转换公司债券的募集说明书摘要",
+    "date": "2026-05-28",
+    "id": "1225334216",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "盛德鑫泰新材料股份有限公司关于向不特定对象发行可转换公司债券的募集说明书",
+    "date": "2026-05-28",
+    "id": "1225334215",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转债募集说明书提示性公告",
+    "date": "2026-05-28",
+    "id": "1225334214",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "盛德鑫泰新材料股份有限公司关于向不特定对象发行可转换公司债券的募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123271",
+  "bond_nm": "通合转债",
+  "candidates": [
+   {
+    "title": "石家庄通合电子科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-05-29",
+    "id": "1225336552",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "石家庄通合电子科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-05-29",
+    "id": "1225336551",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-05-29",
+    "id": "1225336550",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "石家庄通合电子科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127092",
+  "bond_nm": "运机转债",
+  "candidates": [
+   {
+    "title": "四川省自贡运输机械集团股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-09-19",
+    "id": "1217886502",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "四川省自贡运输机械集团股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-09-19",
+    "id": "1217886499",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "运机集团向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-09-19",
+    "id": "1217886498",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "四川省自贡运输机械集团股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127089",
+  "bond_nm": "晶澳转债",
+  "candidates": [
+   {
+    "title": "晶澳太阳能科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-07-14",
+    "id": "1217293815",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "晶澳太阳能科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-07-14",
+    "id": "1217293810",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "晶澳太阳能科技股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-07-14",
+    "id": "1217293808",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "晶澳太阳能科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127088",
+  "bond_nm": "赫达转债",
+  "candidates": [
+   {
+    "title": "山东赫达集团股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-06-29",
+    "id": "1217155446",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "2023-065公告：向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-06-29",
+    "id": "1217155434",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "山东赫达集团股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-06-29",
+    "id": "1217155432",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "山东赫达集团股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127093",
+  "bond_nm": "章鼓转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-10-13",
+    "id": "1218022056",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 0,
+  "body_titles": [],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127095",
+  "bond_nm": "广泰转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-10-16",
+    "id": "1218033090",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-10-16",
+    "id": "1218033088",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书（发行稿）",
+    "date": "2023-10-16",
+    "id": "1218033084",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书（发行稿）"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127099",
+  "bond_nm": "盛航转债",
+  "candidates": [
+   {
+    "title": "南京盛航海运股份有限公司向不特定对象发行可转换公司债券并在深圳证券交易所上市募集说明书摘要",
+    "date": "2023-12-04",
+    "id": "1218498532",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "南京盛航海运股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-12-04",
+    "id": "1218498529",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "南京盛航海运股份有限公司向不特定对象发行可转换公司债券并在深圳证券交易所上市募集说明书",
+    "date": "2023-12-04",
+    "id": "1218498528",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "南京盛航海运股份有限公司向不特定对象发行可转换公司债券并在深圳证券交易所上市募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127098",
+  "bond_nm": "欧晶转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-11-22",
+    "id": "1218394723",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-11-22",
+    "id": "1218394720",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-11-22",
+    "id": "1218394717",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "内蒙古欧晶科技股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿）（2023年半年报更新版）",
+    "date": "2023-11-06",
+    "id": "1218266731",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书",
+   "内蒙古欧晶科技股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿）（2023年半年报更新版）"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127096",
+  "bond_nm": "泰坦转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-10-23",
+    "id": "1218110541",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-10-23",
+    "id": "1218110537",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-10-23",
+    "id": "1218110536",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127085",
+  "bond_nm": "韵达转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-04-07",
+    "id": "1216345488",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-04-07",
+    "id": "1216345481",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-04-07",
+    "id": "1216345480",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127084",
+  "bond_nm": "柳工转2",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-03-23",
+    "id": "1216192176",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-03-23",
+    "id": "1216192175",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-03-23",
+    "id": "1216192172",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127070",
+  "bond_nm": "大中转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2022-08-13",
+    "id": "1214288461",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-08-13",
+    "id": "1214288460",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127069",
+  "bond_nm": "小熊转债",
+  "candidates": [],
+  "body_count": 0,
+  "body_titles": [],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127068",
+  "bond_nm": "顺博转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-08-10",
+    "id": "1214261097",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2022-08-10",
+    "id": "1214261096",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127072",
+  "bond_nm": "博实转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-09-20",
+    "id": "1214630305",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2022-09-20",
+    "id": "1214630303",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127078",
+  "bond_nm": "优彩转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2022-12-12",
+    "id": "1215325239",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-12-12",
+    "id": "1215319355",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127083",
+  "bond_nm": "山路转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-03-22",
+    "id": "1216180354",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-03-22",
+    "id": "1216180352",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-03-22",
+    "id": "1216180346",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127082",
+  "bond_nm": "亚科转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-03-07",
+    "id": "1216056097",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-03-07",
+    "id": "1216056096",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-03-07",
+    "id": "1216056092",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127080",
+  "bond_nm": "声迅转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2022-12-28",
+    "id": "1215464856",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-12-28",
+    "id": "1215464853",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127102",
+  "bond_nm": "浙建转债",
+  "candidates": [
+   {
+    "title": "浙江省建设投资集团股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-12-21",
+    "id": "1218675818",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "浙江省建设投资集团股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-12-21",
+    "id": "1218675815",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "浙江省建设投资集团股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-12-21",
+    "id": "1218675811",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江省建设投资集团股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127103",
+  "bond_nm": "东南转债",
+  "candidates": [
+   {
+    "title": "浙江东南网架股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-12-29",
+    "id": "1218751493",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "浙江东南网架股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2023-12-29",
+    "id": "1218751489",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "浙江东南网架股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-12-29",
+    "id": "1218751479",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江东南网架股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "128135",
+  "bond_nm": "洽洽转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2020-10-16",
+    "id": "1208570616",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2020-10-16",
+    "id": "1208570615",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127117",
+  "bond_nm": "奥士转债",
+  "candidates": [
+   {
+    "title": "奥士康科技股份有限公司向不特定对象发行可转换公司债券并在主板上市募集说明书摘要",
+    "date": "2026-09-21",
+    "id": "1225572949",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "奥士康科技股份有限公司向不特定对象发行可转换公司债券并在主板上市募集说明书",
+    "date": "2026-09-21",
+    "id": "1225572948",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "奥士康科技股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-09-21",
+    "id": "1225572947",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "奥士康科技股份有限公司向不特定对象发行可转换公司债券并在主板上市募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127116",
+  "bond_nm": "瑞鹄转02",
+  "candidates": [
+   {
+    "title": "瑞鹄汽车模具股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-09-15",
+    "id": "1225564370",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "瑞鹄汽车模具股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-09-15",
+    "id": "1225564369",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "瑞鹄汽车模具股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-09-15",
+    "id": "1225564368",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "瑞鹄汽车模具股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "128136",
+  "bond_nm": "立讯转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2020-10-30",
+    "id": "1208652927",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2020-10-30",
+    "id": "1208652923",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "128138",
+  "bond_nm": "侨银转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2020-11-13",
+    "id": "1208736929",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2020-11-13",
+    "id": "1208736927",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "132026",
+  "bond_nm": "G三峡EB2",
+  "candidates": [],
+  "body_count": 0,
+  "body_titles": [],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "132024",
+  "bond_nm": "26江铜EB",
+  "candidates": [],
+  "body_count": 0,
+  "body_titles": [],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "128142",
+  "bond_nm": "新乳转债",
+  "candidates": [
+   {
+    "title": "公开发行A股可转换公司债券募集说明书摘要",
+    "date": "2020-12-16",
+    "id": "1208912235",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行A股可转换公司债券募集说明书",
+    "date": "2020-12-16",
+    "id": "1208912234",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行A股可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127115",
+  "bond_nm": "炬申转债",
+  "candidates": [
+   {
+    "title": "炬申物流集团股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-07-22",
+    "id": "1225436077",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "炬申物流集团股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-07-22",
+    "id": "1225436036",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "炬申物流集团股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-07-22",
+    "id": "1225436035",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "炬申物流集团股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127114",
+  "bond_nm": "宜化转债",
+  "candidates": [
+   {
+    "title": "湖北宜化化工股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-06-24",
+    "id": "1225384064",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "湖北宜化化工股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-06-24",
+    "id": "1225384063",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-06-24",
+    "id": "1225384062",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "湖北宜化化工股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127108",
+  "bond_nm": "太能转债",
+  "candidates": [
+   {
+    "title": "中节能太阳能股份有限公司向不特定对象发行可转换公司债券并在主板上市募集说明书摘要",
+    "date": "2025-03-26",
+    "id": "1222895284",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "中节能太阳能股份有限公司向不特定对象发行可转换公司债券并在主板上市募集说明书",
+    "date": "2025-03-26",
+    "id": "1222895281",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "中节能太阳能股份有限公司向不特定对象发行可转换公司债券并在主板上市募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127105",
+  "bond_nm": "龙星转债",
+  "candidates": [
+   {
+    "title": "龙星化工股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2024-01-30",
+    "id": "1219029256",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "龙星化工股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-01-30",
+    "id": "1219029255",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "龙星化工股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-01-30",
+    "id": "1219028931",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "龙星化工股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-01-30",
+    "id": "1219028925",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "龙星化工股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2024-01-30",
+    "id": "1219028924",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "龙星化工股份有限公司向不特定对象发行可转换公司债券募集说明书",
+   "龙星化工股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127104",
+  "bond_nm": "姚记转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-01-23",
+    "id": "1218969894",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-01-23",
+    "id": "1218969891",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2024-01-23",
+    "id": "1218969889",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127109",
+  "bond_nm": "电化转债",
+  "candidates": [
+   {
+    "title": "湘潭电化科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-06-12",
+    "id": "1223848722",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2025-06-12",
+    "id": "1223848716",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "湘潭电化科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-06-12",
+    "id": "1223848714",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "湘潭电化科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127110",
+  "bond_nm": "广核转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行A股可转换公司债券并在主板上市募集说明书",
+    "date": "2025-07-07",
+    "id": "1224085611",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行A股可转换公司债券募集说明书提示性公告",
+    "date": "2025-07-07",
+    "id": "1224085610",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "向不特定对象发行A股可转换公司债券并在主板上市募集说明书摘要",
+    "date": "2025-07-07",
+    "id": "1224085608",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行A股可转换公司债券并在主板上市募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127113",
+  "bond_nm": "长高转债",
+  "candidates": [
+   {
+    "title": "长高电新科技股份公司向不特定对象发行可转换公司债券并在主板上市募集说明书摘要",
+    "date": "2026-03-05",
+    "id": "1224995636",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "长高电新科技股份公司向不特定对象发行可转换公司债券并在主板上市募集说明书",
+    "date": "2026-03-05",
+    "id": "1224995635",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "长高电新科技股份公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-03-05",
+    "id": "1224995634",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "长高电新科技股份公司向不特定对象发行可转换公司债券并在主板上市募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127112",
+  "bond_nm": "尚太转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-01-14",
+    "id": "1224932793",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-01-14",
+    "id": "1224932792",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-01-14",
+    "id": "1224932791",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127111",
+  "bond_nm": "金威转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-08-18",
+    "id": "1224500141",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-08-18",
+    "id": "1224500137",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2025-08-18",
+    "id": "1224500134",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127064",
+  "bond_nm": "杭氧转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-05-17",
+    "id": "1213371222",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2022-05-17",
+    "id": "1213371221",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127062",
+  "bond_nm": "垒知转债",
+  "candidates": [
+   {
+    "title": "垒知控股集团股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-04-19",
+    "id": "1212965493",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "垒知控股集团股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2022-04-19",
+    "id": "1212965491",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "垒知控股集团股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123284",
+  "bond_nm": "强达转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-08-17",
+    "id": "1225475468",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-08-17",
+    "id": "1225475467",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-08-17",
+    "id": "1225475466",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123283",
+  "bond_nm": "丰茂转债",
+  "candidates": [
+   {
+    "title": "浙江丰茂科技股份有限公司向不特定对象发行可转换公司债券的募集说明书摘要",
+    "date": "2026-08-14",
+    "id": "1225472668",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "浙江丰茂科技股份有限公司向不特定对象发行可转换公司债券的募集说明书",
+    "date": "2026-08-14",
+    "id": "1225472667",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券的募集说明书提示性公告",
+    "date": "2026-08-14",
+    "id": "1225472666",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江丰茂科技股份有限公司向不特定对象发行可转换公司债券的募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123282",
+  "bond_nm": "震裕转02",
+  "candidates": [
+   {
+    "title": "宁波震裕科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-08-13",
+    "id": "1225470841",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "宁波震裕科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-08-13",
+    "id": "1225470840",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "宁波震裕科技股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-08-13",
+    "id": "1225470839",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "宁波震裕科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123285",
+  "bond_nm": "润禾转02",
+  "candidates": [
+   {
+    "title": "润禾材料向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-09-08",
+    "id": "1225551940",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "润禾材料向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-09-08",
+    "id": "1225551939",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "润禾材料向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-09-08",
+    "id": "1225551938",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "润禾材料向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123286",
+  "bond_nm": "国科转债",
+  "candidates": [
+   {
+    "title": "关于向不特定对象发行可转换公司债券的募集说明书（注册稿）等申请文件更新的提示性公告",
+    "date": "2026-09-11",
+    "id": "1225561765",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 0,
+  "body_titles": [],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127025",
+  "bond_nm": "冀东转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2020-11-03",
+    "id": "1208675491",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2020-11-03",
+    "id": "1208675490",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123288",
+  "bond_nm": "隆新转债",
+  "candidates": [
+   {
+    "title": "山东隆华新材料股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-09-24",
+    "id": "1225580000",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "山东隆华新材料股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-09-24",
+    "id": "1225579999",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-09-24",
+    "id": "1225579998",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "山东隆华新材料股份有限公司向不特定对象发行可转换公司债券募集说明书(注册稿)",
+    "date": "2026-09-09",
+    "id": "1225552831",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "关于向不特定对象发行可转换公司债券的募集说明书等申请文件更新的提示性公告",
+    "date": "2026-09-09",
+    "id": "1225552828",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "山东隆华新材料股份有限公司向不特定对象发行可转换公司债券募集说明书",
+   "山东隆华新材料股份有限公司向不特定对象发行可转换公司债券募集说明书(注册稿)"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123287",
+  "bond_nm": "满坤转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-09-23",
+    "id": "1225577596",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-09-23",
+    "id": "1225577595",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-09-23",
+    "id": "1225577594",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "关于向不特定对象发行可转换公司债券募集说明书（注册稿）等申请文件更新的提示性公告",
+    "date": "2026-08-31",
+    "id": "1225538792",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书（注册稿）（2026年半年度财务数据更新版）",
+    "date": "2026-08-31",
+    "id": "1225538788",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书",
+   "向不特定对象发行可转换公司债券募集说明书（注册稿）（2026年半年度财务数据更新版）"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123281",
+  "bond_nm": "中仑转债",
+  "candidates": [
+   {
+    "title": "中仑新材料股份有限公司2025年度向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-08-04",
+    "id": "1225456270",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "中仑新材料股份有限公司2025年度向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-08-04",
+    "id": "1225456269",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "中仑新材料股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-08-04",
+    "id": "1225456268",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "中仑新材料股份有限公司2025年度向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123280",
+  "bond_nm": "三鑫转债",
+  "candidates": [
+   {
+    "title": "江西三鑫医疗科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-07-31",
+    "id": "1225448866",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "江西三鑫医疗科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-07-31",
+    "id": "1225448865",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "江西三鑫医疗科技股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-07-31",
+    "id": "1225448864",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "江西三鑫医疗科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123274",
+  "bond_nm": "维科转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-06-24",
+    "id": "1225384348",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-06-24",
+    "id": "1225384347",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-06-24",
+    "id": "1225384346",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "关于向不特定对象发行可转换公司债券募集说明书等申请文件更新的提示性公告",
+    "date": "2026-06-09",
+    "id": "1225360788",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书（注册稿）",
+    "date": "2026-06-09",
+    "id": "1225360786",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书",
+   "向不特定对象发行可转换公司债券募集说明书（注册稿）"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123273",
+  "bond_nm": "三江转债",
+  "candidates": [
+   {
+    "title": "金三江（肇庆）硅材料股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-06-15",
+    "id": "1225369366",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "金三江（肇庆）硅材料股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-06-15",
+    "id": "1225369365",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "金三江（肇庆）硅材料股份有限公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-06-15",
+    "id": "1225369364",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "金三江（肇庆）硅材料股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿.2025年年报财务数据更新）",
+    "date": "2026-06-03",
+    "id": "1225348046",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "关于向不特定对象发行可转换公司债券的募集说明书等申请文件更新的提示性公告",
+    "date": "2026-06-03",
+    "id": "1225348045",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "金三江（肇庆）硅材料股份有限公司向不特定对象发行可转换公司债券募集说明书",
+   "金三江（肇庆）硅材料股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿.2025年年报财务数据更新）"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123272",
+  "bond_nm": "中汽转债",
+  "candidates": [
+   {
+    "title": "中汽研汽车试验场股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-06-09",
+    "id": "1225358454",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "中汽研汽车试验场股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-06-09",
+    "id": "1225358453",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-06-09",
+    "id": "1225358452",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "关于向不特定对象发行可转换公司债券募集说明书（注册稿）等申请文件更新的提示性公告",
+    "date": "2026-06-01",
+    "id": "1225342881",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "中汽研汽车试验场股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123275",
+  "bond_nm": "肇民转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-07-07",
+    "id": "1225412237",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书（豁免版）",
+    "date": "2026-07-07",
+    "id": "1225412236",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-07-07",
+    "id": "1225412235",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "关于向不特定对象发行可转换公司债券提交募集说明书（注册稿）等申请文件的提示性公告",
+    "date": "2026-06-24",
+    "id": "1225386227",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "上海肇民新材料科技股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿）",
+    "date": "2026-06-24",
+    "id": "1225386226",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书（豁免版）",
+   "上海肇民新材料科技股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿）"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123276",
+  "bond_nm": "久吾转02",
+  "candidates": [
+   {
+    "title": "江苏久吾高科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-07-16",
+    "id": "1225426817",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "江苏久吾高科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-07-16",
+    "id": "1225426816",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-07-16",
+    "id": "1225426815",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "江苏久吾高科技股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿）",
+    "date": "2026-07-10",
+    "id": "1225418197",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "关于向不特定对象发行可转换公司债券募集说明书（注册稿）等申请文件更新的提示性公告",
+    "date": "2026-07-10",
+    "id": "1225418196",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "江苏久吾高科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+   "江苏久吾高科技股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿）"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123279",
+  "bond_nm": "天脉转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-07-30",
+    "id": "1225447302",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-07-30",
+    "id": "1225447301",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123278",
+  "bond_nm": "合金转债",
+  "candidates": [
+   {
+    "title": "江阴电工合金股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-07-28",
+    "id": "1225443885",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "江阴电工合金股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-07-28",
+    "id": "1225443884",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-07-28",
+    "id": "1225443883",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "江阴电工合金股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123277",
+  "bond_nm": "玉禾转债",
+  "candidates": [
+   {
+    "title": "公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-07-27",
+    "id": "1225441443",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-07-27",
+    "id": "1225441442",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公司向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2026-07-27",
+    "id": "1225441441",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127027",
+  "bond_nm": "能化转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2020-12-08",
+    "id": "1208864652",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2020-12-08",
+    "id": "1208864651",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127030",
+  "bond_nm": "盛虹转债",
+  "candidates": [
+   {
+    "title": "公开发行A股可转换公司债券募集说明书",
+    "date": "2021-03-18",
+    "id": "1209402648",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行A股可转换公司债券募集说明书（摘要）",
+    "date": "2021-03-18",
+    "id": "1209402647",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行A股可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127054",
+  "bond_nm": "双箭转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2022-02-09",
+    "id": "1212326165",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-02-09",
+    "id": "1212326163",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127053",
+  "bond_nm": "豪美转债",
+  "candidates": [],
+  "body_count": 0,
+  "body_titles": [],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127050",
+  "bond_nm": "麒麟转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2021-11-09",
+    "id": "1211531020",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-11-09",
+    "id": "1211531018",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127055",
+  "bond_nm": "精装转债",
+  "candidates": [
+   {
+    "title": "深圳中天精装股份有限公司公开发行A股可转换公司债券募集说明书",
+    "date": "2022-02-18",
+    "id": "1212394323",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "深圳中天精装股份有限公司公开发行A股可转换公司债券募集说明书摘要",
+    "date": "2022-02-18",
+    "id": "1212394322",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "深圳中天精装股份有限公司公开发行A股可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127056",
+  "bond_nm": "中特转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-02-23",
+    "id": "1212430974",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2022-02-23",
+    "id": "1212430973",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127061",
+  "bond_nm": "美锦转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2022-04-18",
+    "id": "1212943902",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-04-18",
+    "id": "1212943901",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127060",
+  "bond_nm": "湘佳转债",
+  "candidates": [
+   {
+    "title": "湖南湘佳牧业股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-04-15",
+    "id": "1212924385",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "湖南湘佳牧业股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2022-04-15",
+    "id": "1212924384",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "湖南湘佳牧业股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127059",
+  "bond_nm": "永东转2",
+  "candidates": [
+   {
+    "title": "山西永东化工股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-04-06",
+    "id": "1212811690",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "山西永东化工股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2022-04-06",
+    "id": "1212811689",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "山西永东化工股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127049",
+  "bond_nm": "希望转2",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-10-29",
+    "id": "1211423800",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2021-10-29",
+    "id": "1211423799",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127047",
+  "bond_nm": "帝欧转债",
+  "candidates": [
+   {
+    "title": "帝欧家居股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-10-21",
+    "id": "1211339482",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "帝欧家居股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2021-10-21",
+    "id": "1211339481",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "帝欧家居股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127037",
+  "bond_nm": "银轮转债",
+  "candidates": [
+   {
+    "title": "浙江银轮机械股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-06-03",
+    "id": "1210152316",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "浙江银轮机械股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2021-06-03",
+    "id": "1210152315",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江银轮机械股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "127034",
+  "bond_nm": "绿茵转债",
+  "candidates": [
+   {
+    "title": "公开发行可转债募集说明书摘要",
+    "date": "2021-04-28",
+    "id": "1209836837",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转债募集说明书",
+    "date": "2021-04-28",
+    "id": "1209836836",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转债募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127031",
+  "bond_nm": "洋丰转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-03-23",
+    "id": "1209426270",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2021-03-23",
+    "id": "1209426269",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127038",
+  "bond_nm": "国微转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2021-06-08",
+    "id": "1210184189",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-06-08",
+    "id": "1210184188",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127040",
+  "bond_nm": "国泰转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-07-03",
+    "id": "1210400028",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行A股可转换公司债券募集说明书",
+    "date": "2021-07-03",
+    "id": "1210400027",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行A股可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127046",
+  "bond_nm": "百润转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2021-09-25",
+    "id": "1211147274",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-09-25",
+    "id": "1211147273",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127045",
+  "bond_nm": "牧原转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-08-12",
+    "id": "1210726901",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2021-08-12",
+    "id": "1210726900",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "127044",
+  "bond_nm": "蒙娜转债",
+  "candidates": [
+   {
+    "title": "蒙娜丽莎集团股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2021-08-12",
+    "id": "1210726924",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "蒙娜丽莎集团股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-08-12",
+    "id": "1210726923",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "蒙娜丽莎集团股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "123091",
+  "bond_nm": "长海转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2020-12-21",
+    "id": "1208941390",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2020-12-21",
+    "id": "1208941389",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2020-12-21",
+    "id": "1208941387",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123090",
+  "bond_nm": "三诺转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2020-12-16",
+    "id": "1208919382",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2020-12-16",
+    "id": "1208919371",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2020-12-16",
+    "id": "1208919370",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113615",
+  "bond_nm": "金诚转债",
+  "candidates": [
+   {
+    "title": "金诚信向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-09-24",
+    "id": "1224677367",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "金诚信向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-09-24",
+    "id": "1224677366",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "金诚信矿业管理股份有限公司向不特定对象发行可转换公司债券募集说明书（修订稿）",
+    "date": "2025-02-18",
+    "id": "1222557810",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "金诚信矿业管理股份有限公司向不特定对象发行可转换公司债券募集说明书（修订稿）",
+    "date": "2025-01-10",
+    "id": "1222285105",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "金诚信矿业管理股份有限公司向不特定对象发行可转换公司债券募集说明书（申报稿）",
+    "date": "2024-11-21",
+    "id": "1221789248",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2020-12-21",
+    "id": "1208941889",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2020-12-21",
+    "id": "1208941888",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 5,
+  "body_titles": [
+   "金诚信向不特定对象发行可转换公司债券募集说明书",
+   "金诚信矿业管理股份有限公司向不特定对象发行可转换公司债券募集说明书（修订稿）",
+   "金诚信矿业管理股份有限公司向不特定对象发行可转换公司债券募集说明书（修订稿）",
+   "金诚信矿业管理股份有限公司向不特定对象发行可转换公司债券募集说明书（申报稿）",
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113610",
+  "bond_nm": "灵康转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2020-11-27",
+    "id": "1208806016",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2020-11-27",
+    "id": "1208806015",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113605",
+  "bond_nm": "大参转债",
+  "candidates": [
+   {
+    "title": "医药集团股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2020-10-20",
+    "id": "1208585339",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "医药集团股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2020-10-20",
+    "id": "1208585338",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "医药集团股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113616",
+  "bond_nm": "韦尔转债",
+  "candidates": [
+   {
+    "title": "上海韦尔半导体股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2020-12-24",
+    "id": "1208972562",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2020-12-24",
+    "id": "1208972561",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "上海韦尔半导体股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113625",
+  "bond_nm": "江山转债",
+  "candidates": [
+   {
+    "title": "江山欧派公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-06-09",
+    "id": "1210198247",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "江山欧派公开发行可转换公司债券募集说明书",
+    "date": "2021-06-09",
+    "id": "1210198246",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "江山欧派公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113633",
+  "bond_nm": "科沃转债",
+  "candidates": [
+   {
+    "title": "科沃斯机器人股份有限公司公开发行A股可转换公司债券募集说明书摘要",
+    "date": "2021-11-26",
+    "id": "1211705092",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "科沃斯机器人股份有限公司公开发行A股可转换公司债券募集说明书",
+    "date": "2021-11-26",
+    "id": "1211705091",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "科沃斯机器人股份有限公司公开发行A股可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113631",
+  "bond_nm": "皖天转债",
+  "candidates": [
+   {
+    "title": "安徽省天然气开发股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2021-11-04",
+    "id": "1211479034",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "安徽省天然气开发股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-11-04",
+    "id": "1211479033",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "安徽省天然气开发股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113627",
+  "bond_nm": "太平转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2021-07-13",
+    "id": "1210468779",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-07-13",
+    "id": "1210468778",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113070",
+  "bond_nm": "渝水转债",
+  "candidates": [
+   {
+    "title": "重庆水务集团股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-01-07",
+    "id": "1222247144",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "重庆水务集团股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-01-07",
+    "id": "1222246347",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "重庆水务集团股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-01-07",
+    "id": "1222246345",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "重庆水务集团股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113067",
+  "bond_nm": "燃23转债",
+  "candidates": [
+   {
+    "title": "深圳燃气向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-07-25",
+    "id": "1217376788",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "深圳燃气向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-07-25",
+    "id": "1217376690",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "深圳燃气向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113054",
+  "bond_nm": "绿动转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2022-02-23",
+    "id": "1212430790",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-02-23",
+    "id": "1212430789",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113053",
+  "bond_nm": "隆22转债",
+  "candidates": [
+   {
+    "title": "隆基股份公开发行可转换公司债券募集说明书",
+    "date": "2021-12-31",
+    "id": "1212062538",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "隆基股份公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-12-31",
+    "id": "1212062536",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "隆基股份公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113052",
+  "bond_nm": "兴业转债",
+  "candidates": [
+   {
+    "title": "兴业银行公开发行A股可转换公司债券募集说明书",
+    "date": "2021-12-23",
+    "id": "1211990900",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "兴业银行公开发行A股可转换公司债券募集说明书摘要",
+    "date": "2021-12-23",
+    "id": "1211990899",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "兴业银行公开发行A股可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113056",
+  "bond_nm": "重银转债",
+  "candidates": [
+   {
+    "title": "公开发行A股可转换公司债券募集说明书",
+    "date": "2022-03-21",
+    "id": "1212628871",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行A股可转换公司债券募集说明书摘要",
+    "date": "2022-03-21",
+    "id": "1212628870",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行A股可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113058",
+  "bond_nm": "友发转债",
+  "candidates": [],
+  "body_count": 0,
+  "body_titles": [],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113066",
+  "bond_nm": "平煤转债",
+  "candidates": [
+   {
+    "title": "平顶山天安煤业股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2023-03-14",
+    "id": "1216110808",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "平顶山天安煤业股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2023-03-14",
+    "id": "1216110744",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "平顶山天安煤业股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113062",
+  "bond_nm": "常银转债",
+  "candidates": [
+   {
+    "title": "江苏常熟农村商业银行股份有限公司公开发行A股可转换公司债券募集说明书",
+    "date": "2022-09-13",
+    "id": "1214579678",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "江苏常熟农村商业银行股份有限公司公开发行A股可转换公司债券募集说明书摘要",
+    "date": "2022-09-13",
+    "id": "1214579677",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "江苏常熟农村商业银行股份有限公司公开发行A股可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113059",
+  "bond_nm": "福莱转债",
+  "candidates": [
+   {
+    "title": "福莱特玻璃集团股份有限公司公开发行A股可转换公司债券募集说明书",
+    "date": "2022-05-18",
+    "id": "1213383458",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "福莱特玻璃集团股份有限公司公开发行A股可转换公司债券募集说明书（摘要）",
+    "date": "2022-05-18",
+    "id": "1213383457",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "福莱特玻璃集团股份有限公司公开发行A股可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113634",
+  "bond_nm": "珀莱转债",
+  "candidates": [
+   {
+    "title": "珀莱雅化妆品股份有限公司公开发行A股可转换公司债券募集说明书",
+    "date": "2021-12-04",
+    "id": "1211793328",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "珀莱雅化妆品股份有限公司公开发行A股可转换公司债券募集说明书摘要",
+    "date": "2021-12-04",
+    "id": "1211793327",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "珀莱雅化妆品股份有限公司公开发行A股可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113636",
+  "bond_nm": "甬金转债",
+  "candidates": [
+   {
+    "title": "浙江甬金金属科技股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2021-12-09",
+    "id": "1211848944",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "浙江甬金金属科技股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-12-09",
+    "id": "1211848943",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江甬金金属科技股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113660",
+  "bond_nm": "寿22转债",
+  "candidates": [
+   {
+    "title": "寿仙谷公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-11-15",
+    "id": "1215110161",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "寿仙谷公开发行可转换公司债券募集说明书",
+    "date": "2022-11-15",
+    "id": "1215110158",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "寿仙谷公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113659",
+  "bond_nm": "莱克转债",
+  "candidates": [
+   {
+    "title": "莱克电气公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-10-12",
+    "id": "1214750058",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "莱克电气公开发行可转换公司债券募集说明书",
+    "date": "2022-10-12",
+    "id": "1214750053",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "莱克电气公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113656",
+  "bond_nm": "嘉诚转债",
+  "candidates": [
+   {
+    "title": "广州市嘉诚国际物流股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2022-08-30",
+    "id": "1214448565",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "广州市嘉诚国际物流股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-08-30",
+    "id": "1214448559",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "广州市嘉诚国际物流股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113661",
+  "bond_nm": "福22转债",
+  "candidates": [
+   {
+    "title": "福斯特公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-11-18",
+    "id": "1215141522",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "福斯特公开发行可转换公司债券募集说明书",
+    "date": "2022-11-18",
+    "id": "1215141521",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "福斯特公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113665",
+  "bond_nm": "汇通转债",
+  "candidates": [
+   {
+    "title": "汇通建设集团股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2022-12-13",
+    "id": "1215334550",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "汇通建设集团股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-12-13",
+    "id": "1215334549",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "汇通建设集团股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113671",
+  "bond_nm": "武进转债",
+  "candidates": [
+   {
+    "title": "江苏武进不锈股份有限公司向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2023-07-06",
+    "id": "1217218546",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "江苏武进不锈股份有限公司向不特定对象发行可转换公司债券证券募集说明书摘要",
+    "date": "2023-07-06",
+    "id": "1217218539",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "江苏武进不锈股份有限公司向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113670",
+  "bond_nm": "金23转债",
+  "candidates": [
+   {
+    "title": "金牌厨柜：向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-04-13",
+    "id": "1216392484",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "金牌厨柜：向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-04-13",
+    "id": "1216392483",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "金牌厨柜：向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113666",
+  "bond_nm": "爱玛转债",
+  "candidates": [
+   {
+    "title": "爱玛科技集团股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2023-02-21",
+    "id": "1215907736",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "爱玛科技集团股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2023-02-21",
+    "id": "1215907733",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "爱玛科技集团股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113655",
+  "bond_nm": "欧22转债",
+  "candidates": [
+   {
+    "title": "欧派家居公开发行可转换公司债券募集说明书",
+    "date": "2022-08-03",
+    "id": "1214203101",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "欧派家居公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-08-03",
+    "id": "1214203100",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "欧派家居公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113652",
+  "bond_nm": "伟22转债",
+  "candidates": [
+   {
+    "title": "伟明环保向不特定对象发行可转债募集说明书",
+    "date": "2024-03-26",
+    "id": "1219405389",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "伟明环保向不特定对象发行可转债募集说明书摘要",
+    "date": "2024-03-26",
+    "id": "1219405388",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "伟明环保关于向不特定对象发行可转换公司债券提交募集说明书（注册稿）的提示性公告",
+    "date": "2024-01-15",
+    "id": "1218879976",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "伟明环保向不特定对象发行可转换公司债券募集说明书（注册稿）",
+    "date": "2024-01-15",
+    "id": "1218879973",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "伟明环保向不特定对象发行可转换公司债券募集说明书（上会稿）",
+    "date": "2023-10-17",
+    "id": "1218047719",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "伟明环保关于向不特定对象发行可转换公司债券的审核中心意见落实函回复及募集说明书等申请文件更新的提示性公告",
+    "date": "2023-10-17",
+    "id": "1218047718",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "伟明环保关于向不特定对象发行可转换公司债券募集说明书等申请文件财务数据更新的提示性公告",
+    "date": "2023-08-30",
+    "id": "1217701504",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "伟明环保向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-08-30",
+    "id": "1217701502",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "伟明环保向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-07-26",
+    "id": "1217386290",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "伟明环保关于向不特定对象发行可转换公司债券募集说明书等申请文件修订的提示性公告",
+    "date": "2023-07-26",
+    "id": "1217386289",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "伟明环保向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-05-10",
+    "id": "1216781352",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "伟明环保关于向不特定对象发行可转换公司债券募集说明书等申请文件财务数据更新的提示性公告",
+    "date": "2023-05-10",
+    "id": "1216781347",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "伟明环保向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-03-01",
+    "id": "1216004394",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "伟明环保公开发行A股可转换公司债券募集说明书",
+    "date": "2022-07-20",
+    "id": "1214083529",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "伟明环保公开发行A股可转换公司债券募集说明书摘要",
+    "date": "2022-07-20",
+    "id": "1214083528",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 8,
+  "body_titles": [
+   "伟明环保向不特定对象发行可转债募集说明书",
+   "伟明环保向不特定对象发行可转换公司债券募集说明书（注册稿）",
+   "伟明环保向不特定对象发行可转换公司债券募集说明书（上会稿）",
+   "伟明环保向不特定对象发行可转换公司债券募集说明书",
+   "伟明环保向不特定对象发行可转换公司债券募集说明书",
+   "伟明环保向不特定对象发行可转换公司债券募集说明书",
+   "伟明环保向不特定对象发行可转换公司债券募集说明书",
+   "伟明环保公开发行A股可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113643",
+  "bond_nm": "风语转债",
+  "candidates": [
+   {
+    "title": "上海风语筑文化科技股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2022-03-23",
+    "id": "1212644513",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "上海风语筑文化科技股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-03-23",
+    "id": "1212644512",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "上海风语筑文化科技股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113640",
+  "bond_nm": "苏利转债",
+  "candidates": [
+   {
+    "title": "苏利股份公开发行可转换公司债券募集说明书",
+    "date": "2022-02-14",
+    "id": "1212353122",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "苏利股份公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-02-14",
+    "id": "1212353121",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "苏利股份公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113638",
+  "bond_nm": "台21转债",
+  "candidates": [
+   {
+    "title": "浙江台华新材料股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2021-12-27",
+    "id": "1212022314",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "浙江台华新材料股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-12-27",
+    "id": "1212022313",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江台华新材料股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113646",
+  "bond_nm": "永吉转债",
+  "candidates": [
+   {
+    "title": "贵州永吉印务股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2022-04-12",
+    "id": "1212886963",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "贵州永吉印务股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-04-12",
+    "id": "1212886961",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "贵州永吉印务股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113647",
+  "bond_nm": "禾丰转债",
+  "candidates": [
+   {
+    "title": "禾丰食品股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2022-04-20",
+    "id": "1212976664",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "禾丰食品股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-04-20",
+    "id": "1212976663",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "禾丰食品股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113650",
+  "bond_nm": "博22转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2022-06-29",
+    "id": "1213855551",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-06-29",
+    "id": "1213855550",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113649",
+  "bond_nm": "丰山转债",
+  "candidates": [
+   {
+    "title": "丰山集团：公开发行可转换公司债券募集说明书",
+    "date": "2022-06-23",
+    "id": "1213790728",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-06-23",
+    "id": "1213790727",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "丰山集团：公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113648",
+  "bond_nm": "巨星转债",
+  "candidates": [
+   {
+    "title": "巨星农牧公开发行可转换公司债券募集说明书",
+    "date": "2022-04-21",
+    "id": "1212999930",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "巨星农牧公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-04-21",
+    "id": "1212999929",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "巨星农牧公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113051",
+  "bond_nm": "节能转债",
+  "candidates": [
+   {
+    "title": "中节能风力发电股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2021-06-17",
+    "id": "1210253379",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "中节能风力发电股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-06-17",
+    "id": "1210253377",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "中节能风力发电股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113049",
+  "bond_nm": "长汽转债",
+  "candidates": [
+   {
+    "title": "长城汽车股份有限公司公开发行A股可转换公司债券募集说明书",
+    "date": "2021-06-08",
+    "id": "1210183713",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "长城汽车股份有限公司公开发行A股可转换公司债券募集说明书（摘要）",
+    "date": "2021-06-08",
+    "id": "1210183710",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "长城汽车股份有限公司公开发行A股可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "110098",
+  "bond_nm": "南药转债",
+  "candidates": [
+   {
+    "title": "南京医药向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-12-23",
+    "id": "1222102827",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "南京医药向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-12-23",
+    "id": "1222102824",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "南京医药向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "110097",
+  "bond_nm": "天润转债",
+  "candidates": [
+   {
+    "title": "新疆天润乳业股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-10-22",
+    "id": "1221451958",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "新疆天润乳业股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-10-22",
+    "id": "1221451955",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "新疆天润乳业股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "110095",
+  "bond_nm": "双良转债",
+  "candidates": [
+   {
+    "title": "双良节能系统股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-08-04",
+    "id": "1217460889",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "双良节能系统股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-08-04",
+    "id": "1217460885",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "双良节能系统股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "110099",
+  "bond_nm": "福能转债",
+  "candidates": [
+   {
+    "title": "福能股份向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-10-09",
+    "id": "1224697637",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "福能股份向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-10-09",
+    "id": "1224697636",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "福能股份向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "110100",
+  "bond_nm": "龙建转债",
+  "candidates": [
+   {
+    "title": "龙建路桥股份有限公司向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2026-01-20",
+    "id": "1224940515",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "龙建股份向不特定对象发行可转换公司债券证券募集说明书摘要",
+    "date": "2026-01-20",
+    "id": "1224940508",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "龙建路桥股份有限公司向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "110103",
+  "bond_nm": "申能转债",
+  "candidates": [
+   {
+    "title": "申能股份有限公司向不特定对象发行可转换公司债券并在主板上市的证券募集说明书摘要",
+    "date": "2026-07-22",
+    "id": "1225435855",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "申能股份有限公司向不特定对象发行可转换公司债券并在主板上市的证券募集说明书",
+    "date": "2026-07-22",
+    "id": "1225435782",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "申能股份有限公司向不特定对象发行可转换公司债券并在主板上市的证券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "110102",
+  "bond_nm": "江农转债",
+  "candidates": [
+   {
+    "title": "江山股份向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-07-10",
+    "id": "1225417729",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "江山股份向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-07-10",
+    "id": "1225417728",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "江山股份向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "110101",
+  "bond_nm": "宝钛转债",
+  "candidates": [
+   {
+    "title": "宝鸡钛业股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-06-22",
+    "id": "1225379982",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "宝鸡钛业股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-06-22",
+    "id": "1225379931",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "宝鸡钛业股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "110093",
+  "bond_nm": "神马转债",
+  "candidates": [
+   {
+    "title": "神马股份向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-03-14",
+    "id": "1216110266",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "神马实业股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-03-14",
+    "id": "1216110263",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "神马实业股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "110092",
+  "bond_nm": "三房转债",
+  "candidates": [
+   {
+    "title": "江苏三房巷聚材股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2023-01-04",
+    "id": "1215519625",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "江苏三房巷聚材股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2023-01-04",
+    "id": "1215519620",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "江苏三房巷聚材股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "110081",
+  "bond_nm": "闻泰转债",
+  "candidates": [
+   {
+    "title": "闻泰科技股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2021-07-26",
+    "id": "1210564834",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书（摘要）",
+    "date": "2021-07-26",
+    "id": "1210564833",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "闻泰科技股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "110077",
+  "bond_nm": "洪城转债",
+  "candidates": [],
+  "body_count": 0,
+  "body_titles": [],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "110076",
+  "bond_nm": "华海转债",
+  "candidates": [
+   {
+    "title": "浙江华海药业股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2020-10-29",
+    "id": "1208639643",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "浙江华海药业股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2020-10-29",
+    "id": "1208639642",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江华海药业股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "110084",
+  "bond_nm": "贵燃转债",
+  "candidates": [
+   {
+    "title": "贵州燃气集团股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2021-12-23",
+    "id": "1211990832",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "贵州燃气集团股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-12-23",
+    "id": "1211990831",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "贵州燃气集团股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "110085",
+  "bond_nm": "通22转债",
+  "candidates": [
+   {
+    "title": "通威股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2022-02-22",
+    "id": "1212412705",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "通威股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-02-22",
+    "id": "1212412704",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "通威股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "110090",
+  "bond_nm": "爱迪转债",
+  "candidates": [
+   {
+    "title": "公开发行可转换公司债券募集说明书",
+    "date": "2022-09-21",
+    "id": "1214635346",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-09-21",
+    "id": "1214635345",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "110087",
+  "bond_nm": "天业转债",
+  "candidates": [
+   {
+    "title": "新疆天业股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2022-06-21",
+    "id": "1213760831",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "新疆天业股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-06-21",
+    "id": "1213760830",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "新疆天业股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "110086",
+  "bond_nm": "精工转债",
+  "candidates": [
+   {
+    "title": "精工钢构公开发行可转换公司债券募集说明书",
+    "date": "2022-04-20",
+    "id": "1212978154",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "精工钢构公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-04-20",
+    "id": "1212978153",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "精工钢构公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "111000",
+  "bond_nm": "起帆转债",
+  "candidates": [
+   {
+    "title": "起帆电缆公开发行可转换公司债券募集说明书",
+    "date": "2021-05-20",
+    "id": "1210011191",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "起帆电缆公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-05-20",
+    "id": "1210011190",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "起帆电缆公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "111002",
+  "bond_nm": "特纸转债",
+  "candidates": [
+   {
+    "title": "衢州五洲特种纸业股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2021-12-06",
+    "id": "1211808752",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "衢州五洲特种纸业股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-12-06",
+    "id": "1211808751",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "衢州五洲特种纸业股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "111025",
+  "bond_nm": "圣泉转债",
+  "candidates": [
+   {
+    "title": "圣泉集团向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-06-23",
+    "id": "1225382082",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "圣泉集团向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-06-23",
+    "id": "1225382069",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "圣泉集团向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "111024",
+  "bond_nm": "澳弘转债",
+  "candidates": [
+   {
+    "title": "常州澳弘电子股份有限公司向不特定对象发行可转换公司债券证券募集说明书摘要",
+    "date": "2025-12-09",
+    "id": "1224859339",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "常州澳弘电子股份有限公司向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2025-12-09",
+    "id": "1224859323",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "常州澳弘电子股份有限公司向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "111022",
+  "bond_nm": "锡振转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-06-16",
+    "id": "1223880118",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-06-16",
+    "id": "1223880114",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "111026",
+  "bond_nm": "派克转债",
+  "candidates": [
+   {
+    "title": "派克新材向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-08-04",
+    "id": "1225454513",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "派克新材向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-08-04",
+    "id": "1225454510",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "派克新材向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113042",
+  "bond_nm": "上银转债",
+  "candidates": [
+   {
+    "title": "公开发行A股可转换公司债券募集说明书",
+    "date": "2021-01-21",
+    "id": "1209154427",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行A股可转换公司债券募集说明书摘要",
+    "date": "2021-01-21",
+    "id": "1209154426",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行A股可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113048",
+  "bond_nm": "晶科转债",
+  "candidates": [
+   {
+    "title": "晶科电力科技股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2021-04-21",
+    "id": "1209740579",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "晶科电力科技股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-04-21",
+    "id": "1209740578",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "晶科电力科技股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113046",
+  "bond_nm": "金田转债",
+  "candidates": [
+   {
+    "title": "宁波金田铜业（集团）股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-07-26",
+    "id": "1217386114",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "宁波金田铜业（集团）股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-07-26",
+    "id": "1217386111",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "宁波金田铜业（集团）股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿）",
+    "date": "2023-06-07",
+    "id": "1217002101",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "金田股份关于向不特定对象发行可转换公司债券提交募集说明书（注册稿）的提示性公告",
+    "date": "2023-06-07",
+    "id": "1217002100",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "金田股份关于宁波金田铜业（集团）股份有限公司向不特定对象发行可转换公司债券的审核中心意见落实函回复及募集说明书等申请文件更新的提示性公告",
+    "date": "2023-05-24",
+    "id": "1216883896",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "宁波金田铜业（集团）股份有限公司向不特定对象发行可转换公司债券募集说明书（上会稿）",
+    "date": "2023-05-24",
+    "id": "1216883894",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "宁波金田铜业（集团）股份有限公司向不特定对象发行可转换公司债券募集说明书（申报稿）",
+    "date": "2023-03-07",
+    "id": "1216053995",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "金田铜业公开发行可转换公司债券募集说明书",
+    "date": "2021-03-18",
+    "id": "1209402930",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "金田铜业公开发行可转换公司债券募集说明书摘要",
+    "date": "2021-03-18",
+    "id": "1209402929",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 5,
+  "body_titles": [
+   "宁波金田铜业（集团）股份有限公司向不特定对象发行可转换公司债券募集说明书",
+   "宁波金田铜业（集团）股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿）",
+   "宁波金田铜业（集团）股份有限公司向不特定对象发行可转换公司债券募集说明书（上会稿）",
+   "宁波金田铜业（集团）股份有限公司向不特定对象发行可转换公司债券募集说明书（申报稿）",
+   "金田铜业公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113043",
+  "bond_nm": "财通转债",
+  "candidates": [
+   {
+    "title": "公开发行A股可转换公司债券募集说明书",
+    "date": "2020-12-08",
+    "id": "1208864870",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行A股可转换公司债券募集说明书摘要",
+    "date": "2020-12-08",
+    "id": "1208864869",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行A股可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "111021",
+  "bond_nm": "奥锐转债",
+  "candidates": [
+   {
+    "title": "奥锐特药业股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-07-24",
+    "id": "1220711708",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "奥锐特药业股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-07-24",
+    "id": "1220711707",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "奥锐特药业股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "111020",
+  "bond_nm": "合顺转债",
+  "candidates": [
+   {
+    "title": "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-07-18",
+    "id": "1220664020",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-07-18",
+    "id": "1220664015",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "111009",
+  "bond_nm": "盛泰转债",
+  "candidates": [
+   {
+    "title": "公开发行A股可转换公司债券募集说明书",
+    "date": "2022-11-03",
+    "id": "1215014083",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行A股可转换公司债券募集说明书摘要",
+    "date": "2022-11-03",
+    "id": "1215014082",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行A股可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "111004",
+  "bond_nm": "明新转债",
+  "candidates": [
+   {
+    "title": "明新旭腾新材料股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-03-28",
+    "id": "1212699013",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "明新旭腾新材料股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2022-03-28",
+    "id": "1212699012",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "明新旭腾新材料股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "111003",
+  "bond_nm": "聚合转债",
+  "candidates": [
+   {
+    "title": "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-07-18",
+    "id": "1220664020",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-07-18",
+    "id": "1220664015",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "杭州聚合顺新材料股份有限公司关于关于申请向不特定对象发行可转换公司债券提交募集说明书（注册稿）的提示性公告",
+    "date": "2024-05-14",
+    "id": "1220041510",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿）",
+    "date": "2024-05-14",
+    "id": "1220041508",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券募集说明书（上会稿）（2023年年报更新）",
+    "date": "2024-04-13",
+    "id": "1219595842",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "杭州聚合顺新材料股份有限公司关于向不特定对象发行可转换公司债券募集说明书等申请文件更新财务数据的提示性公告",
+    "date": "2024-04-13",
+    "id": "1219595841",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券募集说明书（上会稿）",
+    "date": "2024-01-18",
+    "id": "1218932152",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券募集说明书（上会稿）",
+    "date": "2023-10-16",
+    "id": "1218042125",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券证券募集说明书（申报稿）（2023年半年报更新）",
+    "date": "2023-08-30",
+    "id": "1217695366",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "杭州聚合顺新材料股份有限公司关于申请向不特定对象发行可转换公司债券的审核问询函回复及债券募集说明书等申请文件更新内容的提示性公告",
+    "date": "2023-08-30",
+    "id": "1217695365",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "杭州聚合顺新材料股份有限公司关于申请向不特定对象发行可转换公司债券的审核问询函回复及债券募集说明书等申请文件更新内容的提示性公告",
+    "date": "2023-05-18",
+    "id": "1216842190",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券证券募集说明书（申报稿）（2022年年报数据更新版）",
+    "date": "2023-04-21",
+    "id": "1216491801",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "杭州聚合顺新材料股份有限公司关于公司申请向不特定对象发行可转换公司债券的审核问询函回复及债券募集说明书等申请文件更新财务数据的提示性公告",
+    "date": "2023-04-21",
+    "id": "1216491796",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券证券募集说明书（申报稿）",
+    "date": "2023-03-06",
+    "id": "1216051395",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "杭州聚合顺新材料股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2022-03-03",
+    "id": "1212493982",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "杭州聚合顺新材料股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-03-03",
+    "id": "1212493981",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 9,
+  "body_titles": [
+   "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券募集说明书",
+   "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿）",
+   "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券募集说明书（上会稿）（2023年年报更新）",
+   "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券募集说明书（上会稿）",
+   "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券募集说明书（上会稿）",
+   "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券证券募集说明书（申报稿）（2023年半年报更新）",
+   "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券证券募集说明书（申报稿）（2022年年报数据更新版）",
+   "杭州聚合顺新材料股份有限公司向不特定对象发行可转换公司债券证券募集说明书（申报稿）",
+   "杭州聚合顺新材料股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "111012",
+  "bond_nm": "福新转债",
+  "candidates": [
+   {
+    "title": "浙江福莱新材料股份有限公司公开发行可转换公司债券募集说明书",
+    "date": "2022-12-30",
+    "id": "1215484512",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "浙江福莱新材料股份有限公司公开发行可转换公司债券募集说明书摘要",
+    "date": "2022-12-30",
+    "id": "1215484509",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江福莱新材料股份有限公司公开发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "111014",
+  "bond_nm": "李子转债",
+  "candidates": [
+   {
+    "title": "浙江李子园食品股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-06-16",
+    "id": "1217075440",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "浙江李子园食品股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-06-16",
+    "id": "1217075437",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江李子园食品股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "111018",
+  "bond_nm": "华康转债",
+  "candidates": [
+   {
+    "title": "浙江华康药业股份有限公司向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2023-12-21",
+    "id": "1218674679",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "浙江华康药业股份有限公司向不特定对象发行可转换公司债券证券募集说明书摘要",
+    "date": "2023-12-21",
+    "id": "1218674672",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江华康药业股份有限公司向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "111017",
+  "bond_nm": "蓝天转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券证券募集说明书摘要",
+    "date": "2023-08-11",
+    "id": "1217511725",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "蓝天燃气向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2023-08-11",
+    "id": "1217511621",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "蓝天燃气向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "111015",
+  "bond_nm": "东亚转债",
+  "candidates": [
+   {
+    "title": "东亚药业向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-07-04",
+    "id": "1217202851",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "东亚药业向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-07-04",
+    "id": "1217202850",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "东亚药业向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113673",
+  "bond_nm": "岱美转债",
+  "candidates": [
+   {
+    "title": "上海岱美汽车内饰件股份有限公司向不特定对象发行可转债募集说明书",
+    "date": "2023-07-14",
+    "id": "1217293529",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "上海岱美汽车内饰件股份有限公司向不特定对象发行可转债募集说明书摘要",
+    "date": "2023-07-14",
+    "id": "1217293525",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "上海岱美汽车内饰件股份有限公司向不特定对象发行可转债募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113674",
+  "bond_nm": "华设转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券并在主板上市募集说明书摘要",
+    "date": "2023-07-19",
+    "id": "1217323889",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券并在主板上市募集说明书",
+    "date": "2023-07-19",
+    "id": "1217323885",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券并在主板上市募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118056",
+  "bond_nm": "路维转债",
+  "candidates": [
+   {
+    "title": "路维光电向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-06-09",
+    "id": "1223816511",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "路维光电向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-06-09",
+    "id": "1223816510",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "路维光电向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118052",
+  "bond_nm": "浩瀚转债",
+  "candidates": [
+   {
+    "title": "北京浩瀚深度信息技术股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-03-11",
+    "id": "1222759775",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "北京浩瀚深度信息技术股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-03-11",
+    "id": "1222759773",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "北京浩瀚深度信息技术股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118051",
+  "bond_nm": "皓元转债",
+  "candidates": [
+   {
+    "title": "上海皓元医药向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-11-26",
+    "id": "1221836313",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "上海皓元医药股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-11-26",
+    "id": "1221836307",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "上海皓元医药向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118058",
+  "bond_nm": "微导转债",
+  "candidates": [
+   {
+    "title": "江苏微导纳米科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-08-04",
+    "id": "1224377801",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "江苏微导纳米科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-08-04",
+    "id": "1224377800",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "江苏微导纳米科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118059",
+  "bond_nm": "颀中转债",
+  "candidates": [
+   {
+    "title": "合肥颀中科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-10-30",
+    "id": "1224766155",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "合肥颀中科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-10-30",
+    "id": "1224766154",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "合肥颀中科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118062",
+  "bond_nm": "天准转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券并在科创板上市募集说明书摘要",
+    "date": "2025-12-10",
+    "id": "1224863280",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券并在科创板上市募集说明书",
+    "date": "2025-12-10",
+    "id": "1224863276",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券并在科创板上市募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118061",
+  "bond_nm": "茂莱转债",
+  "candidates": [
+   {
+    "title": "南京茂莱光学科技股份有限公司向不特定对象发行可转换公司债券证券募集说明书（摘要）",
+    "date": "2025-11-19",
+    "id": "1224813523",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "南京茂莱光学科技股份有限公司向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2025-11-19",
+    "id": "1224813501",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "南京茂莱光学科技股份有限公司向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118060",
+  "bond_nm": "瑞可转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2025-11-12",
+    "id": "1224799400",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券证券募集说明书摘要",
+    "date": "2025-11-12",
+    "id": "1224799399",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118050",
+  "bond_nm": "航宇转债",
+  "candidates": [
+   {
+    "title": "贵州航宇科技发展股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-08-19",
+    "id": "1220904610",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "贵州航宇科技发展股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-08-19",
+    "id": "1220904609",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "贵州航宇科技发展股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118044",
+  "bond_nm": "赛特转债",
+  "candidates": [
+   {
+    "title": "福建赛特新材股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-09-07",
+    "id": "1217796718",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "福建赛特新材股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-09-07",
+    "id": "1217796717",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "福建赛特新材股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿）（2023年半年度财务数据更新版）",
+    "date": "2023-08-15",
+    "id": "1217532256",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "赛特新材：关于向不特定对象发行可转换公司债券的募集说明书等申请文件财务数据更新的提示性公告",
+    "date": "2023-08-15",
+    "id": "1217532253",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "福建赛特新材股份有限公司向不特定对象发行可转换公司债券募集说明书",
+   "福建赛特新材股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿）（2023年半年度财务数据更新版）"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118034",
+  "bond_nm": "晶能转债",
+  "candidates": [
+   {
+    "title": "晶科能源向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-04-18",
+    "id": "1216443701",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "晶科能源向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-04-18",
+    "id": "1216443695",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "晶科能源向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118032",
+  "bond_nm": "建龙转债",
+  "candidates": [
+   {
+    "title": "洛阳建龙微纳新材料股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-03-06",
+    "id": "1216051408",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "洛阳建龙微纳新材料股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-03-06",
+    "id": "1216051407",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "洛阳建龙微纳新材料股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118031",
+  "bond_nm": "天23转债",
+  "candidates": [
+   {
+    "title": "天合光能股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-02-09",
+    "id": "1215805081",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "天合光能股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-02-09",
+    "id": "1215805079",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "天合光能股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118035",
+  "bond_nm": "国力转债",
+  "candidates": [
+   {
+    "title": "昆山国力电子科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-06-08",
+    "id": "1217013171",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "昆山国力电子科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-06-08",
+    "id": "1217013169",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "昆山国力电子科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118036",
+  "bond_nm": "力合转债",
+  "candidates": [
+   {
+    "title": "深圳市力合微电子股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-06-26",
+    "id": "1217133115",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "深圳市力合微电子股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-06-26",
+    "id": "1217133111",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "深圳市力合微电子股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118042",
+  "bond_nm": "奥维转债",
+  "candidates": [
+   {
+    "title": "无锡奥特维科技股份有限公司向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2023-08-08",
+    "id": "1217479611",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "无锡奥特维科技股份有限公司向不特定对象发行可转换公司债券证券募集说明书摘要",
+    "date": "2023-08-08",
+    "id": "1217479606",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "无锡奥特维科技股份有限公司向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118039",
+  "bond_nm": "煜邦转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-07-18",
+    "id": "1217315742",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-07-18",
+    "id": "1217315739",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118037",
+  "bond_nm": "上声转债",
+  "candidates": [
+   {
+    "title": "苏州上声电子股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-03-16",
+    "id": "1225010498",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "苏州上声电子股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-03-16",
+    "id": "1225010483",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "苏州上声电子股份有限公司向不特定对象发行可转换公司债券证券募集说明书（申报稿）",
+    "date": "2025-08-26",
+    "id": "1224566870",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "苏州上声电子股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-07-04",
+    "id": "1217203939",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "苏州上声电子股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-07-04",
+    "id": "1217203933",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 3,
+  "body_titles": [
+   "苏州上声电子股份有限公司向不特定对象发行可转换公司债券募集说明书",
+   "苏州上声电子股份有限公司向不特定对象发行可转换公司债券证券募集说明书（申报稿）",
+   "苏州上声电子股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118063",
+  "bond_nm": "金05转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-12-23",
+    "id": "1224892393",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-12-23",
+    "id": "1224892389",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118064",
+  "bond_nm": "联瑞转债",
+  "candidates": [
+   {
+    "title": "江苏联瑞新材料股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-01-06",
+    "id": "1224920453",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "江苏联瑞新材料股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-01-06",
+    "id": "1224920450",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "江苏联瑞新材料股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118077",
+  "bond_nm": "莱特转债",
+  "candidates": [
+   {
+    "title": "陕西莱特光电材料股份有限公司向不特定对象发行可转换公司债券的证券募集说明书摘要",
+    "date": "2026-09-24",
+    "id": "1225580210",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "陕西莱特光电材料股份有限公司向不特定对象发行可转换公司债券的证券募集说明书",
+    "date": "2026-09-24",
+    "id": "1225580205",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "陕西莱特光电材料股份有限公司关于向不特定对象发行可转换公司债券募集说明书（注册稿）等相关文件更新财务数据的提示性公告",
+    "date": "2026-09-09",
+    "id": "1225554282",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "陕西莱特光电材料股份有限公司向不特定对象发行可转换公司债券的证券募集说明书（注册稿）",
+    "date": "2026-09-09",
+    "id": "1225554273",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "陕西莱特光电材料股份有限公司向不特定对象发行可转换公司债券的证券募集说明书",
+   "陕西莱特光电材料股份有限公司向不特定对象发行可转换公司债券的证券募集说明书（注册稿）"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118076",
+  "bond_nm": "先锋转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-08-04",
+    "id": "1225456312",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券证券募集说明书摘要",
+    "date": "2026-08-04",
+    "id": "1225456309",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118075",
+  "bond_nm": "奥普转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-07-27",
+    "id": "1225442126",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-07-27",
+    "id": "1225442123",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123071",
+  "bond_nm": "天能转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2020-10-19",
+    "id": "1208578545",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2020-10-19",
+    "id": "1208578544",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2020-10-19",
+    "id": "1208578543",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123072",
+  "bond_nm": "乐歌转债",
+  "candidates": [
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2020-10-19",
+    "id": "1208578998",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2020-10-19",
+    "id": "1208578987",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2020-10-19",
+    "id": "1208578978",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123088",
+  "bond_nm": "威唐转债",
+  "candidates": [
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2020-12-11",
+    "id": "1208886784",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2020-12-11",
+    "id": "1208886776",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2020-12-11",
+    "id": "1208886774",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123080",
+  "bond_nm": "海波转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2020-11-30",
+    "id": "1208813329",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2020-11-30",
+    "id": "1208813328",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2020-11-30",
+    "id": "1208813325",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "123076",
+  "bond_nm": "强力转债",
+  "candidates": [
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书提示性公告",
+    "date": "2020-11-17",
+    "id": "1208751197",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2020-11-17",
+    "id": "1208751191",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "创业板向不特定对象发行可转换公司债券募集说明书",
+    "date": "2020-11-17",
+    "id": "1208751190",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "创业板向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118074",
+  "bond_nm": "特宝转债",
+  "candidates": [
+   {
+    "title": "特宝生物：向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-07-24",
+    "id": "1225439631",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "特宝生物：向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-07-24",
+    "id": "1225439628",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "特宝生物：向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118073",
+  "bond_nm": "赛斯转债",
+  "candidates": [
+   {
+    "title": "赛恩斯环保股份有限公司向不特定对象发行可转换公司债券并在科创板上市募集说明书",
+    "date": "2026-07-15",
+    "id": "1225424995",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "赛恩斯环保股份有限公司向不特定对象发行可转换公司债券并在科创板上市募集说明书摘要",
+    "date": "2026-07-15",
+    "id": "1225424994",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "赛恩斯环保股份有限公司向不特定对象发行可转换公司债券并在科创板上市募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118067",
+  "bond_nm": "上26转债",
+  "candidates": [
+   {
+    "title": "苏州上声电子股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-03-16",
+    "id": "1225010498",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "苏州上声电子股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-03-16",
+    "id": "1225010483",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "苏州上声电子股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118066",
+  "bond_nm": "统联转债",
+  "candidates": [
+   {
+    "title": "深圳市泛海统联精密制造股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-02-26",
+    "id": "1224984612",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "深圳市泛海统联精密制造股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-02-26",
+    "id": "1224984610",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "深圳市泛海统联精密制造股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118065",
+  "bond_nm": "艾为转债",
+  "candidates": [
+   {
+    "title": "艾为电子向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-01-20",
+    "id": "1224940691",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "艾为电子向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-01-20",
+    "id": "1224940688",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "艾为电子向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118068",
+  "bond_nm": "迪威转债",
+  "candidates": [
+   {
+    "title": "迪威尔向不特定对象发行可转换公司债券并在科创板上市募集说明书",
+    "date": "2026-06-02",
+    "id": "1225343217",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "迪威尔向不特定对象发行可转换公司债券并在科创板上市募集说明书摘要",
+    "date": "2026-06-02",
+    "id": "1225343207",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "迪威尔向不特定对象发行可转换公司债券并在科创板上市募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118069",
+  "bond_nm": "爱科转债",
+  "candidates": [
+   {
+    "title": "杭州爱科科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-06-09",
+    "id": "1225358603",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "杭州爱科科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-06-09",
+    "id": "1225358598",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "杭州爱科科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118072",
+  "bond_nm": "鼎通转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-06-22",
+    "id": "1225379957",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-06-22",
+    "id": "1225379939",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118071",
+  "bond_nm": "华峰转债",
+  "candidates": [
+   {
+    "title": "华峰测控向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2026-06-19",
+    "id": "1225379738",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "华峰测控向不特定对象发行可转换公司债券证券募集说明书摘要",
+    "date": "2026-06-19",
+    "id": "1225379737",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "华峰测控向不特定对象发行可转换公司债券证券募集说明书（摘要）",
+    "date": "2026-06-18",
+    "id": "1225377179",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "华峰测控向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2026-06-18",
+    "id": "1225377178",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "华峰测控向不特定对象发行可转换公司债券证券募集说明书",
+   "华峰测控向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118070",
+  "bond_nm": "南芯转债",
+  "candidates": [
+   {
+    "title": "上海南芯半导体科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-06-16",
+    "id": "1225372496",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "上海南芯半导体科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-06-16",
+    "id": "1225372494",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "上海南芯半导体科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118030",
+  "bond_nm": "睿创转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-12-28",
+    "id": "1215464659",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-12-28",
+    "id": "1215464653",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118027",
+  "bond_nm": "宏图转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-11-24",
+    "id": "1215187530",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-11-24",
+    "id": "1215187523",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "航天宏图信息技术股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿）（2022年三季度财务数据更新版）",
+    "date": "2022-10-29",
+    "id": "1214964860",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "关于向不特定对象发行可转换公司债券募集说明书等申请文件财务数据更新的提示性公告",
+    "date": "2022-10-29",
+    "id": "1214964859",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书",
+   "航天宏图信息技术股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿）（2022年三季度财务数据更新版）"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113695",
+  "bond_nm": "华辰转债",
+  "candidates": [
+   {
+    "title": "江苏华辰变压器股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-06-18",
+    "id": "1223900740",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "江苏华辰变压器股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-06-18",
+    "id": "1223900739",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "江苏华辰变压器股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113694",
+  "bond_nm": "清源转债",
+  "candidates": [
+   {
+    "title": "清源科技股份有限公司向不特定对象发行可转换公司债券并在主板上市募集说明书",
+    "date": "2025-04-03",
+    "id": "1222993107",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "清源科技股份有限公司向不特定对象发行可转换公司债券并在主板上市募集说明书摘要",
+    "date": "2025-04-03",
+    "id": "1222993104",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "清源科技股份有限公司向不特定对象发行可转换公司债券并在主板上市募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113693",
+  "bond_nm": "志邦转债",
+  "candidates": [
+   {
+    "title": "志邦家居股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-03-14",
+    "id": "1222789258",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "志邦家居股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-03-14",
+    "id": "1222789253",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "志邦家居股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113696",
+  "bond_nm": "伯25转债",
+  "candidates": [
+   {
+    "title": "芜湖伯特利汽车安全系统股份有限公司向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2025-06-27",
+    "id": "1224000385",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "芜湖伯特利汽车安全系统股份有限公司向不特定对象发行可转换公司债券证券募集说明书摘要",
+    "date": "2025-06-27",
+    "id": "1224000383",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "芜湖伯特利汽车安全系统股份有限公司向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113698",
+  "bond_nm": "凯众转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-08-13",
+    "id": "1224462936",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-08-13",
+    "id": "1224462931",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113701",
+  "bond_nm": "祥和转债",
+  "candidates": [
+   {
+    "title": "浙江天台祥和实业股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-02-27",
+    "id": "1224986359",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "浙江天台祥和实业股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-02-27",
+    "id": "1224986353",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江天台祥和实业股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113700",
+  "bond_nm": "海天转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2026-02-03",
+    "id": "1224963677",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券证券募集说明书摘要",
+    "date": "2026-02-03",
+    "id": "1224963673",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113699",
+  "bond_nm": "金25转债",
+  "candidates": [
+   {
+    "title": "金诚信向不特定对象发行可转换公司债券募集说明书",
+    "date": "2025-09-24",
+    "id": "1224677367",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "金诚信向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2025-09-24",
+    "id": "1224677366",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "金诚信向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113692",
+  "bond_nm": "保隆转债",
+  "candidates": [
+   {
+    "title": "上海保隆汽车科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-10-29",
+    "id": "1221544396",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "上海保隆汽车科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-10-29",
+    "id": "1221544142",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "上海保隆汽车科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-10-29",
+    "id": "1221544140",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "上海保隆汽车科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113691",
+  "bond_nm": "和邦转债",
+  "candidates": [
+   {
+    "title": "四川和邦生物科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-10-24",
+    "id": "1221489547",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "四川和邦生物科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-10-24",
+    "id": "1221489544",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "四川和邦生物科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113679",
+  "bond_nm": "芯能转债",
+  "candidates": [
+   {
+    "title": "浙江芯能光伏科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-10-24",
+    "id": "1218123853",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "浙江芯能光伏科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-10-24",
+    "id": "1218123849",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江芯能光伏科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113678",
+  "bond_nm": "中贝转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2023-10-17",
+    "id": "1218049062",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券证券募集说明书摘要",
+    "date": "2023-10-17",
+    "id": "1218049059",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113677",
+  "bond_nm": "华懋转债",
+  "candidates": [
+   {
+    "title": "华懋（厦门）新材料科技股份有限公司向不特定对象发行可转换公司债券募集说明书（发行稿）",
+    "date": "2023-09-12",
+    "id": "1217825702",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "华懋（厦门）新材料科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-09-12",
+    "id": "1217825701",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "华懋（厦门）新材料科技股份有限公司向不特定对象发行可转换公司债券募集说明书（发行稿）"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113680",
+  "bond_nm": "丽岛转债",
+  "candidates": [
+   {
+    "title": "丽岛新材：向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-11-13",
+    "id": "1218315200",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "丽岛新材：向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-11-13",
+    "id": "1218315197",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "丽岛新材：江苏丽岛新材料股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿)",
+    "date": "2023-10-31",
+    "id": "1218204632",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "丽岛新材：关于向不特定对象发行可转换公司债券申请文件募集说明书（注册稿）等相关文件更新财务数据的提示性公告",
+    "date": "2023-10-31",
+    "id": "1218204631",
+    "is_summary": false,
+    "is_notice": true
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "丽岛新材：向不特定对象发行可转换公司债券募集说明书",
+   "丽岛新材：江苏丽岛新材料股份有限公司向不特定对象发行可转换公司债券募集说明书（注册稿)"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113681",
+  "bond_nm": "镇洋转债",
+  "candidates": [
+   {
+    "title": "浙江镇洋发展股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2023-12-27",
+    "id": "1218734285",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "浙江镇洋发展股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2023-12-27",
+    "id": "1218734284",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江镇洋发展股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113688",
+  "bond_nm": "国检转债",
+  "candidates": [
+   {
+    "title": "中国国检测试控股集团股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-10-15",
+    "id": "1221384752",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "国检集团向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-10-15",
+    "id": "1221384751",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "中国国检测试控股集团股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113686",
+  "bond_nm": "泰瑞转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券之募集说明书摘要",
+    "date": "2024-06-28",
+    "id": "1220483760",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券之募集说明书",
+    "date": "2024-06-28",
+    "id": "1220483754",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "关于向不特定对象发行可转换公司债券募集说明书（注册稿）等相关文件更新稿的提示性公告",
+    "date": "2024-06-18",
+    "id": "1220377191",
+    "is_summary": false,
+    "is_notice": true
+   },
+   {
+    "title": "泰瑞机器股份有限公司向不特定对象发行可转换公司债券之募集说明书（注册稿）（更新稿）",
+    "date": "2024-06-18",
+    "id": "1220377190",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 2,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券之募集说明书",
+   "泰瑞机器股份有限公司向不特定对象发行可转换公司债券之募集说明书（注册稿）（更新稿）"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113682",
+  "bond_nm": "益丰转债",
+  "candidates": [
+   {
+    "title": "益丰大药房连锁股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2024-02-29",
+    "id": "1219210354",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "益丰大药房连锁股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2024-02-29",
+    "id": "1219210353",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "益丰大药房连锁股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113702",
+  "bond_nm": "斯达转债",
+  "candidates": [],
+  "body_count": 0,
+  "body_titles": [],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113703",
+  "bond_nm": "翔26转债",
+  "candidates": [
+   {
+    "title": "山西华翔集团股份有限公司向不特定对象发行可转换公司债券的证券募集说明书摘要",
+    "date": "2026-06-04",
+    "id": "1225349743",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "山西华翔集团股份有限公司向不特定对象发行可转换公司债券的证券募集说明书",
+    "date": "2026-06-04",
+    "id": "1225349742",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "山西华翔集团股份有限公司向不特定对象发行可转换公司债券的证券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118013",
+  "bond_nm": "道通转债",
+  "candidates": [
+   {
+    "title": "深圳市道通科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-07-06",
+    "id": "1213957966",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "深圳市道通科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-07-06",
+    "id": "1213957965",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "深圳市道通科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118012",
+  "bond_nm": "微芯转债",
+  "candidates": [
+   {
+    "title": "深圳微芯生物科技股份有限公司向不特定对象发行可转换公司债券证券募集说明书摘要",
+    "date": "2022-07-01",
+    "id": "1213899297",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "深圳微芯生物科技股份有限公司向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2022-07-01",
+    "id": "1213899296",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "深圳微芯生物科技股份有限公司向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118010",
+  "bond_nm": "洁特转债",
+  "candidates": [
+   {
+    "title": "广州洁特生物过滤股份有限公司向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2022-06-24",
+    "id": "1213806582",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "广州洁特生物过滤股份有限公司向不特定对象发行可转换公司债券证券募集说明书摘要",
+    "date": "2022-06-24",
+    "id": "1213806581",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "广州洁特生物过滤股份有限公司向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118015",
+  "bond_nm": "芯海转债",
+  "candidates": [
+   {
+    "title": "芯海科技向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-07-19",
+    "id": "1214066799",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "芯海科技向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-07-19",
+    "id": "1214066798",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "芯海科技向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "118016",
+  "bond_nm": "京源转债",
+  "candidates": [
+   {
+    "title": "江苏京源环保股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-08-03",
+    "id": "1214203421",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "江苏京源环保股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-08-03",
+    "id": "1214203420",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "江苏京源环保股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118024",
+  "bond_nm": "冠宇转债",
+  "candidates": [
+   {
+    "title": "珠海冠宇电池股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-10-20",
+    "id": "1214842551",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "珠海冠宇电池股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-10-20",
+    "id": "1214842550",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "珠海冠宇电池股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118022",
+  "bond_nm": "锂科转债",
+  "candidates": [
+   {
+    "title": "湖南长远锂科股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-09-30",
+    "id": "1214711761",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "湖南长远锂科股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-09-30",
+    "id": "1214711760",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "湖南长远锂科股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118020",
+  "bond_nm": "芳源转债",
+  "candidates": [
+   {
+    "title": "广东芳源新材料集团股份有限公司向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2022-09-21",
+    "id": "1214635806",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "广东芳源新材料集团股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-09-21",
+    "id": "1214635805",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "广东芳源新材料集团股份有限公司向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118007",
+  "bond_nm": "山石转债",
+  "candidates": [
+   {
+    "title": "山石网科通信技术股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2022-03-18",
+    "id": "1212608911",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "山石网科通信技术股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2022-03-18",
+    "id": "1212608910",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "山石网科通信技术股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "118005",
+  "bond_nm": "天奈转债",
+  "candidates": [
+   {
+    "title": "江苏天奈科技股份有限公司向不特定对象发行可转换公司债券证券募集说明书",
+    "date": "2022-01-25",
+    "id": "1212263346",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "江苏天奈科技股份有限公司向不特定对象发行可转换公司债券证券募集说明书摘要",
+    "date": "2022-01-25",
+    "id": "1212263345",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "江苏天奈科技股份有限公司向不特定对象发行可转换公司债券证券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113706",
+  "bond_nm": "金帝转债",
+  "candidates": [
+   {
+    "title": "山东金帝精密机械科技股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-06-11",
+    "id": "1225362980",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "山东金帝精密机械科技股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-06-11",
+    "id": "1225362977",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "山东金帝精密机械科技股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113705",
+  "bond_nm": "豪26转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-06-11",
+    "id": "1225363375",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-06-11",
+    "id": "1225363374",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113704",
+  "bond_nm": "春风转债",
+  "candidates": [
+   {
+    "title": "浙江春风动力股份有限公司向不特定对象发行可转换公司债券并在主板上市募集说明书摘要",
+    "date": "2026-06-08",
+    "id": "1225356329",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "浙江春风动力股份有限公司向不特定对象发行可转换公司债券并在主板上市募集说明书",
+    "date": "2026-06-08",
+    "id": "1225356326",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "浙江春风动力股份有限公司向不特定对象发行可转换公司债券并在主板上市募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113707",
+  "bond_nm": "科博转债",
+  "candidates": [
+   {
+    "title": "科博达技术股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-07-01",
+    "id": "1225401670",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "科博达技术股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-07-01",
+    "id": "1225401630",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "科博达技术股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113708",
+  "bond_nm": "曙26转债",
+  "candidates": [
+   {
+    "title": "曙光信息产业股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-07-13",
+    "id": "1225420506",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "曙光信息产业股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-07-13",
+    "id": "1225420503",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "曙光信息产业股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113711",
+  "bond_nm": "常青转债",
+  "candidates": [
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-09-23",
+    "id": "1225577348",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-09-23",
+    "id": "1225577322",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "113710",
+  "bond_nm": "四方转债",
+  "candidates": [
+   {
+    "title": "四方科技集团股份有限公司向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-09-01",
+    "id": "1225538093",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "四方科技集团股份有限公司向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-09-01",
+    "id": "1225538057",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "四方科技集团股份有限公司向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": true
+ },
+ {
+  "bond_id": "113709",
+  "bond_nm": "振26转债",
+  "candidates": [
+   {
+    "title": "振华股份2026年度向不特定对象发行可转换公司债券募集说明书摘要",
+    "date": "2026-07-28",
+    "id": "1225443653",
+    "is_summary": true,
+    "is_notice": false
+   },
+   {
+    "title": "振华股份2026年度向不特定对象发行可转换公司债券募集说明书",
+    "date": "2026-07-28",
+    "id": "1225443639",
+    "is_summary": false,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "振华股份2026年度向不特定对象发行可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ },
+ {
+  "bond_id": "110075",
+  "bond_nm": "南航转债",
+  "candidates": [
+   {
+    "title": "公开发行A股可转换公司债券募集说明书",
+    "date": "2020-10-13",
+    "id": "1208539078",
+    "is_summary": false,
+    "is_notice": false
+   },
+   {
+    "title": "公开发行A股可转换公司债券募集说明书摘要",
+    "date": "2020-10-13",
+    "id": "1208539077",
+    "is_summary": true,
+    "is_notice": false
+   }
+  ],
+  "body_count": 1,
+  "body_titles": [
+   "公开发行A股可转换公司债券募集说明书"
+  ],
+  "issuer_in_title": false
+ }
+]

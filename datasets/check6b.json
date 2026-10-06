@@ -1,0 +1,239 @@
+[
+ {
+  "bond_id": "110077",
+  "bond_nm": "洪城转债",
+  "stock_id": "600461",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于该次股东大会召开日前二十个交易日公司股票交易均价和前一个交易日均价之间的较高者。可转换公司债券存续期内，在满足转股价格向下修正条件的情况下，公司董事会仍可能基于公司的实际情况、股价走势、市场因素等多重考虑，不提出转股价格向下修正方案；或者虽然公司董事会提出转股价格向下修正方案，是否能够通过股东大会审议通过也存在不确定性。",
+  "anchor_count": 5,
+  "block_count": 5,
+  "rev_blocks": 3,
+  "union_windows": 3,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": true,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   20
+  ],
+  "ratio_candidates": [],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.8"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 80,
+   "threshold_value": "3.528",
+   "convert_price": "4.410"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "111018",
+  "bond_nm": "华康转债",
+  "stock_id": "605077",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于该次股东大会召开日前20个交易日公司股票交易均价和前1个交易日公司股票交易均价，同时，修正后的转股价格不得低于最近一期经审计的每股净资产值和股票面值。（2）修正程序如公司决定向下修正转股价格，公司将在上海证券交易所网站（www.sse.com.cn）和中国证监会指定的上市公司信息披露媒体上刊登相关公告，公告修正幅度和股权登记日及暂停转股期间（如需）等有关信息。",
+  "anchor_count": 3,
+  "block_count": 3,
+  "rev_blocks": 1,
+  "union_windows": 1,
+  "avg_20_basis": null,
+  "avg_1_basis": null,
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "修正后的转股价格应不低于该次股东大会召开日前20个交易日公司股票交易均价和前1个交易日公司股票交易均价，同时，修正后的转股价格不得低于最近一期经审计的每股净资产值和股票面值。（2）修正程序如公司决定向下修正转股价格，公司将在上海证券交易所网站（www.sse.com.c",
+  "window_candidates": [],
+  "ratio_candidates": [],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "13.575",
+   "convert_price": "15.970"
+  },
+  "llm_local_agree_net_asset": false
+ },
+ {
+  "bond_id": "113052",
+  "bond_nm": "兴业转债",
+  "stock_id": "601166",
+  "clause_found": true,
+  "snippet": "在本次发行的可转债存续期间，即使本行根据向下修正条款对转股价格进行修正，3兴业银行股份有限公司公开发行A股可转换公司债券募集说明书转股价格的修正幅度也将由于“修正后的转股价格应不低于审议上述方案的股东大会召开日前三十个交易日、前二十个交易日本行A股股票交易均价（若在该三十个交易日或二十个交易日内发生过因除权、除息引起股价调整的情形，则对调整前交易日的交易价按经过相应除权、除息调整后的价格计算）和前一个交易日本行A股股票交易均价，同时修正后的转股价格不低于最近一期经审计的每股净资产（若自最近一期经审计的财务报告资产负债表日至审议上述方案的股东大会召开日期间发生送股、资本公积金转增股本或配股等除权事项、现金红利分配等除息事项，则最近一期经审计的每股净资产按经过相应除权、除息调整后的数值确定）和股票面值”的规定限制，存在不确定性的风险。五、关于本次发行可转债信用评级的说明本行聘请上海新世纪资信评估投资服务有限公司为本次发行的可转债进行了信用评级，根据上海新世纪资信评估投资服务有限公司出具的《兴业银行股份有限公司公开发行A股可转换公司债券信用评级报告》，本行的主体信用等级为AAA级，评级展望为",
+  "anchor_count": 8,
+  "block_count": 8,
+  "rev_blocks": 6,
+  "union_windows": 6,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "易均价（若在该三十个交易日或二十个交易日内发生过因除权、除息引起股价调整的情形，则对调整前交易日的交易价按经过相应除权、除息调整后的价格计算）和前一个交易日本行A股股票交易均价，同时修正后的转股价格不低于最近一期经审计的每股净资产（若自最近一期经审计的财务报告资产负债表日至审议上述方案的股东大会召开日期间发生送股、资本公积金转增股本或配股",
+  "window_candidates": [
+   30,
+   20,
+   30,
+   20
+  ],
+  "ratio_candidates": [],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_30_trading_days_average",
+    "preceding_20_trading_days_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.8"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 80,
+   "threshold_value": "16.104",
+   "convert_price": "20.130"
+  },
+  "llm_local_agree_net_asset": false
+ },
+ {
+  "bond_id": "113681",
+  "bond_nm": "镇洋转债",
+  "stock_id": "603213",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于前述的股东大会召开日前二十个交易日公司股票交易均价和前一交易日公司股票交易均价。同时，修正后的转股价格不得低于最近一期经审计的每股1-1-28浙江镇洋发展股份有限公司向不特定对象发行可转换公司债券募集说明书净资产值和股票面值。",
+  "anchor_count": 4,
+  "block_count": 4,
+  "rev_blocks": 2,
+  "union_windows": 2,
+  "avg_20_basis": null,
+  "avg_1_basis": null,
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "修正后的转股价格应不低于前述的股东大会召开日前二十个交易日公司股票交易均价和前一交易日公司股票交易均价。同时，修正后的转股价格不得低于最近一期经审计的每股1-1-28浙江镇洋发展股份有限公司向不特定对象发行可转换公司债券募集说明书净资产值和股票面值。同时，修正后的转股价",
+  "window_candidates": [
+   30
+  ],
+  "ratio_candidates": [],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "PRESENT",
+   "par_value_floor_clause": "PRESENT",
+   "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "9.307",
+   "convert_price": "10.950"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "118073",
+  "bond_nm": "赛斯转债",
+  "stock_id": "688480",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于该次股东会召开日前二十个交易日公司A股股票交易均价和前一个交易日公司A股股票交易均价。（2）修正程序如公司股东会审议通过向下修正转股价格，公司将在上海证券交易所网站（http://www.sse.com.cn）或中国证监会指定的其他信息披露媒体上刊登相关公告，公告修正幅度、股权登记日及暂停转股期间（如需）等相关信息。",
+  "anchor_count": 4,
+  "block_count": 4,
+  "rev_blocks": 3,
+  "union_windows": 3,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "告，公告修正幅度、股权登记日及暂停转股期间（如需）等相关信息。修正后的转股价格应不低于该次股东会召开日前二十个交易日公司股票交易均价和前一交易日公司股票交易均价之间的较高者。同时，修正后的转股价格不应低于最近一期经审计的每股净资产值和股票面值。同时，修正后的转股价格不应低于最近一期经审计的每股净资产值和股票面值。1-1-55赛恩斯环保股份",
+  "window_candidates": [
+   20
+  ],
+  "ratio_candidates": [],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "PRESENT",
+   "par_value_floor_clause": "PRESENT",
+   "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "73.865",
+   "convert_price": "86.900"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "123072",
+  "bond_nm": "乐歌转债",
+  "stock_id": "300729",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于该次股东大会召开日前二十个交易日公司股票交易均价和前一个交易日公司股票交易均价之间的较高者。若在前述三十个交易日内发生过转股价格调整的情形，则在调整前的交易日按调整前的转股价格和收盘价格计算，调整后的交易日按调整后的转股价格和收盘价格计算。",
+  "anchor_count": 5,
+  "block_count": 5,
+  "rev_blocks": 1,
+  "union_windows": 1,
+  "avg_20_basis": null,
+  "avg_1_basis": null,
+  "uses_higher": false,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   5
+  ],
+  "ratio_candidates": [
+   "120"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "27.718",
+   "convert_price": "32.610"
+  },
+  "llm_local_agree_net_asset": true
+ }
+]

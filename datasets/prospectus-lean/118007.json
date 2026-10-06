@@ -1,0 +1,372 @@
+{
+ "bond_id": "118007",
+ "bond_nm": "山石转债",
+ "stock_id": "688030",
+ "stock_nm": "山石网科",
+ "source": {
+  "site": "CNINFO",
+  "discovered_from": "jisilu",
+  "title": "山石网科通信技术股份有限公司向不特定对象发行可转换公司债券募集说明书",
+  "official_pdf_url": "https://static.cninfo.com.cn/finalpage/2022-03-18/1212608911.PDF",
+  "artifact_id": "sha256:aedabfa2d6acea9301ccdb5c4fa3e6f42478586f6c793fd5a4a673f0b4954bb8:7223360",
+  "sha256": "aedabfa2d6acea9301ccdb5c4fa3e6f42478586f6c793fd5a4a673f0b4954bb8",
+  "content_length": 7223360,
+  "archive_path": "C:\\Users\\hc\\Desktop\\web\\.workbuddy\\datasets\\prospectus-lean\\archive\\118007.pdf",
+  "selected_pages": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   8,
+   26,
+   27,
+   28,
+   29,
+   30,
+   45,
+   46,
+   47,
+   48,
+   49,
+   276,
+   277,
+   278
+  ]
+ },
+ "status": "SUCCESS",
+ "extraction_profile": "STABLE_CONTRACT_FIELDS_V1",
+ "model": "deepseek-chat",
+ "terms": {
+  "down_revision": {
+   "below_net_asset_contract_position": "UNKNOWN",
+   "bondholder_abstention_required": null,
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "observation_window": 30,
+   "par_value_floor_clause": "UNKNOWN",
+   "required_days": 15,
+   "shareholder_vote_approval_denominator": 3,
+   "shareholder_vote_approval_numerator": 2,
+   "trigger_ratio": "0.85"
+  },
+  "put": {
+   "accrued_interest_rule": null,
+   "annual_exercise_limit": null,
+   "eligible_period_last_n": 2,
+   "eligible_period_rule": "LAST_N_COUPON_YEARS",
+   "observation_window": 30,
+   "proceeds_use_change_put_clause": "PRESENT",
+   "put_price_rule": "按面值加上当期应计利息的价格",
+   "required_days": null,
+   "trigger_ratio": "0.7"
+  }
+ },
+ "data_gaps": [
+  {
+   "field_path": "down_revision.bondholder_abstention_required",
+   "reason": "The supplied pages state bondholder shareholders shall abstain, but do not provide a boolean field value."
+  },
+  {
+   "field_path": "down_revision.net_asset_floor_clause",
+   "reason": "The supplied pages do not state whether a net asset floor clause is present or absent."
+  },
+  {
+   "field_path": "down_revision.par_value_floor_clause",
+   "reason": "The supplied pages do not state whether a par value floor clause is present or absent."
+  },
+  {
+   "field_path": "down_revision.below_net_asset_contract_position",
+   "reason": "The supplied pages do not state the contract position on downward revision below net asset value."
+  },
+  {
+   "field_path": "put.observation_window",
+   "reason": "The supplied pages state a continuous 30 trading day observation window for the put trigger, but do not provide a discrete field value."
+  },
+  {
+   "field_path": "put.required_days",
+   "reason": "The supplied pages state the put trigger requires closing prices below 70% for any continuous 30 trading days, but do not provide a discrete required-days field value."
+  },
+  {
+   "field_path": "put.accrued_interest_rule",
+   "reason": "The supplied pages state the put price is face value plus accrued interest, but do not provide a discrete accrued-interest rule field value."
+  },
+  {
+   "field_path": "put.annual_exercise_limit",
+   "reason": "The supplied pages state one exercise per interest year, but do not provide a discrete annual exercise limit field value."
+  }
+ ],
+ "not_extracted_count": 22,
+ "raw": {
+  "bond_code": "118007",
+  "data_gaps": [
+   {
+    "field_path": "payment.issue_principal",
+    "reason": "The supplied pages do not state the total issue principal amount of the convertible bonds."
+   },
+   {
+    "field_path": "payment.denomination",
+    "reason": "The supplied pages do not state the face value/denomination per bond."
+   },
+   {
+    "field_path": "payment.term_years",
+    "reason": "The supplied pages do not state the bond term in years."
+   },
+   {
+    "field_path": "payment.maturity_date",
+    "reason": "The supplied pages do not state the maturity date."
+   },
+   {
+    "field_path": "payment.coupon_schedule",
+    "reason": "The supplied pages do not provide the coupon rate schedule by year."
+   },
+   {
+    "field_path": "payment.payment_frequency_per_year",
+    "reason": "The supplied pages state annual interest payment but do not provide a numeric payment frequency per year."
+   },
+   {
+    "field_path": "payment.maturity_price_includes_final_interest",
+    "reason": "The supplied pages state the maturity redemption price includes the final annual interest, but do not provide a boolean field value."
+   },
+   {
+    "field_path": "conversion.contractual_period_start",
+    "reason": "The supplied pages do not state the conversion period start date."
+   },
+   {
+    "field_path": "conversion.period_end",
+    "reason": "The supplied pages do not state the conversion period end date."
+   },
+   {
+    "field_path": "conversion.initial_price_bases",
+    "reason": "The supplied pages describe the initial conversion price floor but do not enumerate the initial price bases as a list."
+   },
+   {
+    "field_path": "down_revision.adjustment_day_treatment",
+    "reason": "The supplied pages describe adjustment-day treatment for the downward revision trigger, but do not provide a discrete field value."
+   },
+   {
+    "field_path": "down_revision.bondholder_abstention_required",
+    "reason": "The supplied pages state bondholder shareholders shall abstain, but do not provide a boolean field value."
+   },
+   {
+    "field_path": "down_revision.net_asset_floor_clause",
+    "reason": "The supplied pages do not state whether a net asset floor clause is present or absent."
+   },
+   {
+    "field_path": "down_revision.par_value_floor_clause",
+    "reason": "The supplied pages do not state whether a par value floor clause is present or absent."
+   },
+   {
+    "field_path": "down_revision.below_net_asset_contract_position",
+    "reason": "The supplied pages do not state the contract position on downward revision below net asset value."
+   },
+   {
+    "field_path": "put.observation_window",
+    "reason": "The supplied pages state a continuous 30 trading day observation window for the put trigger, but do not provide a discrete field value."
+   },
+   {
+    "field_path": "put.required_days",
+    "reason": "The supplied pages state the put trigger requires closing prices below 70% for any continuous 30 trading days, but do not provide a discrete required-days field value."
+   },
+   {
+    "field_path": "put.accrued_interest_rule",
+    "reason": "The supplied pages state the put price is face value plus accrued interest, but do not provide a discrete accrued-interest rule field value."
+   },
+   {
+    "field_path": "put.annual_exercise_limit",
+    "reason": "The supplied pages state one exercise per interest year, but do not provide a discrete annual exercise limit field value."
+   },
+   {
+    "field_path": "redemption.observation_window",
+    "reason": "The supplied pages state a continuous 30 trading day observation window for conditional redemption, but do not provide a discrete field value."
+   },
+   {
+    "field_path": "redemption.required_days",
+    "reason": "The supplied pages state the conditional redemption trigger requires at least 15 trading days in any continuous 30 trading days, but do not provide a discrete required-days field value."
+   },
+   {
+    "field_path": "redemption.accrued_interest_redemption_rule",
+    "reason": "The supplied pages state conditional redemption price is face value plus accrued interest, but do not provide a discrete accrued-interest redemption rule field value."
+   },
+   {
+    "field_path": "redemption.maturity_redemption_window_days",
+    "reason": "The supplied pages state redemption occurs within five trading days after maturity, but do not provide a discrete window-days field value."
+   },
+   {
+    "field_path": "redemption.maturity_redemption_price_rule",
+    "reason": "The supplied pages state the maturity redemption price is 114% of face value including final annual interest, but do not provide a discrete rule field value."
+   }
+  ],
+  "evidence": [
+   {
+    "field_path": "payment.issue_date",
+    "page_number": 30,
+    "excerpt": "计息起始日为可转换公司债券发行首日（2022 年 3 月 22 日，T 日）",
+    "value_surface": "2022 年 3 月 22 日"
+   },
+   {
+    "field_path": "payment.holiday_deferral_rule",
+    "page_number": 30,
+    "excerpt": "如该日为法定节假日或休息日，则顺延至下一个交易日，顺延期间不另付息。",
+    "value_surface": "顺延至下一个交易日，顺延期间不另付息"
+   },
+   {
+    "field_path": "payment.maturity_redemption_price",
+    "page_number": 28,
+    "excerpt": "公司将以本次可转债的票面面值的 114%（含最后一期年度利息）的价格向本次可转债持有人赎回全部未转股的可转换公司债券。",
+    "value_surface": "114%"
+   },
+   {
+    "field_path": "conversion.initial_conversion_price",
+    "page_number": 26,
+    "excerpt": "本次发行的可转换公司债券的初始转股价格为 24.65 元/股",
+    "value_surface": "24.65"
+   },
+   {
+    "field_path": "down_revision.observation_window",
+    "page_number": 27,
+    "excerpt": "当公司股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的 85%时",
+    "value_surface": "三十"
+   },
+   {
+    "field_path": "down_revision.required_days",
+    "page_number": 27,
+    "excerpt": "当公司股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的 85%时",
+    "value_surface": "十五"
+   },
+   {
+    "field_path": "down_revision.trigger_ratio",
+    "page_number": 27,
+    "excerpt": "当公司股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的 85%时",
+    "value_surface": "85%"
+   },
+   {
+    "field_path": "down_revision.shareholder_vote_approval_numerator",
+    "page_number": 27,
+    "excerpt": "上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。",
+    "value_surface": "二"
+   },
+   {
+    "field_path": "down_revision.shareholder_vote_approval_denominator",
+    "page_number": 27,
+    "excerpt": "上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。",
+    "value_surface": "三"
+   },
+   {
+    "field_path": "down_revision.meeting_price_bases[0]",
+    "page_number": 27,
+    "excerpt": "修正后的转股价格应不低于本次股东大会召开日前二十个交易日公司股票交易均价和前一个交易日公司股票交易均价。",
+    "value_surface": "前二十个交易日公司股票交易均价"
+   },
+   {
+    "field_path": "down_revision.meeting_price_bases[1]",
+    "page_number": 27,
+    "excerpt": "修正后的转股价格应不低于本次股东大会召开日前二十个交易日公司股票交易均价和前一个交易日公司股票交易均价。",
+    "value_surface": "前一个交易日公司股票交易均价"
+   },
+   {
+    "field_path": "redemption.trigger_ratio",
+    "page_number": 28,
+    "excerpt": "如果公司股票在连续三十个交易日中至少十五个交易日的收盘价格不低于当期转股价格的 130%（含 130%）",
+    "value_surface": "130%"
+   },
+   {
+    "field_path": "redemption.outstanding_principal_threshold",
+    "page_number": 28,
+    "excerpt": "当本次发行的可转换公司债券未转股余额不足 3,000 万元时。",
+    "value_surface": "3,000 万元"
+   },
+   {
+    "field_path": "put.eligible_period_rule",
+    "page_number": 28,
+    "excerpt": "在本次发行的可转换公司债券最后两个计息年度，如果公司股票在任何连续三十个交易日的收盘价低于当期转股价的 70%时",
+    "value_surface": "最后两个计息年度"
+   },
+   {
+    "field_path": "put.eligible_period_last_n",
+    "page_number": 28,
+    "excerpt": "在本次发行的可转换公司债券最后两个计息年度，如果公司股票在任何连续三十个交易日的收盘价低于当期转股价的 70%时",
+    "value_surface": "两个"
+   },
+   {
+    "field_path": "put.trigger_ratio",
+    "page_number": 28,
+    "excerpt": "在本次发行的可转换公司债券最后两个计息年度，如果公司股票在任何连续三十个交易日的收盘价低于当期转股价的 70%时",
+    "value_surface": "70%"
+   },
+   {
+    "field_path": "put.put_price_rule",
+    "page_number": 28,
+    "excerpt": "可转换公司债券持有人有权将其持有的全部或部分可转换公司债券按面值加上当期应计利息的价格回售给公司。",
+    "value_surface": "按面值加上当期应计利息的价格"
+   },
+   {
+    "field_path": "put.proceeds_use_change_put_clause",
+    "page_number": 29,
+    "excerpt": "若公司本次发行的可转换公司债券募集资金投资项目的实施情况与公司在募集说明书中的承诺情况相比出现重大变化，且该变化被中国证监会或上海证券交易所认定为改变募集资金用途的，可转换公司债券持有人享有一次回售的权利。",
+    "value_surface": "可转换公司债券持有人享有一次回售的权利"
+   }
+  ],
+  "schema_version": "contract-terms-proposal:pdf-v1",
+  "terms": {
+   "conversion": {
+    "contractual_period_start": null,
+    "initial_conversion_price": "24.65",
+    "initial_price_bases": [],
+    "period_end": null
+   },
+   "down_revision": {
+    "adjustment_day_treatment": null,
+    "below_net_asset_contract_position": "UNKNOWN",
+    "bondholder_abstention_required": null,
+    "meeting_price_bases": [
+     "preceding_20_trading_days_average",
+     "preceding_one_trading_day_average"
+    ],
+    "net_asset_floor_clause": "UNKNOWN",
+    "observation_window": 30,
+    "par_value_floor_clause": "UNKNOWN",
+    "required_days": 15,
+    "shareholder_vote_approval_denominator": 3,
+    "shareholder_vote_approval_numerator": 2,
+    "trigger_ratio": "0.85"
+   },
+   "payment": {
+    "coupon_schedule": [],
+    "denomination": null,
+    "holiday_deferral_rule": "如该日为法定节假日或休息日，则顺延至下一个交易日，顺延期间不另付息。",
+    "issue_date": "2022-03-22",
+    "issue_principal": null,
+    "maturity_date": null,
+    "maturity_price_includes_final_interest": null,
+    "maturity_redemption_price": "114",
+    "payment_frequency_per_year": null,
+    "term_years": null
+   },
+   "put": {
+    "accrued_interest_rule": null,
+    "annual_exercise_limit": null,
+    "eligible_period_last_n": 2,
+    "eligible_period_rule": "LAST_N_COUPON_YEARS",
+    "observation_window": 30,
+    "proceeds_use_change_put_clause": "PRESENT",
+    "put_price_rule": "按面值加上当期应计利息的价格",
+    "required_days": null,
+    "trigger_ratio": "0.7"
+   },
+   "redemption": {
+    "accrued_interest_redemption_rule": null,
+    "maturity_redemption_price_rule": null,
+    "maturity_redemption_window_days": null,
+    "observation_window": 30,
+    "outstanding_principal_threshold": "30000000",
+    "required_days": 15,
+    "trigger_ratio": "1.3"
+   }
+  }
+ }
+}

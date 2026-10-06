@@ -1,0 +1,382 @@
+[
+ {
+  "bond_id": "110077",
+  "bond_nm": "洪城转债",
+  "stock_id": "600461",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于该次股东大会召开日前二十个交易日公司股票交易均价和前一个交易日均价之间的较高者。可转换公司债券存续期内，在满足转股价格向下修正条件的情况下，公司董事会仍可能基于公司的实际情况、股价走势、市场因素等多重考虑，不提出转股价格向下修正方案；或者虽然公司董事会提出转股价格向下修正方案，是否能够通过股东大会审议通过也存在不确定性。",
+  "anchor_count": 6,
+  "block_count": 6,
+  "rev_blocks": 3,
+  "union_windows": 3,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": true,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   20
+  ],
+  "ratio_candidates": [],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.8"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 80,
+   "threshold_value": "3.528",
+   "convert_price": "4.410"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "111018",
+  "bond_nm": "华康转债",
+  "stock_id": "605077",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于该次股东大会召开日前20个交易日公司股票交易均价和前1个交易日公司股票交易均价，同时，修正后的转股价格不得低于最近一期经审计的每股净资产值和股票面值。（2）修正程序如公司决定向下修正转股价格，公司将在上海证券交易所网站（www.sse.com.cn）和中国证监会指定的上市公司信息披露媒体上刊登相关公告，公告修正幅度和股权登记日及暂停转股期间（如需）等有关信息。",
+  "anchor_count": 5,
+  "block_count": 5,
+  "rev_blocks": 2,
+  "union_windows": 2,
+  "avg_20_basis": null,
+  "avg_1_basis": null,
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "修正后的转股价格应不低于该次股东大会召开日前20个交易日公司股票交易均价和前1个交易日公司股票交易均价，同时，修正后的转股价格不得低于最近一期经审计的每股净资产值和股票面值。（2）修正程序如公司决定向下修正转股价格，公司将在上海证券交易所网站（www.sse.com.c",
+  "window_candidates": [],
+  "ratio_candidates": [],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "13.575",
+   "convert_price": "15.970"
+  },
+  "llm_local_agree_net_asset": false
+ },
+ {
+  "bond_id": "113067",
+  "bond_nm": "燃23转债",
+  "stock_id": "601139",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于本次股东大会召开日前20个交易日公司股票交易均价和前一交易日均价之间的较高者且同时不得低于最近一期经审计的每股净资产以及股票面值。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价格计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价格计算。",
+  "anchor_count": 3,
+  "block_count": 3,
+  "rev_blocks": 1,
+  "union_windows": 1,
+  "avg_20_basis": null,
+  "avg_1_basis": null,
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "修正后的转股价格应不低于本次股东大会召开日前20个交易日公司股票交易均价和前一交易日均价之间的较高者且同时不得低于最近一期经审计的每股净资产以及股票面值。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和",
+  "window_candidates": [],
+  "ratio_candidates": [],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "PRESENT",
+   "par_value_floor_clause": "PRESENT",
+   "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "6.154",
+   "convert_price": "7.240"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "113665",
+  "bond_nm": "汇通转债",
+  "stock_id": "603176",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于本次股东大会召开日前二十个交易日公司股票交易均价和前一交易日公司股票交易均价，且同时不得低于最近一期经审计每股净资产以及股票面值。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价计算。",
+  "anchor_count": 4,
+  "block_count": 4,
+  "rev_blocks": 1,
+  "union_windows": 1,
+  "avg_20_basis": null,
+  "avg_1_basis": null,
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "修正后的转股价格应不低于本次股东大会召开日前二十个交易日公司股票交易均价和前一交易日公司股票交易均价，且同时不得低于最近一期经审计每股净资产以及股票面值。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和",
+  "window_candidates": [],
+  "ratio_candidates": [],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "PRESENT",
+   "par_value_floor_clause": "PRESENT",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "5.364",
+   "convert_price": "6.310"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "113670",
+  "bond_nm": "金23转债",
+  "stock_id": "603180",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于前述股东大会召开日前二十个交易日公司股票交易均价和前一交易日均价之间的较高者，且同时不得低于最近一期经审计的每股净资产以及股票面值。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价计算。",
+  "anchor_count": 3,
+  "block_count": 3,
+  "rev_blocks": 1,
+  "union_windows": 1,
+  "avg_20_basis": null,
+  "avg_1_basis": null,
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "修正后的转股价格应不低于前述股东大会召开日前二十个交易日公司股票交易均价和前一交易日均价之间的较高者，且同时不得低于最近一期经审计的每股净资产以及股票面值。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和",
+  "window_candidates": [],
+  "ratio_candidates": [],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "PRESENT",
+   "par_value_floor_clause": "PRESENT",
+   "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+   "observation_window": 30,
+   "trigger_ratio": "0.8"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 80,
+   "threshold_value": "30.032",
+   "convert_price": "37.540"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "113677",
+  "bond_nm": "华懋转债",
+  "stock_id": "603306",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于本次股东大会召开日前20个交易日公司股票交易均价和前1个交易日均价之间的较高者，且同时不得低于最近期经审计每股净资产以及股票面值。若在前述30个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价计算。",
+  "anchor_count": 4,
+  "block_count": 4,
+  "rev_blocks": 1,
+  "union_windows": 1,
+  "avg_20_basis": null,
+  "avg_1_basis": null,
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "修正后的转股价格应不低于本次股东大会召开日前20个交易日公司股票交易均价和前1个交易日均价之间的较高者，且同时不得低于最近期经审计每股净资产以及股票面值。若在前述30个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和",
+  "window_candidates": [],
+  "ratio_candidates": [],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "PRESENT",
+   "par_value_floor_clause": "PRESENT",
+   "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "28.611",
+   "convert_price": "33.660"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "113709",
+  "bond_nm": "振26转债",
+  "stock_id": "603067",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于该次股东会召开日前二十个交易日公司股票交易均价和前一交易日公司股票交易均价之间的较高者，且不得低于最近一期经审计的每股净资产和股票面值。（2）修正程序如公司决定向下修正转股价格，公司将在中国证监会指定的上市公司信息披露媒体上刊登相关公告，公告修正幅度、股权登记日及暂停转股期间（如需）。",
+  "anchor_count": 5,
+  "block_count": 5,
+  "rev_blocks": 2,
+  "union_windows": 2,
+  "avg_20_basis": null,
+  "avg_1_basis": null,
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "修正后的转股价格应不低于该次股东会召开日前二十个交易日公司股票交易均价和前一交易日公司股票交易均价之间的较高者，且不得低于最近一期经审计的每股净资产和股票面值。（2）修正程序如公司决定向下修正转股价格，公司将在中国证监会指定的上市公司信息披露媒体上刊登相关公",
+  "window_candidates": [],
+  "ratio_candidates": [],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "PRESENT",
+   "par_value_floor_clause": "PRESENT",
+   "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "34.280",
+   "convert_price": "40.330"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "123072",
+  "bond_nm": "乐歌转债",
+  "stock_id": "300729",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于该次股东大会召开日前二十个交易日公司股票交易均价和前一个交易日公司股票交易均价之间的较高者。若在前述三十个交易日内发生过转股价格调整的情形，则在调整前的交易日按调整前的转股价格和收盘价格计算，调整后的交易日按调整后的转股价格和收盘价格计算。",
+  "anchor_count": 5,
+  "block_count": 5,
+  "rev_blocks": 1,
+  "union_windows": 1,
+  "avg_20_basis": null,
+  "avg_1_basis": null,
+  "uses_higher": false,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   5
+  ],
+  "ratio_candidates": [
+   "120"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "27.718",
+   "convert_price": "32.610"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "123215",
+  "bond_nm": "铭利转债",
+  "stock_id": "301268",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于本次股东大会召开日前二十个交易日公司股票交易均价和前一交易日均价之间的较高者且同时不得低于最近一期经审计的每股净资产以及股票面值。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价计算。",
+  "anchor_count": 4,
+  "block_count": 4,
+  "rev_blocks": 2,
+  "union_windows": 2,
+  "avg_20_basis": null,
+  "avg_1_basis": null,
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "修正后的转股价格应不低于本次股东大会召开日前二十个交易日公司股票交易均价和前一交易日均价之间的较高者且同时不得低于最近一期经审计的每股净资产以及股票面值。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和",
+  "window_candidates": [],
+  "ratio_candidates": [],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "PRESENT",
+   "par_value_floor_clause": "PRESENT",
+   "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "16.312",
+   "convert_price": "19.190"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "123216",
+  "bond_nm": "科顺转债",
+  "stock_id": "300737",
+  "clause_found": true,
+  "snippet": "修正后的转股价格应不低于本次股东大会召开日前二十个交易日公司股票交易均价和前一交易日均价之间的较高者且同时不得低于最近一期经审计的每股净资产以及股票面值。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价计算。",
+  "anchor_count": 4,
+  "block_count": 4,
+  "rev_blocks": 2,
+  "union_windows": 2,
+  "avg_20_basis": null,
+  "avg_1_basis": null,
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "修正后的转股价格应不低于本次股东大会召开日前二十个交易日公司股票交易均价和前一交易日均价之间的较高者且同时不得低于最近一期经审计的每股净资产以及股票面值。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和",
+  "window_candidates": [
+   5
+  ],
+  "ratio_candidates": [
+   "115"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "PRESENT",
+   "par_value_floor_clause": "PRESENT",
+   "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "5.619",
+   "convert_price": "6.610"
+  },
+  "llm_local_agree_net_asset": true
+ }
+]

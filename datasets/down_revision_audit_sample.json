@@ -1,0 +1,849 @@
+[
+ {
+  "bond_id": "110077",
+  "bond_nm": "洪城转债",
+  "stock_id": "600461",
+  "clause_found": true,
+  "snippet": "，转换股份登记25洪城水业公开发行可转换公司债券募集说明书日之前，则该持有人的转股申请按公司调整后的转股价格执行。当公司可能发生股份回购、合并、分立或任何其他情形使公司股份类别、数量和/或股东权益发生变化从而可能影响本次发行的可转债持有人的债权利益或转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转债持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据当时国家有关法律法规及证券监管部门的相关规定来制订。9、转股价格向下修正条款（1）修正权限与修正幅度在本次发行的可转债存续期间，当公司股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的80%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会表决。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有本次发行的可转债的股东应当回避。修正后的转股价格应不低于股东大会召开日前二十个交易日公司股票交易均价和前一个交易日均价之间的较高者。若在前述二十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘",
+  "anchor_count": 5,
+  "clause_score": 5,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": true,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   30,
+   15,
+   20,
+   20
+  ],
+  "ratio_candidates": [
+   "80"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.8"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 80,
+   "threshold_value": "3.528",
+   "convert_price": "4.410"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "110081",
+  "bond_nm": "闻泰转债",
+  "stock_id": "600745",
+  "clause_found": true,
+  "snippet": "媒体上刊登转股价格调整的公告，并于公告中载明转股价格调整日、调整办法及暂停转股时期（如需）。当转股价格调整日为本次发行的可转换公司债券持有人转股申请日或之后，转换股份登记日之前，则该持有人的转股申请按本公司调整后的转股价格执行。当公司可能发生股份回购、合并、分立或任何其他情形使本公司股份类别、数量和/或股东权益发生变化从而可能影响本次发行的可转换公司债券持有人的债权利益或转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转换公司债券持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据当时国家有关法律法规及证券监管部门的相关规定来制订。9、转股价格的向下修正（1）修正权限及修正幅度在本次发行的可转换公司债券存续期间，当公司股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会审议表决。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有公司本次发行的可转换公司债券的股东应当回避。修正后的转股价格应不低于该次股东大会召开日前二",
+  "anchor_count": 8,
+  "clause_score": 5,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": false,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   30,
+   15,
+   20,
+   30
+  ],
+  "ratio_candidates": [
+   "85"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "15.606",
+   "convert_price": "18.360"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "110084",
+  "bond_nm": "贵燃转债",
+  "stock_id": "600903",
+  "clause_found": true,
+  "snippet": "转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转换公司债券持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据当时国家有关法律法规及证券监管部门的相关规定来制订。9、转股价格的向下修正条款（1）修正权限与修正幅度在本次发行的可转换公司债券存续期间，当公司股票在任意连续二十个交易日中至少有十个交易日的收盘价低于当期转股价格的85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会审议表决。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有公司本次发行的可转换公司债券的股东应当回避。修正后的转股价格应不低于该次股东大会召开日前二十个交易日公司股票交易均价25公开发行可转换公司债券募集说明书和前一交易日公司股票的交易均价之间的较高者；同时，修正后的转股价格不得低于最近一期经审计的每股净资产值和股票面值。若在前述二十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价格计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价格计算。（2）修正程序如公司决",
+  "anchor_count": 5,
+  "clause_score": 6,
+  "avg_20_basis": "均价",
+  "avg_1_basis": null,
+  "uses_higher": true,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "司债券的股东应当回避。修正后的转股价格应不低于该次股东大会召开日前二十个交易日公司股票交易均价25公开发行可转换公司债券募集说明书和前一交易日公司股票的交易均价之间的较高者；同时，修正后的转股价格不得低于最近一期经审计的每股净资产值和股票面值。若在前述二十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和",
+  "window_candidates": [
+   20,
+   10,
+   20,
+   20
+  ],
+  "ratio_candidates": [
+   "85"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 20,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "5.457",
+   "convert_price": "6.420"
+  },
+  "llm_local_agree_net_asset": false
+ },
+ {
+  "bond_id": "110085",
+  "bond_nm": "通22转债",
+  "stock_id": "600438",
+  "clause_found": true,
+  "snippet": "司信息披露媒体上刊登董事会决议公告，并于公告中载明转股价格调整日、调整办法及暂停转股时期（如需）。当转股价格调整日为本次发行的可转债持有人转股申请日或之后，转换股份登记日之前，则该持有人的转股申请按公司调整后的转股价格执行。当公司可能发生股份回购、合并、分立或任何其他情形使公司股份类别、数量和/或股东权益发生变化从而可能影响本次发行的可转债持有人的债权利益或转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转债持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据届时国家有关法律法规及证券监管部门的相关规定来制订。9、转股价格向下修正条款（1）修正权限与修正幅度在本次发行的可转债存续期间，当公司A股股票在任意连续三十个交易日中有十五个交易日的收盘价低于当期转股价格的85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会审议表决。20通威股份可转债募集说明书上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有本次发行的可转债的股东应当回避。修正后的转股价格应不低于前述的股东大会召开日前二十个交易日",
+  "anchor_count": 3,
+  "clause_score": 5,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": false,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   30,
+   15,
+   20,
+   30
+  ],
+  "ratio_candidates": [
+   "85"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "29.410",
+   "convert_price": "34.600"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "110086",
+  "bond_nm": "精工转债",
+  "stock_id": "600496",
+  "clause_found": true,
+  "snippet": "作办法将依据届时国家有关法律法规及证券监管部门的相关规定来制订。9、转股价格向下修正条款（1）修正权限与修正幅度在本次发行的可转债存续期间，当公司股票在任意连续三十个交易日中有十五个交易日的收盘价低于当期转股价格的80%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会审议表决。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价计算。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有本次发行的可转债的股东应当回避。修正后的转股价格应不低于审议上述方案的股东大会召开日前二十个交易日和前一交易日公司股票交易均价的较高者。（2）修正程序如公司决定向下修正转股价格，公司将在上海证券交易所网站和符合中国证监会规定条件的上市公司信息披露媒体上刊登相关公告，公告修正幅度、股权登记日及暂停转股的期间（如需）等有关信息。从股权登记日后的第一个交易日（即转股价格修正日）起，开始恢复转股申请并执行修正后的转股价格。若转股价格修正日为转股申请日或之后",
+  "anchor_count": 4,
+  "clause_score": 5,
+  "avg_20_basis": "均价",
+  "avg_1_basis": null,
+  "uses_higher": true,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   30,
+   15,
+   30,
+   20
+  ],
+  "ratio_candidates": [
+   "80",
+   "112"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.8"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 80,
+   "threshold_value": "3.656",
+   "convert_price": "4.570"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "110097",
+  "bond_nm": "天润转债",
+  "stock_id": "600419",
+  "clause_found": true,
+  "snippet": "化从而可能影响本次发行的可转债持有人的债权利益或转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转债持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据届时国家有关法律法规及证券监管部门的相关规定来制订。根据《可转换公司债券管理办法》，本次发行的可转债的转股价格不得向上修正。1-1-24新疆天润乳业股份有限公司可转债募集说明书9、转股价格向下修正（1）修正权限与修正幅度在本次发行的可转债存续期间，当公司A股股票在任意连续三十个交易日中有十五个交易日的收盘价低于当期转股价格的85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会审议表决。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有本次发行的可转债的股东应当回避。修正后的转股价格应不低于前述的股东大会召开日前二十个交易日公司A股股票交易均价和前一个交易日公司A股股票交易均价。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价",
+  "anchor_count": 2,
+  "clause_score": 5,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": false,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   30,
+   15,
+   20,
+   30
+  ],
+  "ratio_candidates": [
+   "85"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "6.962",
+   "convert_price": "8.190"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "110100",
+  "bond_nm": "龙建转债",
+  "stock_id": "600853",
+  "clause_found": true,
+  "snippet": "明书调整，并在中国证监会指定的上市公司信息披露媒体上刊登转股价格调整公告，并于公告中载明转股价格调整日、调整办法及暂停转股时期（如需）。当转股价格调整日为本次发行的可转债持有人转股申请日或之后、转换股份登记日之前，则该持有人的转股申请按公司调整后的转股价格执行。当公司可能发生股份回购、合并、分立或任何其他情形使公司股份类别、数量和/或股东权益发生变化从而可能影响本次发行的可转债持有人的债权利益或转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转债持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据届时国家有关法律法规及证券监管部门的相关规定制订。10、转股价格向下修正（1）修正权限与修正幅度在本次发行的可转债存续期间，当公司A股股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的80%时，公司董事会有权提出转股价格向下修正方案并提交公司股东会审议表决。上述方案须经出席股东会的股东所持表决权的三分之二以上通过方可实施。股东会进行表决时，持有本次发行的可转债的股东应当回避。修正后的转股价格应不低于本次股东会召开日前二十个交",
+  "anchor_count": 3,
+  "clause_score": 4,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": true,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   30,
+   15,
+   20,
+   30
+  ],
+  "ratio_candidates": [
+   "80"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.8"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 80,
+   "threshold_value": "3.672",
+   "convert_price": "4.590"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "111000",
+  "bond_nm": "起帆转债",
+  "stock_id": "605222",
+  "clause_found": true,
+  "snippet": "上市公司信息披露媒体上刊登转股价格调整的公告，并于公告中载明转股价格调整日、调整办法及暂停转股期间（如需）；当转股价格调整日为本次发行的可转换公司债券持有人转股申请日或之后，转换股份登记日之前，则该持有人的转股申请按公司调整后的转股价格执行。当公司可能发生股份回购或注销、合并、分立或任何其他情形使公司股份类别、数量和/或股东权益发生变化从而可能影响本次发行的可转换公司债券持有人的债权利益或转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转换公司债券持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据届时国家有关法律法规及证券监管部门的相关规定来制定。（九）转股价格向下修正条款1、修正权限与修正幅度在本次发行的可转换公司债券存续期间，当公司股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会表决。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有本次发行的可转换公司债券的股东应当回避。修正后的转股价格应不低于本次股东大",
+  "anchor_count": 5,
+  "clause_score": 5,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": true,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   30,
+   15,
+   20,
+   20
+  ],
+  "ratio_candidates": [
+   "85"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "14.696",
+   "convert_price": "17.290"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "111002",
+  "bond_nm": "特纸转债",
+  "stock_id": "605007",
+  "clause_found": true,
+  "snippet": "股价格调整日为本次发行的可转债持有人转股申请日或之后、转换股份登记日之前，则该持有人的转股申请按本公司调整后的转股价格执行。当公司可能发生股份回购、合并、分立或任何其他情形使本公司股份类别、数量和/或股东权益发生变化从而可能影响本次发行的可转债持有人的债权利益或转股衍生权益时，本公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转债持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据当时国家有关法律法规及证券监管部门的相关规定来制订。1-1-21衢州五洲特种纸业股份有限公司公开发行可转换公司债券募集说明书9、转股价格向下修正（1）修正条件与修正幅度在本次发行的可转债存续期间，当公司股票在任意连续30个交易日中至少15个交易日的收盘价低于当期转股价格的85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会表决。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有本次发行的可转债的股东应当回避。修正后的转股价格应不低于本次股东大会召开日前20个交易日公司股票交易均价和前1个交易日公司股票交易均价。若在前述30个交",
+  "anchor_count": 2,
+  "clause_score": 5,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": false,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   30,
+   15,
+   20,
+   30
+  ],
+  "ratio_candidates": [
+   "85"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "11.467",
+   "convert_price": "13.490"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "111012",
+  "bond_nm": "福新转债",
+  "stock_id": "605488",
+  "clause_found": true,
+  "snippet": "sse.com.cn）和中国证监会指定的上市公司信息披露媒体上刊登董事会决议公告，并于公告中载明转股价格调整日、调整办法及暂停转股时期（如需）。当转股价格调整日为本次发行的可转债持有人转股申请日或之后，转换股份登记日之前，则该持有人的转股申请按公司调整后的转股价格执行。当公司可能发生股份回购、合并、分立或任何其他情形使公司股份类别、数量和/或股东权益发生变化从而可能影响本次发行的可转债持有人的债权利益或转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转债持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据届时国家有关法律法规及证券监管部门的相关规定来制订。10、转股价格向下修正条款（1）修正权限与修正幅度在本次发行的可转债存续期间，当公司股票在任意连续三十个交易日中有二十个交易日的收盘价低于当期转股价格的80%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会审议表决。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有本次发行的可转债的股东应当回避。修正后的转股价格应不低于前述的股东大会召开",
+  "anchor_count": 5,
+  "clause_score": 5,
+  "avg_20_basis": "均价",
+  "avg_1_basis": null,
+  "uses_higher": false,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   30,
+   20,
+   20,
+   30
+  ],
+  "ratio_candidates": [
+   "80"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.8"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 80,
+   "threshold_value": "8.888",
+   "convert_price": "11.110"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "111017",
+  "bond_nm": "蓝天转债",
+  "stock_id": "605368",
+  "clause_found": true,
+  "snippet": "并在中国证监会指定的上市公司信息披露媒体上刊登董事会决议公告，并于公告中载明转股价格调整日、调整办法及暂停转股期间（如需）；当转股价格调整日为本次发行的可转债持有人转股申请日或之后，转换股份登记日之前，则该持有人的转股申请按公司调整后的转股价格执行。当公司可能发生股份回购、合并、分立或任何其他情形使公司股份类别、数量和/或股东权益发生变化从而可能影响本次发行的可转债持有人的债权利益或转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转债持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据当时国家有关法律法规及证券监管部门的相关规定来制订。（八）转股价格向下修正条款1、修正条件与修正幅度在本次发行的可转债存续期间，当公司股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会表决。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有本次发行的可转债的股东应当回避。修正后的转股价格应不低于本次股东大会召开日前二十个交易日公司股票",
+  "anchor_count": 5,
+  "clause_score": 5,
+  "avg_20_basis": "均价",
+  "avg_1_basis": null,
+  "uses_higher": true,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   30,
+   15,
+   20,
+   30
+  ],
+  "ratio_candidates": [
+   "85"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "5.712",
+   "convert_price": "6.720"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "111018",
+  "bond_nm": "华康转债",
+  "stock_id": "605077",
+  "clause_found": true,
+  "snippet": "/或股东权益发生变化从而可能影响本次发行的可转换公司债券持有人的债权利益或转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转换公司债券持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据当时国家有关法律法规及证券监管部门的相关规定来制订。10、转股价格向下修正（1）修正权限及修正幅度在本次发行的可转换公司债券存续期间，当公司股票在任意连续30个交易日中至少有15个交易日的收盘价低于当期转股价格的85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会审议表决。若在前述30个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价格计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价格计算。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有公司本次发行的可转换公司债券的股东应当回避。修正后的转股价格应不低于该次股东大会召开日前20个交易日公司股票交易均价和前1个交易日公司股票交易均价，同时，修正后的转股价格不得低于最近一期经审计的每股净资产值和股票面值",
+  "anchor_count": 3,
+  "clause_score": 6,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "。股东大会进行表决时，持有公司本次发行的可转换公司债券的股东应当回避。修正后的转股价格应不低于该次股东大会召开日前20个交易日公司股票交易均价和前1个交易日公司股票交易均价，同时，修正后的转股价格不得低于最近一期经审计的每股净资产值和股票面值。（2）修正程序如公司决定向下修正转股价格，公司将在上海证券交易所网站（www.sse.com.c",
+  "window_candidates": [
+   30,
+   15,
+   30,
+   20
+  ],
+  "ratio_candidates": [
+   "85"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "13.575",
+   "convert_price": "15.970"
+  },
+  "llm_local_agree_net_asset": false
+ },
+ {
+  "bond_id": "111021",
+  "bond_nm": "奥锐转债",
+  "stock_id": "605116",
+  "clause_found": true,
+  "snippet": "转换股份登记日之前，则该持有人的转股申请按公司调整后的转股价格执行。当公司可能发生股份回购、合并、分立或任何其他情形使公司股份类别、数量和/或股东权益发生变化从而可能影响本次发行的可转债持有人的债权利益或转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转债持有人权益的原则调整转股价格。有关转股价格调整内容及操24奥锐特药业股份有限公司向不特定对象发行可转换公司债券募集说明书作办法将依据届时国家有关法律法规及证券监管部门的相关规定来制订。（九）转股价格向下修正条款1、修正权限与修正幅度在本次发行的可转债存续期间，当公司A股股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会审议表决。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有本次发行的可转债的股东应当回避。修正后的转股价格应不低于前述的股东大会召开日前二十个交易日公司A股股票交易均价和前一个交易日公司A股股票交易均价。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价",
+  "anchor_count": 2,
+  "clause_score": 5,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": false,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   30,
+   15,
+   20,
+   30
+  ],
+  "ratio_candidates": [
+   "85"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "20.910",
+   "convert_price": "24.600"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "111022",
+  "bond_nm": "锡振转债",
+  "stock_id": "605319",
+  "clause_found": true,
+  "snippet": "的转股价格执行。当公司可能发生股份回购、合并、分立或任何其他情形使公司股份类别、数量和/或股东权益发生变化从而可能影响本次发行的可转债持有人的债权利益或转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转债持有人权益的原则调整转股价格。有关转股价格调整内容及操1-1-26无锡市振华汽车部件股份有限公司向不特定对象发行可转换公司债券募集说明书作办法将依据当时国家有关法律法规、证券监管部门和上海证券交易所的相关规定来制订。10、转股价格向下修正条款（1）修正权限与修正幅度在本次可转债存续期间，当公司股票在任意连续三十个交易日中有十五个交易日的收盘价低于当期转股价格的85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会审议表决。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价计算。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有本次可转债的股东应当回避。修正后的转股价格应不低于前项规定的股东大",
+  "anchor_count": 5,
+  "clause_score": 5,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": true,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   30,
+   15,
+   30,
+   20
+  ],
+  "ratio_candidates": [
+   "85",
+   "113"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "18.861",
+   "convert_price": "22.190"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "111024",
+  "bond_nm": "澳弘转债",
+  "stock_id": "605058",
+  "clause_found": true,
+  "snippet": "载明转股价格调整日、调整办法及暂停转股时期（如需）。当转股价格调整日为本次发行的可转债持有人转股申请日或之后，转换股份登记日之前，则该持有人的转股申请按发行人调整后的转股价格执行。当公司可能发生股份回购、合并、分立或任何其他情形使发行人股份类别、数量和/或股东权益发生变化从而可能影响本次发行的可转债持有人的债权利益或转股衍生权益时，发行人将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转债持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据当时国家有关法律法规及证券监管部门的相关规定来制订。10、转股价格向下修正条款（1）修正权限与修正幅度在本次发行的可转债存续期间，当公司股票在任意连续三十个交易日中至少十五个交易日的收盘价格低于当期转股价格的80%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会表决。该方案须经出席会议的股东所持表1-1-14常州澳弘电子股份有限公司向不特定对象发行可转换公司债券募集说明书决权的三分之二以上通过方可实施。股东大会进行表决时，持有本次发行可转债的股东应当回避。修正后的转股价格应不低于该次股东大会召开日前20个交易日",
+  "anchor_count": 3,
+  "clause_score": 6,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "分之二以上通过方可实施。股东大会进行表决时，持有本次发行可转债的股东应当回避。修正后的转股价格应不低于该次股东大会召开日前20个交易日公司股票交易均价和前一个交易日的公司股票交易均价，且修正后的价格不低于最近一期经审计的每股净资产值和股票面值。若在前述三十个交易日内发生过转股价格调整的情形，则在调整前的交易日按调整前的转股价格和收盘价格计",
+  "window_candidates": [
+   30,
+   15,
+   20,
+   30
+  ],
+  "ratio_candidates": [
+   "80"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.8"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 80,
+   "threshold_value": "26.832",
+   "convert_price": "33.540"
+  },
+  "llm_local_agree_net_asset": false
+ },
+ {
+  "bond_id": "111025",
+  "bond_nm": "圣泉转债",
+  "stock_id": "605589",
+  "clause_found": true,
+  "snippet": "转股价格执行。当公司可能发生股份回购、公司合并、分立或任何其他情形使公司股份类别、数量和/或股东权益发生变化从而可能影响本次发行的可转债持有人的债权利益或转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护可转债持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据届时有效的法律法规及证券监管部门的相关规定予以制定。根据《可转换公司债券管理办法》规定，本次发行的可转债的转股价格不得向上修正。（九）转股价格向下修正条款1、修正条件及修正幅度在本次发行的可转债存续期内，当公司股票在任意连续三十个交易日中至少有十五个交易日的收盘价格低于当期转股价格的85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会审议表决。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价格计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价格计算。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有本次发行的可转债的股东应当回避。修正后的转股价格1-1-24济南圣泉集团股份有限公",
+  "anchor_count": 5,
+  "clause_score": 6,
+  "avg_20_basis": "均价",
+  "avg_1_basis": null,
+  "uses_higher": true,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "避。修正后的转股价格1-1-24济南圣泉集团股份有限公司向不特定对象发行可转换公司债券募集说明书应不低于该次股东大会召开日前二十个交易日公司股票交易均价和前一交易日公司股票交易均价之间的较高者，且不得低于最近一期经审计的每股净资产和股票面值。2、修正程序如公司股东大会审议通过向下修正转股价格，公司将在符合中国证监会规定的上市公司信息披露媒",
+  "window_candidates": [
+   30,
+   15,
+   30,
+   20
+  ],
+  "ratio_candidates": [
+   "85"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "36.023",
+   "convert_price": "42.380"
+  },
+  "llm_local_agree_net_asset": false
+ },
+ {
+  "bond_id": "111026",
+  "bond_nm": "派克转债",
+  "stock_id": "605123",
+  "clause_found": true,
+  "snippet": "为本次发行的可转债持有人转股申请日或之后、转换股票登记日之前，则该持有人的转股申请按公司调整后的转股价格执行。当公司可能发生股份回购、公司合并、分立或任何其他情形使公司股份类别、数量和/或股东权益发生变化从而可能影响本次发行的可转债持有人的债权利益或转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护可转债持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据届时有效的法律法规及证券监管部门的相关规定予以制定。9、转股价格向下修正条款（1）修正条件与修正幅度在本次发行的可转债存续期内，当公司股票在任意连续三十个交易日中至少有十五个交易日的收盘价格低于当期转股价格的85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东会审议表决。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价格计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价格计算。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东会进行表决时，持有本次发行的可转债的股东应当回避。修正后的转股价格应不低于该次股东会",
+  "anchor_count": 8,
+  "clause_score": 4,
+  "avg_20_basis": "均价",
+  "avg_1_basis": null,
+  "uses_higher": true,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   30,
+   15,
+   30,
+   20
+  ],
+  "ratio_candidates": [
+   "85",
+   "110"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "69.105",
+   "convert_price": "81.300"
+  },
+  "llm_local_agree_net_asset": true
+ },
+ {
+  "bond_id": "113043",
+  "bond_nm": "财通转债",
+  "stock_id": "601108",
+  "clause_found": true,
+  "snippet": "，并在中国证券监督管理委员会指定的上市公司信息披露媒体上刊登转股价格调整公告，并于公告中载明转股价格调整日、调整办法及暂停转股时期（如需）。当转股价格调整日为本次发行的可转债持有人转股申请日或之后，转换股份登记日之前，则该持有人的转股申请按公司调整后的转股价格执行。当公司可能发生股份回购、合并、分立或任何其他情形使公司股份类别、数量和/或股东权益发生变化从而可能影响本次发行的可转债持有人的债权利益或转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转债持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据届时国家有关法律法规及证券监管机构的相关规定制订。9、转股价格向下修正条款（1）修正权限与修正幅度在本次发行的可转债存续期间，当公司A股股票在任意连续三十个交易日中有十五个交易日的收盘价低于当期转股价格的80%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会审议表决。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有本次发行的可转债的股东应当回避。修正后的转股价格应不低于审议上述方案的股东大会",
+  "anchor_count": 5,
+  "clause_score": 6,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "三分之二以上通过方可实施。股东大会进行表决时，持有本次发行的可转债的股东应当回避。修正后的转股价格应不低于审议上述方案的股东大会召开日前三十个交易日、前二十个交易日和前一个交易日公司A股股票交易均价，以及最近一期经审计的每股净资产和股票面值。若在前述三十个交易日内发生过因除权、除息等引起公司转股价格调整的情形，则在转股价格调整日前的交易日",
+  "window_candidates": [
+   30,
+   15,
+   30,
+   20
+  ],
+  "ratio_candidates": [
+   "80"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_30_trading_days_average",
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.8"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 80,
+   "threshold_value": "6.384",
+   "convert_price": "7.980"
+  },
+  "llm_local_agree_net_asset": false
+ },
+ {
+  "bond_id": "113052",
+  "bond_nm": "兴业转债",
+  "stock_id": "601166",
+  "clause_found": true,
+  "snippet": "转股衍生权益时，公司将视具体情况按照公平、公正、公允的原则以及充分保护本次发行的可转债持有人权益的原则调整转股价格。有关转股价格调整的内容及操作办法将依据当时国家有关法律法规及证券监管部门的相关规定来制订。9、转股价格向下修正条款（1）修正权限与修正幅度在本次发行的可转债存续期间，当公司A股股票在任意连续三十个交易日中有十五个交易日的收盘价低于当期转股价格的80%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会审议表决。若在上述交易日内发生过因除权、除息等引起公司转股价格调整的情形，则21兴业银行股份有限公司公开发行A股可转换公司债券募集说明书在转股价格调整日前的交易日按调整前的转股价格和收盘价计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价计算。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有本次发行的可转债的股东应当回避。修正后的转股价格应不低于审议上述方案的股东大会召开日前三十个交易日、前二十个交易日公司A股股票交易均价（若在该三十个交易日或二十个交易日内发生过因除权、除息引起股价调整的情形，则对调整前交易日的交易",
+  "anchor_count": 8,
+  "clause_score": 6,
+  "avg_20_basis": "均价",
+  "avg_1_basis": "均价",
+  "uses_higher": false,
+  "net_asset_floor": true,
+  "net_asset_floor_weak": true,
+  "par_value_floor": true,
+  "floor_evidence": "易均价（若在该三十个交易日或二十个交易日内发生过因除权、除息引起股价调整的情形，则对调整前交易日的交易价按经过相应除权、除息调整后的价格计算）和前一个交易日公司A股股票交易均价，同时修正后的转股价格不低于最近一期经审计的每股净资产（若自最近一期经审计的财务报告资产负债表日至审议上述方案的股东大会召开日期间发生送股、资本公积金转增股本或配股",
+  "window_candidates": [
+   30,
+   15,
+   30,
+   20
+  ],
+  "ratio_candidates": [
+   "80"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_30_trading_days_average",
+    "preceding_20_trading_days_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.8"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 80,
+   "threshold_value": "16.104",
+   "convert_price": "20.130"
+  },
+  "llm_local_agree_net_asset": false
+ },
+ {
+  "bond_id": "113053",
+  "bond_nm": "隆22转债",
+  "stock_id": "601012",
+  "clause_found": true,
+  "snippet": "的可转换公司债券持有人权益的原则调整转股价格。有关转股价格调整内容及操作办法将依据届时国家有关法律法规及证券监管部门的相关规定来制订。10、转股价格向下修正（1）修正权限与修正幅度在本次发行的可转换公司债券存续期间，当公司股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会表决。上述方案须经出席会议的股东所持表决权的三分之二以上通过方可实施。股东大会进行表决时，持有本次发行的可转换公司债券的股东应当回避。修正后的转股价格应不低于本次股东大会召开日前二十个交易日公司股票交易均价和前一交易日均价之间的较高者。若在前述三十个交易日内发生过转股价格调整的情形，则在转股价格调整日前的交易日按调整前的转股价格和收盘价计算，在转股价格调整日及之后的交易日按调整后的转股价格和收盘价计算。（2）修正程序如公司决定向下修正转股价格，公司将在中国证监会指定的上市公司信息披露媒体上刊登相关公告，公告修正幅度和暂停转股期间等有关信息。从转股价格修正日起，开始恢复转股申请并执行修正后的转股价格。若转股价格修正日为转股申请日或之后",
+  "anchor_count": 6,
+  "clause_score": 5,
+  "avg_20_basis": "均价",
+  "avg_1_basis": null,
+  "uses_higher": true,
+  "net_asset_floor": false,
+  "net_asset_floor_weak": false,
+  "par_value_floor": false,
+  "floor_evidence": null,
+  "window_candidates": [
+   30,
+   15,
+   20,
+   30
+  ],
+  "ratio_candidates": [
+   "85",
+   "107",
+   "130",
+   "130"
+  ],
+  "llm": {
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "UNKNOWN",
+   "par_value_floor_clause": "UNKNOWN",
+   "below_net_asset_contract_position": "UNKNOWN",
+   "observation_window": 30,
+   "trigger_ratio": "0.85"
+  },
+  "jisilu": {
+   "adjust_price_ratio": 85,
+   "threshold_value": "14.875",
+   "convert_price": "17.500"
+  },
+  "llm_local_agree_net_asset": true
+ }
+]

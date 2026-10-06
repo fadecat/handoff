@@ -1,0 +1,476 @@
+{
+ "bond_id": "127110",
+ "bond_nm": "广核转债",
+ "stock_id": "003816",
+ "stock_nm": "中国广核",
+ "source": {
+  "site": "CNINFO",
+  "discovered_from": "jisilu",
+  "title": "向不特定对象发行A股可转换公司债券并在主板上市募集说明书",
+  "official_pdf_url": "https://static.cninfo.com.cn/finalpage/2025-07-07/1224085611.PDF",
+  "artifact_id": "sha256:75fa092f8977b004f1976ef0be5de2a8320fd89de53c84a2ce24c4a1c4cd4b10:10021840",
+  "sha256": "75fa092f8977b004f1976ef0be5de2a8320fd89de53c84a2ce24c4a1c4cd4b10",
+  "content_length": 10021840,
+  "archive_path": "C:\\Users\\hc\\Desktop\\web\\.workbuddy\\datasets\\prospectus-lean\\archive\\127110.pdf",
+  "selected_pages": [
+   1,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   36,
+   37,
+   38,
+   42,
+   43,
+   44,
+   54,
+   55,
+   56,
+   57
+  ]
+ },
+ "status": "SUCCESS",
+ "extraction_profile": "STABLE_CONTRACT_FIELDS_V1",
+ "model": "deepseek-chat",
+ "terms": {
+  "down_revision": {
+   "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+   "bondholder_abstention_required": null,
+   "meeting_price_bases": [
+    "preceding_20_trading_days_average",
+    "preceding_one_trading_day_average"
+   ],
+   "net_asset_floor_clause": "PRESENT",
+   "observation_window": 30,
+   "par_value_floor_clause": "PRESENT",
+   "required_days": 15,
+   "shareholder_vote_approval_denominator": null,
+   "shareholder_vote_approval_numerator": null,
+   "trigger_ratio": "0.85"
+  },
+  "put": {
+   "accrued_interest_rule": "当期应计利息的计算方式参见第（十二）条赎回条款的相关内容",
+   "annual_exercise_limit": "在每年回售条件首次满足后可按上述约定条件行使回售权一次",
+   "eligible_period_last_n": 2,
+   "eligible_period_rule": "LAST_N_COUPON_YEARS",
+   "observation_window": null,
+   "proceeds_use_change_put_clause": "PRESENT",
+   "put_price_rule": "按债券面值加上当期应计利息的价格回售给公司",
+   "required_days": null,
+   "trigger_ratio": null
+  }
+ },
+ "data_gaps": [
+  {
+   "field_path": "down_revision.bondholder_abstention_required",
+   "reason": "The supplied pages state that shareholders holding the convertible bonds shall abstain, but do not state whether bondholder abstention is required."
+  },
+  {
+   "field_path": "down_revision.shareholder_vote_approval_denominator",
+   "reason": "The supplied pages state a two-thirds approval threshold but do not state the denominator as a numeric count."
+  },
+  {
+   "field_path": "down_revision.shareholder_vote_approval_numerator",
+   "reason": "The supplied pages state a two-thirds approval threshold but do not state the numerator as a numeric count."
+  },
+  {
+   "field_path": "put.observation_window",
+   "reason": "The supplied pages state a continuous thirty trading day condition for the put but do not separately state an observation_window integer."
+  },
+  {
+   "field_path": "put.required_days",
+   "reason": "The supplied pages state a continuous thirty trading day condition for the put but do not separately state a required_days integer."
+  },
+  {
+   "field_path": "put.trigger_ratio",
+   "reason": "The supplied pages state the put trigger as 70% of the current conversion price, but the schema requires a ratio and the supplied pages do not provide a separate ratio value."
+  }
+ ],
+ "not_extracted_count": 22,
+ "raw": {
+  "bond_code": "127110",
+  "data_gaps": [
+   {
+    "field_path": "down_revision.adjustment_day_treatment",
+    "reason": "The supplied pages describe the down-revision trigger and adjustment mechanics but do not state a discrete adjustment_day_treatment value."
+   },
+   {
+    "field_path": "down_revision.bondholder_abstention_required",
+    "reason": "The supplied pages state that shareholders holding the convertible bonds shall abstain, but do not state whether bondholder abstention is required."
+   },
+   {
+    "field_path": "down_revision.shareholder_vote_approval_denominator",
+    "reason": "The supplied pages state a two-thirds approval threshold but do not state the denominator as a numeric count."
+   },
+   {
+    "field_path": "down_revision.shareholder_vote_approval_numerator",
+    "reason": "The supplied pages state a two-thirds approval threshold but do not state the numerator as a numeric count."
+   },
+   {
+    "field_path": "put.observation_window",
+    "reason": "The supplied pages state a continuous thirty trading day condition for the put but do not separately state an observation_window integer."
+   },
+   {
+    "field_path": "put.required_days",
+    "reason": "The supplied pages state a continuous thirty trading day condition for the put but do not separately state a required_days integer."
+   },
+   {
+    "field_path": "put.trigger_ratio",
+    "reason": "The supplied pages state the put trigger as 70% of the current conversion price, but the schema requires a ratio and the supplied pages do not provide a separate ratio value."
+   },
+   {
+    "field_path": "redemption.observation_window",
+    "reason": "The supplied pages state a continuous thirty trading day condition for conditional redemption but do not separately state an observation_window integer."
+   },
+   {
+    "field_path": "redemption.required_days",
+    "reason": "The supplied pages state a continuous thirty trading day condition for conditional redemption but do not separately state a required_days integer."
+   },
+   {
+    "field_path": "redemption.trigger_ratio",
+    "reason": "The supplied pages state the conditional redemption trigger as 130% of the current conversion price, but the schema requires a ratio and the supplied pages do not provide a separate ratio value."
+   },
+   {
+    "field_path": "redemption.maturity_redemption_window_days",
+    "reason": "The supplied pages state redemption within five trading days after maturity but do not state a numeric maturity_redemption_window_days."
+   },
+   {
+    "field_path": "payment.issue_principal",
+    "reason": "The supplied pages state the total raised amount as RMB 490,000.00万元 but do not state the issue principal in yuan as a canonical decimal string."
+   },
+   {
+    "field_path": "payment.denomination",
+    "reason": "The supplied pages state a face value of RMB 100 per bond but do not state denomination in yuan as a canonical decimal string."
+   },
+   {
+    "field_path": "payment.term_years",
+    "reason": "The supplied pages state a six-year term but do not state term_years as an integer."
+   },
+   {
+    "field_path": "payment.payment_frequency_per_year",
+    "reason": "The supplied pages state annual interest payment but do not state payment_frequency_per_year as an integer."
+   },
+   {
+    "field_path": "payment.maturity_price_includes_final_interest",
+    "reason": "The supplied pages state the maturity redemption price includes the final interest but do not state a boolean value."
+   },
+   {
+    "field_path": "conversion.contractual_period_start",
+    "reason": "The supplied pages state the conversion period begins six months after issuance ends but do not state the contractual_period_start date."
+   },
+   {
+    "field_path": "conversion.period_end",
+    "reason": "The supplied pages state the conversion period ends on the convertible bond maturity date but do not state the period_end date."
+   }
+  ],
+  "evidence": [
+   {
+    "field_path": "down_revision.observation_window",
+    "page_number": 30,
+    "excerpt": "在本次发行的 A 股可转换公司债券存续期间，当公司 A 股股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的 85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会及类别股东大会审议表决。",
+    "value_surface": "三十"
+   },
+   {
+    "field_path": "down_revision.required_days",
+    "page_number": 30,
+    "excerpt": "在本次发行的 A 股可转换公司债券存续期间，当公司 A 股股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的 85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会及类别股东大会审议表决。",
+    "value_surface": "十五"
+   },
+   {
+    "field_path": "down_revision.trigger_ratio",
+    "page_number": 30,
+    "excerpt": "在本次发行的 A 股可转换公司债券存续期间，当公司 A 股股票在任意连续三十个交易日中至少有十五个交易日的收盘价低于当期转股价格的 85%时，公司董事会有权提出转股价格向下修正方案并提交公司股东大会及类别股东大会审议表决。",
+    "value_surface": "85%"
+   },
+   {
+    "field_path": "down_revision.meeting_price_bases[0]",
+    "page_number": 30,
+    "excerpt": "上述方案须分别经出席股东大会及类别股东大会的股东所持表决权的三分之二以上通过方可实施。股东大会及类别股东大会进行表决时，持有本次发行的 A 股可转换公司债券的股东应当回避。修正后的转股价格应不低于该次股东大会及类别股东大会召开日前二十个交易日公司 A 股股票交易均价和前一交易日均价之间的较高者。同时，修正后的转股价格不得低于最近一期经审计的每股净资产值和股票面值。",
+    "value_surface": "前二十个交易日公司 A 股股票交易均价"
+   },
+   {
+    "field_path": "down_revision.meeting_price_bases[1]",
+    "page_number": 30,
+    "excerpt": "上述方案须分别经出席股东大会及类别股东大会的股东所持表决权的三分之二以上通过方可实施。股东大会及类别股东大会进行表决时，持有本次发行的 A 股可转换公司债券的股东应当回避。修正后的转股价格应不低于该次股东大会及类别股东大会召开日前二十个交易日公司 A 股股票交易均价和前一交易日均价之间的较高者。同时，修正后的转股价格不得低于最近一期经审计的每股净资产值和股票面值。",
+    "value_surface": "前一交易日均价"
+   },
+   {
+    "field_path": "down_revision.net_asset_floor_clause",
+    "page_number": 30,
+    "excerpt": "上述方案须分别经出席股东大会及类别股东大会的股东所持表决权的三分之二以上通过方可实施。股东大会及类别股东大会进行表决时，持有本次发行的 A 股可转换公司债券的股东应当回避。修正后的转股价格应不低于该次股东大会及类别股东大会召开日前二十个交易日公司 A 股股票交易均价和前一交易日均价之间的较高者。同时，修正后的转股价格不得低于最近一期经审计的每股净资产值和股票面值。",
+    "value_surface": "不得低于最近一期经审计的每股净资产值"
+   },
+   {
+    "field_path": "down_revision.par_value_floor_clause",
+    "page_number": 30,
+    "excerpt": "上述方案须分别经出席股东大会及类别股东大会的股东所持表决权的三分之二以上通过方可实施。股东大会及类别股东大会进行表决时，持有本次发行的 A 股可转换公司债券的股东应当回避。修正后的转股价格应不低于该次股东大会及类别股东大会召开日前二十个交易日公司 A 股股票交易均价和前一交易日均价之间的较高者。同时，修正后的转股价格不得低于最近一期经审计的每股净资产值和股票面值。",
+    "value_surface": "股票面值"
+   },
+   {
+    "field_path": "down_revision.below_net_asset_contract_position",
+    "page_number": 30,
+    "excerpt": "上述方案须分别经出席股东大会及类别股东大会的股东所持表决权的三分之二以上通过方可实施。股东大会及类别股东大会进行表决时，持有本次发行的 A 股可转换公司债券的股东应当回避。修正后的转股价格应不低于该次股东大会及类别股东大会召开日前二十个交易日公司 A 股股票交易均价和前一交易日均价之间的较高者。同时，修正后的转股价格不得低于最近一期经审计的每股净资产值和股票面值。",
+    "value_surface": "不得低于最近一期经审计的每股净资产值"
+   },
+   {
+    "field_path": "redemption.maturity_redemption_price_rule",
+    "page_number": 32,
+    "excerpt": "在本次 A 股可转债期满后五个交易日内，公司将按债券面值的 106%（含最后一期利息）的价格赎回未转股的可转债。",
+    "value_surface": "按债券面值的 106%（含最后一期利息）的价格赎回未转股的可转债"
+   },
+   {
+    "field_path": "redemption.accrued_interest_redemption_rule",
+    "page_number": 32,
+    "excerpt": "在本次发行的 A 股可转换公司债券转股期内，当下述两种情形的任意一种出现时，公司股东大会及类别股东大会授权的董事会（或其授权人士）有权决定按照债券面值加当期应计利息的价格赎回全部或部分未转股的可转换公司债券：",
+    "value_surface": "按照债券面值加当期应计利息的价格赎回"
+   },
+   {
+    "field_path": "redemption.outstanding_principal_threshold",
+    "page_number": 32,
+    "excerpt": "（2）当本次发行的 A 股可转换公司债券未转股余额不足 3,000 万元时。",
+    "value_surface": "3,000 万元"
+   },
+   {
+    "field_path": "put.eligible_period_rule",
+    "page_number": 32,
+    "excerpt": "在本次发行的 A 股可转换公司债券最后两个计息年度，如果公司 A 股股票",
+    "value_surface": "最后两个计息年度"
+   },
+   {
+    "field_path": "put.eligible_period_last_n",
+    "page_number": 32,
+    "excerpt": "在本次发行的 A 股可转换公司债券最后两个计息年度，如果公司 A 股股票",
+    "value_surface": "两个"
+   },
+   {
+    "field_path": "put.put_price_rule",
+    "page_number": 33,
+    "excerpt": "在任何连续三十个交易日的收盘价低于当期转股价格的 70%时，A 股可转换公司债券持有人有权将其持有的 A 股可转换公司债券全部或部分按债券面值加上当期应计利息的价格回售给公司。当期应计利息的计算方式参见第（十二）条赎回条款的相关内容。",
+    "value_surface": "按债券面值加上当期应计利息的价格回售给公司"
+   },
+   {
+    "field_path": "put.accrued_interest_rule",
+    "page_number": 33,
+    "excerpt": "在任何连续三十个交易日的收盘价低于当期转股价格的 70%时，A 股可转换公司债券持有人有权将其持有的 A 股可转换公司债券全部或部分按债券面值加上当期应计利息的价格回售给公司。当期应计利息的计算方式参见第（十二）条赎回条款的相关内容。",
+    "value_surface": "当期应计利息的计算方式参见第（十二）条赎回条款的相关内容"
+   },
+   {
+    "field_path": "put.annual_exercise_limit",
+    "page_number": 33,
+    "excerpt": "本次发行的 A 股可转换公司债券最后两个计息年度，A 股可转换公司债券持有人在每年回售条件首次满足后可按上述约定条件行使回售权一次，若在首次满足回售条件而 A 股可转换公司债券持有人未在公司届时公告的回售申报期内申报并实施回售的，该计息年度不应再行使回售权，A 股可转换公司债券持有人不能多次行使部分回售权。",
+    "value_surface": "在每年回售条件首次满足后可按上述约定条件行使回售权一次"
+   },
+   {
+    "field_path": "put.proceeds_use_change_put_clause",
+    "page_number": 33,
+    "excerpt": "若本次发行 A 股可转换公司债券募集资金运用的实施情况与公司在募集说明书中的承诺情况相比出现重大变化，且该变化被中国证监会或深圳证券交易所认定为改变募集资金用途的，A 股可转换公司债券持有人享有一次回售的权利。",
+    "value_surface": "A 股可转换公司债券持有人享有一次回售的权利"
+   },
+   {
+    "field_path": "payment.issue_date",
+    "page_number": 27,
+    "excerpt": "本次发行的 A 股可转换公司债券的期限为自发行之日起六年，即自 2025 年 7 月 9 日至 2031 年 7 月 8 日（如遇法定节假日或休息日延至其后的第 1 个工作日；顺延期间付息款项不另计息）。",
+    "value_surface": "2025 年 7 月 9 日"
+   },
+   {
+    "field_path": "payment.maturity_date",
+    "page_number": 27,
+    "excerpt": "本次发行的 A 股可转换公司债券的期限为自发行之日起六年，即自 2025 年 7 月 9 日至 2031 年 7 月 8 日（如遇法定节假日或休息日延至其后的第 1 个工作日；顺延期间付息款项不另计息）。",
+    "value_surface": "2031 年 7 月 8 日"
+   },
+   {
+    "field_path": "payment.holiday_deferral_rule",
+    "page_number": 27,
+    "excerpt": "本次发行的 A 股可转换公司债券的期限为自发行之日起六年，即自 2025 年 7 月 9 日至 2031 年 7 月 8 日（如遇法定节假日或休息日延至其后的第 1 个工作日；顺延期间付息款项不另计息）。",
+    "value_surface": "如遇法定节假日或休息日延至其后的第 1 个工作日；顺延期间付息款项不另计息"
+   },
+   {
+    "field_path": "payment.coupon_schedule[0].coupon_year",
+    "page_number": 27,
+    "excerpt": "第一年为 0.2%、第二年为 0.4%、第三年为 0.8%、第四年为 1.2%、第五年",
+    "value_surface": "第一年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[0].rate_percent",
+    "page_number": 27,
+    "excerpt": "第一年为 0.2%、第二年为 0.4%、第三年为 0.8%、第四年为 1.2%、第五年",
+    "value_surface": "0.2%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[1].coupon_year",
+    "page_number": 27,
+    "excerpt": "第一年为 0.2%、第二年为 0.4%、第三年为 0.8%、第四年为 1.2%、第五年",
+    "value_surface": "第二年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[1].rate_percent",
+    "page_number": 27,
+    "excerpt": "第一年为 0.2%、第二年为 0.4%、第三年为 0.8%、第四年为 1.2%、第五年",
+    "value_surface": "0.4%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[2].coupon_year",
+    "page_number": 27,
+    "excerpt": "第一年为 0.2%、第二年为 0.4%、第三年为 0.8%、第四年为 1.2%、第五年",
+    "value_surface": "第三年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[2].rate_percent",
+    "page_number": 27,
+    "excerpt": "第一年为 0.2%、第二年为 0.4%、第三年为 0.8%、第四年为 1.2%、第五年",
+    "value_surface": "0.8%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[3].coupon_year",
+    "page_number": 27,
+    "excerpt": "第一年为 0.2%、第二年为 0.4%、第三年为 0.8%、第四年为 1.2%、第五年",
+    "value_surface": "第四年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[3].rate_percent",
+    "page_number": 27,
+    "excerpt": "第一年为 0.2%、第二年为 0.4%、第三年为 0.8%、第四年为 1.2%、第五年",
+    "value_surface": "1.2%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[4].coupon_year",
+    "page_number": 27,
+    "excerpt": "第一年为 0.2%、第二年为 0.4%、第三年为 0.8%、第四年为 1.2%、第五年",
+    "value_surface": "第五年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[4].rate_percent",
+    "page_number": 28,
+    "excerpt": "为 1.6%、第六年为 2.0%。",
+    "value_surface": "1.6%"
+   },
+   {
+    "field_path": "payment.coupon_schedule[5].coupon_year",
+    "page_number": 28,
+    "excerpt": "为 1.6%、第六年为 2.0%。",
+    "value_surface": "第六年"
+   },
+   {
+    "field_path": "payment.coupon_schedule[5].rate_percent",
+    "page_number": 28,
+    "excerpt": "为 1.6%、第六年为 2.0%。",
+    "value_surface": "2.0%"
+   },
+   {
+    "field_path": "payment.maturity_redemption_price",
+    "page_number": 32,
+    "excerpt": "在本次 A 股可转债期满后五个交易日内，公司将按债券面值的 106%（含最后一期利息）的价格赎回未转股的可转债。",
+    "value_surface": "106%"
+   },
+   {
+    "field_path": "conversion.initial_conversion_price",
+    "page_number": 29,
+    "excerpt": "本次发行的 A 股可转债的初始转股价格为 3.67 元/股，不低于募集说明书公告日前二十个交易日公司 A 股股票交易均价（若在该二十个交易日内发生因除权、除息引起股价调整的情形，则对调整前交易日的交易均价按经过相应除权、除息调整后的价格计算）和前一个交易日公司 A 股股票交易均价之间的较高者，且不低于最近一期经审计的每股净资产和股票面值。",
+    "value_surface": "3.67 元/股"
+   },
+   {
+    "field_path": "conversion.initial_price_bases[0]",
+    "page_number": 29,
+    "excerpt": "本次发行的 A 股可转债的初始转股价格为 3.67 元/股，不低于募集说明书公告日前二十个交易日公司 A 股股票交易均价（若在该二十个交易日内发生因除权、除息引起股价调整的情形，则对调整前交易日的交易均价按经过相应除权、除息调整后的价格计算）和前一个交易日公司 A 股股票交易均价之间的较高者，且不低于最近一期经审计的每股净资产和股票面值。",
+    "value_surface": "前二十个交易日公司 A 股股票交易均价"
+   },
+   {
+    "field_path": "conversion.initial_price_bases[1]",
+    "page_number": 29,
+    "excerpt": "本次发行的 A 股可转债的初始转股价格为 3.67 元/股，不低于募集说明书公告日前二十个交易日公司 A 股股票交易均价（若在该二十个交易日内发生因除权、除息引起股价调整的情形，则对调整前交易日的交易均价按经过相应除权、除息调整后的价格计算）和前一个交易日公司 A 股股票交易均价之间的较高者，且不低于最近一期经审计的每股净资产和股票面值。",
+    "value_surface": "前一个交易日公司 A 股股票交易均价"
+   }
+  ],
+  "schema_version": "contract-terms-proposal:pdf-v1",
+  "terms": {
+   "conversion": {
+    "contractual_period_start": null,
+    "initial_conversion_price": "3.67",
+    "initial_price_bases": [
+     "preceding_20_trading_days_average",
+     "preceding_one_trading_day_average"
+    ],
+    "period_end": null
+   },
+   "down_revision": {
+    "adjustment_day_treatment": null,
+    "below_net_asset_contract_position": "PROHIBITED_BY_CONTRACT",
+    "bondholder_abstention_required": null,
+    "meeting_price_bases": [
+     "preceding_20_trading_days_average",
+     "preceding_one_trading_day_average"
+    ],
+    "net_asset_floor_clause": "PRESENT",
+    "observation_window": 30,
+    "par_value_floor_clause": "PRESENT",
+    "required_days": 15,
+    "shareholder_vote_approval_denominator": null,
+    "shareholder_vote_approval_numerator": null,
+    "trigger_ratio": "0.85"
+   },
+   "payment": {
+    "coupon_schedule": [
+     {
+      "coupon_year": 1,
+      "rate_percent": "0.2"
+     },
+     {
+      "coupon_year": 2,
+      "rate_percent": "0.4"
+     },
+     {
+      "coupon_year": 3,
+      "rate_percent": "0.8"
+     },
+     {
+      "coupon_year": 4,
+      "rate_percent": "1.2"
+     },
+     {
+      "coupon_year": 5,
+      "rate_percent": "1.6"
+     },
+     {
+      "coupon_year": 6,
+      "rate_percent": "2"
+     }
+    ],
+    "denomination": null,
+    "holiday_deferral_rule": "如遇法定节假日或休息日延至其后的第 1 个工作日；顺延期间付息款项不另计息",
+    "issue_date": "2025-07-09",
+    "issue_principal": null,
+    "maturity_date": "2031-07-08",
+    "maturity_price_includes_final_interest": null,
+    "maturity_redemption_price": "106",
+    "payment_frequency_per_year": null,
+    "term_years": null
+   },
+   "put": {
+    "accrued_interest_rule": "当期应计利息的计算方式参见第（十二）条赎回条款的相关内容",
+    "annual_exercise_limit": "在每年回售条件首次满足后可按上述约定条件行使回售权一次",
+    "eligible_period_last_n": 2,
+    "eligible_period_rule": "LAST_N_COUPON_YEARS",
+    "observation_window": null,
+    "proceeds_use_change_put_clause": "PRESENT",
+    "put_price_rule": "按债券面值加上当期应计利息的价格回售给公司",
+    "required_days": null,
+    "trigger_ratio": null
+   },
+   "redemption": {
+    "accrued_interest_redemption_rule": "按照债券面值加当期应计利息的价格赎回",
+    "maturity_redemption_price_rule": "按债券面值的 106%（含最后一期利息）的价格赎回未转股的可转债",
+    "maturity_redemption_window_days": null,
+    "observation_window": null,
+    "outstanding_principal_threshold": "30000000",
+    "required_days": null,
+    "trigger_ratio": null
+   }
+  }
+ }
+}
